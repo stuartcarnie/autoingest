@@ -72,5 +72,7 @@ if errormsg is None and response.status == httplib.OK:
     f.write(data)
     f.close()
     print ("downloaded %s" % filename)
-else:
+else if errormsg is not None:
     print errormsg
+else:
+    print response.status, response.reason
