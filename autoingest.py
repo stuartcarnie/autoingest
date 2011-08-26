@@ -20,7 +20,7 @@
 # OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 # THE SOFTWARE.
 
-import httplib, urllib, sys, argparse
+import httplib, urllib, sys, argparse, getpass
 from datetime import datetime
 from datetime import timedelta
 
@@ -41,7 +41,7 @@ def report_date(val):
 
 parser = argparse.ArgumentParser(description='iTunesConnect report download utility')
 parser.add_argument('-u', '--username', required=True, help='The user name you use to log into iTunes Connect')
-parser.add_argument('-p', '--password', required=True, help='The password you use to log into iTunes Connect')
+parser.add_argument('-p', '--password', help='The password you use to log into iTunes Connect; if omitted you will be prompted')
 parser.add_argument('--id', metavar='VENDOR_ID', required=True, help='A value in the form 8#######, which identifies the entity for the reports you wish to download')
 parser.add_argument('--reporttype', default='Sales', choices=['Sales'], help='This is the report type you want to download.  Currently only Sales Reports are available.')
 parser.add_argument('--datetype', default='Daily', choices=['Daily', 'Weekly'], help='Selecting Weekly will provide you the Weekly version of the report. Selecting Daily will provide you the Daily version of the report.')
@@ -49,6 +49,12 @@ parser.add_argument('--subtype', default='Summary', choices=['Summary', 'Opt-In'
 parser.add_argument('--date', metavar='YYYYMMDD', default='today', type=report_date, help='This is the date of report you are requesting. If the value for Date parameter is not provided, you will get the latest report available.')
 
 res = parser.parse_args()
+
+if res.password is None:
+    res.password = getpass.getpass()
+
+if res.password is None or len(res.password) == 0:
+    sys.exit(1)
 
 params = urllib.urlencode({
     'USERNAME': res.username, 
