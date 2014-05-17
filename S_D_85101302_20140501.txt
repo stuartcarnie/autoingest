@@ -1,0 +1,882 @@
+Provider	Provider Country	SKU	Developer	Title	Version	Product Type Identifier	Units	Developer Proceeds	Begin Date	End Date	Customer Currency	Country Code	Currency of Proceeds	Apple Identifier	Customer Price	Promo Code	Parent Identifier	Subscription	Period	Category
+APPLE	US	com.magshop.ns.okm.months.1.2	 	OK! Magazine Australia Subscription_200_30	 	IAY	1	6.36	05/01/2014	05/01/2014	AUD	AU	AUD	642291083	9.99	 	MAG0372.2	Renewal	1 Month	Entertainment
+APPLE	US	com.magshop.ns.adb.months.6.1	 	Australasian Dirt Bike Magazine Subscription_500_180	 	IAY	1	15.9	05/01/2014	05/01/2014	AUD	AU	AUD	642289692	24.99	 	MAG0031	Renewal	6 Months	Sports
+APPLE	US	MAG0352	PBL MEDIA PTY LTD.	Money Magazine Australia	1.3.5	7F	1	0	05/01/2014	05/01/2014	AUD	AU	AUD	574683215	0	 	 	 	 	Finance
+APPLE	US	MAG1273	PBL MEDIA PTY LTD.	recipes+ Magazine	1.3.5	1F	1	0	05/01/2014	05/01/2014	USD	LA	USD	574676839	0	 	 	 	 	Food & Drink
+APPLE	US	MAG1273	PBL MEDIA PTY LTD.	recipes+ Magazine	1.3.5	1F	1	0	05/01/2014	05/01/2014	USD	MD	USD	574676839	0	 	 	 	 	Food & Drink
+APPLE	US	MAG1273	PBL MEDIA PTY LTD.	recipes+ Magazine	1.3.5	7F	1	0	05/01/2014	05/01/2014	USD	KR	USD	574676839	0	 	 	 	 	Food & Drink
+APPLE	US	GTRG2014	PBL MEDIA PTY LTD.	GT 2014 Restaurant Guide	1.2.5	1	1	0	05/01/2014	05/01/2014	CHF	CH	CHF	705700418	0	 	 	 	 	Food & Drink
+APPLE	US	GTRG2014	PBL MEDIA PTY LTD.	GT 2014 Restaurant Guide	1.2.5	1	1	0	05/01/2014	05/01/2014	EUR	FR	EUR	705700418	0	 	 	 	 	Food & Drink
+APPLE	US	MAG0553	PBL MEDIA PTY LTD.	ZOO Weekly Australia	1.3.5	1F	1	0	05/01/2014	05/01/2014	ZAR	ZA	ZAR	622413964	0	 	 	 	 	Entertainment
+APPLE	US	MAG2181	PBL MEDIA PTY LTD.	World of Knowledge Magazine Australia	1.3.6	1F	5	0	05/01/2014	05/01/2014	AUD	AU	AUD	707996622	0	 	 	 	 	Education
+APPLE	US	com.magshop.ns.zoo.1401.1	 	ZOO Weekly 1401	 	IA1	1	1.9	05/01/2014	05/01/2014	AUD	AU	AUD	664947204	2.99	 	MAG0553	 	 	Entertainment
+APPLE	US	MAG0958	PBL MEDIA PTY LTD.	Cosmopolitan Australia	1.4.0	1F	225	0	05/01/2014	05/01/2014	AUD	AU	AUD	639978764	0	 	 	 	 	Lifestyle
+APPLE	US	MAG0031	PBL MEDIA PTY LTD.	Australasian Dirt Bike Magazine	1.3.5	1F	11	0	05/01/2014	05/01/2014	AUD	AU	AUD	639973451	0	 	 	 	 	Sports
+APPLE	US	ACP016	PBL MEDIA PTY LTD.	QANTAS Magazine	1.3.0	1T	2	0	05/01/2014	05/01/2014	USD	US	USD	501279725	0	 	 	 	 	Travel
+APPLE	US	au.com.bauermedia.wheels.2014.02.issue	 	Wheels 2014.02 - Feb issue	 	IA1	1	4.13	05/01/2014	05/01/2014	AUD	AU	AUD	648320130	6.49	 	SKU_Bauer_Wheels	 	 	Lifestyle
+APPLE	US	MAG0369	PBL MEDIA PTY LTD.	NW Magazine	1.3.5	1F	12	0	05/01/2014	05/01/2014	NZD	NZ	NZD	574650057	0	 	 	 	 	Entertainment
+APPLE	US	MAG0553	PBL MEDIA PTY LTD.	ZOO Weekly Australia	1.3.5	1F	1	0	05/01/2014	05/01/2014	USD	BR	USD	622413964	0	 	 	 	 	Entertainment
+APPLE	US	SKU_Bauer_WeightWatchers	PBL MEDIA PTY LTD.	Weight Watchers Magazine Australia	1.0.12	1T	1	0	05/01/2014	05/01/2014	EUR	DE	EUR	646610584	0	 	 	 	 	Health & Fitness
+APPLE	US	ACP_AWW_Recipes	PBL MEDIA PTY LTD.	The Australian Women's Weekly Cookbooks	2.2.1	1T	2	0	05/01/2014	05/01/2014	USD	US	USD	393065903	0	 	 	 	 	Food & Drink
+APPLE	US	MAG0430	PBL MEDIA PTY LTD.	Shop Til You Drop	1.3.5	1F	5	0	05/01/2014	05/01/2014	NZD	NZ	NZD	574686823	0	 	 	 	 	Lifestyle
+APPLE	US	MAG2068	PBL MEDIA PTY LTD.	Women's Fitness Magazine Australia	1.3.5	1F	1	0	05/01/2014	05/01/2014	JPY	JP	JPY	639975696	0	 	 	 	 	Health & Fitness
+APPLE	US	com.magshop.ns.new.1418.1	 	NW 1418	 	IA1	1	17500	05/01/2014	05/01/2014	IDR	ID	IDR	738227029	25000	 	MAG0369	 	 	Entertainment
+APPLE	US	SKU_Bauer_Australian_Geographic	PBL MEDIA PTY LTD.	Australian Geographic Magazine	1.0.16	1T	1	0	05/01/2014	05/01/2014	EUR	ES	EUR	661038898	0	 	 	 	 	Education
+APPLE	US	com.magshop.ns.rcp.months.12.1	 	recipes+ Subscription_600_365	 	IAY	1	11.2	05/01/2014	05/01/2014	USD	MY	USD	575093861	15.99	 	MAG1273	Renewal	1 Year	Food & Drink
+APPLE	US	ACP003	PBL MEDIA PTY LTD.	The Australian Women's Weekly	1.10.0	1T	1	0	05/01/2014	05/01/2014	INR	IN	INR	384025506	0	 	 	 	 	Entertainment
+APPLE	US	ACP003	PBL MEDIA PTY LTD.	The Australian Women's Weekly	1.10.0	7T	1	0	05/01/2014	05/01/2014	CNY	CN	CNY	384025506	0	 	 	 	 	Entertainment
+APPLE	US	MAG0372.2	PBL MEDIA PTY LTD.	OK! Magazine Australia	1.3.5	1F	12	0	05/01/2014	05/01/2014	AUD	AU	AUD	639977310	0	 	 	 	 	Entertainment
+APPLE	US	ACP_AWW_Recipes	PBL MEDIA PTY LTD.	The Australian Women's Weekly Cookbooks	2.2.1	7T	3	0	05/01/2014	05/01/2014	ZAR	ZA	ZAR	393065903	0	 	 	 	 	Food & Drink
+APPLE	US	ACP_AWW_Recipes	PBL MEDIA PTY LTD.	The Australian Women's Weekly Cookbooks	2.2.1	7T	2	0	05/01/2014	05/01/2014	EUR	ES	EUR	393065903	0	 	 	 	 	Food & Drink
+APPLE	US	ACP_AWW_Recipes	PBL MEDIA PTY LTD.	The Australian Women's Weekly Cookbooks	2.2.1	7T	3	0	05/01/2014	05/01/2014	USD	LB	USD	393065903	0	 	 	 	 	Food & Drink
+APPLE	US	ACP_AWW_Recipes	PBL MEDIA PTY LTD.	The Australian Women's Weekly Cookbooks	2.2.1	1T	4	0	05/01/2014	05/01/2014	CNY	CN	CNY	393065903	0	 	 	 	 	Food & Drink
+APPLE	US	com.magshop.ns.rcp.1404.1	 	Recipes+ 1404	 	IA1	1	2.09	05/01/2014	05/01/2014	NZD	NZ	NZD	765123861	2.99	 	MAG1273	 	 	Food & Drink
+APPLE	US	com.magshop.ns.rcp.1404.1	 	Recipes+ 1404	 	IA1	1	1.9	05/01/2014	05/01/2014	AUD	AU	AUD	765123861	2.99	 	MAG1273	 	 	Food & Drink
+APPLE	US	au.com.acpmagazines.gourmettraveller.2014.may	 	GT May 2014	 	IA1	1	3.5	05/01/2014	05/01/2014	USD	MY	USD	670868560	4.99	 	ACPGT001	 	 	Food & Drink
+APPLE	US	com.magshop.ns.dol.1405.1	 	Dolly 1405	 	IA1	1	3.49	05/01/2014	05/01/2014	NZD	NZ	NZD	643551408	4.99	 	MAG0184	 	 	Lifestyle
+APPLE	US	SKU_Bauer_TopGear	PBL MEDIA PTY LTD.	TopGear Australia Magazine	1.0.9	7T	1	0	05/01/2014	05/01/2014	USD	TH	USD	725842093	0	 	 	 	 	Lifestyle
+APPLE	US	SKU_Bauer_TopGear	PBL MEDIA PTY LTD.	TopGear Australia Magazine	1.0.9	7T	1	0	05/01/2014	05/01/2014	TWD	TW	TWD	725842093	0	 	 	 	 	Lifestyle
+APPLE	US	SKU_Bauer_TopGear	PBL MEDIA PTY LTD.	TopGear Australia Magazine	1.0.9	1T	1	0	05/01/2014	05/01/2014	EUR	NL	EUR	725842093	0	 	 	 	 	Lifestyle
+APPLE	US	MAG0410.1	PBL MEDIA PTY LTD.	Real Living Australia	1.3.8	1F	1	0	05/01/2014	05/01/2014	USD	CO	USD	823384894	0	 	 	 	 	Lifestyle
+APPLE	US	MAG0067	PBL MEDIA PTY LTD.	Australian Motorcycle News	1.3.5	1F	11	0	05/01/2014	05/01/2014	AUD	AU	AUD	598117425	0	 	 	 	 	Sports
+APPLE	US	com.magshop.rlw.1418.1	 	Rugby League Week 1418	 	IA1	1	17.5	05/01/2014	05/01/2014	CNY	CN	CNY	737568079	25	 	MAG0001	 	 	Lifestyle
+APPLE	US	MAG0559	PBL MEDIA PTY LTD.	HOME Magazine NZ	1.3.8	1F	4	0	05/01/2014	05/01/2014	CAD	CA	CAD	817999055	0	 	 	 	 	Lifestyle
+APPLE	US	MAG0559	PBL MEDIA PTY LTD.	HOME Magazine NZ	1.3.8	1F	1	0	05/01/2014	05/01/2014	USD	UY	USD	817999055	0	 	 	 	 	Lifestyle
+APPLE	US	BeautyBites_001	PBL MEDIA PTY LTD.	Beauty Bites	1.2.2	1	1	0	05/01/2014	05/01/2014	NZD	NZ	NZD	684585688	0	 	 	 	 	Lifestyle
+APPLE	US	au.com.acpmagazines.aww.subscriptions.1month	 	AWW Paid Subscription_200_30	 	IAY	1	1.82	05/01/2014	05/01/2014	EUR	IE	EUR	471819015	2.99	 	ACP003	Renewal	1 Month	Entertainment
+APPLE	US	au.com.acpmagazines.aww.subscriptions.1month	 	AWW Paid Subscription_200_30	 	IAY	3	2.79	05/01/2014	05/01/2014	SGD	SG	SGD	471819015	3.98	 	ACP003	Renewal	1 Month	Entertainment
+APPLE	US	com.magshop.hmg.1405.1	 	Real Living 2014-05	 	IA1	3	4.13	05/01/2014	05/01/2014	AUD	AU	AUD	802734345	6.49	 	MAG0001	 	 	Lifestyle
+APPLE	US	com.magshop.ns.zoo.1417.1	 	ZOO Weekly 1417	 	IA1	1	1.4	05/01/2014	05/01/2014	USD	US	USD	738259661	1.99	 	MAG0553	 	 	Entertainment
+APPLE	US	MAG0958	PBL MEDIA PTY LTD.	Cosmopolitan Australia	1.4.0	7F	1	0	05/01/2014	05/01/2014	EUR	AT	EUR	639978764	0	 	 	 	 	Lifestyle
+APPLE	US	com.magshop.ns.gme.months.1.1	 	Good Health Subscription_200_30	 	IAY	3	2.54	05/01/2014	05/01/2014	AUD	AU	AUD	575094511	3.99	 	MAG0253	Renewal	1 Month	Health & Fitness
+APPLE	US	MAG0204.1	PBL MEDIA PTY LTD.	Empire Australasia	1.3.8	1F	1	0	05/01/2014	05/01/2014	EUR	NL	EUR	823231884	0	 	 	 	 	Entertainment
+APPLE	US	MAG0204.1	PBL MEDIA PTY LTD.	Empire Australasia	1.3.8	1F	1	0	05/01/2014	05/01/2014	USD	KH	USD	823231884	0	 	 	 	 	Entertainment
+APPLE	US	MAG0410.1	PBL MEDIA PTY LTD.	Real Living Australia	1.3.8	1F	1	0	05/01/2014	05/01/2014	USD	KR	USD	823384894	0	 	 	 	 	Lifestyle
+APPLE	US	com.magshop.ns.wdw.1412.1	 	Woman's Day 1412	 	IA1	1	1.9	05/01/2014	05/01/2014	AUD	AU	AUD	797233316	2.99	 	MAG0536	 	 	Entertainment
+APPLE	US	MAG0430	PBL MEDIA PTY LTD.	Shop Til You Drop	1.3.5	1F	1	0	05/01/2014	05/01/2014	EUR	SK	EUR	574686823	0	 	 	 	 	Lifestyle
+APPLE	US	MAG0256	PBL MEDIA PTY LTD.	Gourmet Traveller WINE Magazine	1.3.5	1F	1	0	05/01/2014	05/01/2014	EUR	EE	EUR	639981929	0	 	 	 	 	Lifestyle
+APPLE	US	MAG0067	PBL MEDIA PTY LTD.	Australian Motorcycle News	1.3.5	1F	1	0	05/01/2014	05/01/2014	DKK	DK	DKK	598117425	0	 	 	 	 	Sports
+APPLE	US	MAG0067	PBL MEDIA PTY LTD.	Australian Motorcycle News	1.3.5	1F	2	0	05/01/2014	05/01/2014	GBP	GB	GBP	598117425	0	 	 	 	 	Sports
+APPLE	US	au.com.acpmagazines.gourmettraveller.subscriptions.2months	 	GT Paid Subscription_300_60	 	IAY	2	3.04	05/01/2014	05/01/2014	GBP	GB	GBP	471832469	4.99	 	ACPGT001	Renewal	2 Months	Food & Drink
+APPLE	US	NZ_CO_ACPMEDIA_KIAORA	PBL MEDIA PTY LTD.	KiaOra	1.6.4	1F	1	0	05/01/2014	05/01/2014	AUD	AU	AUD	385173690	0	 	 	 	 	Travel
+APPLE	US	NZ_CO_ACPMEDIA_KIAORA	PBL MEDIA PTY LTD.	KiaOra	1.6.4	1F	10	0	05/01/2014	05/01/2014	NZD	NZ	NZD	385173690	0	 	 	 	 	Travel
+APPLE	US	SKUTRADER_SupplyChainReview	PBL MEDIA PTY LTD.	Supply Chain Review (SCR) for iPad	1.0	1T	1	0	05/01/2014	05/01/2014	MXN	MX	MXN	561378101	0	 	 	 	 	News
+APPLE	US	com.magshop.ns.zoo.1318.1	 	ZOO Weekly 1318	 	IA1	1	2.1	05/01/2014	05/01/2014	USD	US	USD	622441285	2.99	 	MAG0553	 	 	Entertainment
+APPLE	US	com.magshop.ns.rcp.months.12.1	 	recipes+ Subscription_600_365	 	IAY	1	0	05/01/2014	05/01/2014	NZD	NZ	NZD	575093861	0	 	MAG1273	New	1 Year	Food & Drink
+APPLE	US	com.magshop.ns.rcp.months.12.1	 	recipes+ Subscription_600_365	 	IAY	1	0	05/01/2014	05/01/2014	AUD	AU	AUD	575093861	0	 	MAG1273	New	1 Year	Food & Drink
+APPLE	US	MAG0253	PBL MEDIA PTY LTD.	Good Health Magazine	1.3.5	1F	7	0	05/01/2014	05/01/2014	IDR	ID	IDR	574688852	0	 	 	 	 	Health & Fitness
+APPLE	US	au.com.acpmagazines.aww.subscriptions.1month	 	AWW Paid Subscription_200_30	 	IAY	51	2.54	05/01/2014	05/01/2014	AUD	AU	AUD	471819015	3.99	 	ACP003	Renewal	1 Month	Entertainment
+APPLE	US	com.magshop.amw.1409.1	 	Australian Motorcycle News 1409	 	IA1	1	4.19	05/01/2014	05/01/2014	NZD	NZ	NZD	734187161	5.99	 	MAG0001	 	 	Lifestyle
+APPLE	US	MAG0355	PBL MEDIA PTY LTD.	MOTOR Magazine Australia	1.3.5	7F	1	0	05/01/2014	05/01/2014	CNY	CN	CNY	639976688	0	 	 	 	 	Lifestyle
+APPLE	US	MAG0369	PBL MEDIA PTY LTD.	NW Magazine	1.3.5	1F	1	0	05/01/2014	05/01/2014	USD	KR	USD	574650057	0	 	 	 	 	Entertainment
+APPLE	US	MAG0369	PBL MEDIA PTY LTD.	NW Magazine	1.3.5	7F	1	0	05/01/2014	05/01/2014	USD	MY	USD	574650057	0	 	 	 	 	Entertainment
+APPLE	US	MAG0369	PBL MEDIA PTY LTD.	NW Magazine	1.3.5	1F	1	0	05/01/2014	05/01/2014	SAR	SA	SAR	574650057	0	 	 	 	 	Entertainment
+APPLE	US	au.com.acpmagazines.gourmettraveller.subscriptions.1year	 	GT Paid Subscription_600_365	 	IAY	9	25.45	05/01/2014	05/01/2014	AUD	AU	AUD	471832473	39.99	 	ACPGT001	Renewal	1 Year	Food & Drink
+APPLE	US	au.com.acpmagazines.awwrecipes.subscriptions.1mth	 	The Australian Women’s Weekly Cookbooks Subscriptions_200_30	 	IAY	1	55300	05/01/2014	05/01/2014	IDR	ID	IDR	617841288	79000	 	ACP_AWW_Recipes	Renewal	1 Month	Food & Drink
+APPLE	US	au.com.acpmagazines.aww.subscriptions.2months	 	AWW Paid Subscription_300_60	 	IAY	6	0	05/01/2014	05/01/2014	AUD	AU	AUD	471821181	0	 	ACP003	New	2 Months	Entertainment
+APPLE	US	MAG0559	PBL MEDIA PTY LTD.	HOME Magazine NZ	1.3.8	1F	2	0	05/01/2014	05/01/2014	EUR	PT	EUR	817999055	0	 	 	 	 	Lifestyle
+APPLE	US	com.magshop.ns.cbr.1403.2	 	Cosmo Bride 1403	 	IA1	1	6.36	05/01/2014	05/01/2014	AUD	AU	AUD	826151047	9.99	 	MAG1755.1	 	 	Lifestyle
+APPLE	US	com.magshop.ns.wdw.1416.1	 	Woman's Day 1416	 	IA1	1	1.9	05/01/2014	05/01/2014	AUD	AU	AUD	797269238	2.99	 	MAG0536	 	 	Entertainment
+APPLE	US	ACPGT001	PBL MEDIA PTY LTD.	Gourmet Traveller	1.10.0	1T	2	0	05/01/2014	05/01/2014	CNY	CN	CNY	374405599	0	 	 	 	 	Food & Drink
+APPLE	US	ACPGT001	PBL MEDIA PTY LTD.	Gourmet Traveller	1.10.0	1T	2	0	05/01/2014	05/01/2014	EUR	GR	EUR	374405599	0	 	 	 	 	Food & Drink
+APPLE	US	au.com.acpmagazines.gourmettraveller.subscriptions.1month	 	GT Paid Subscription_200_30	 	IAY	1	3.49	05/01/2014	05/01/2014	SGD	SG	SGD	471832348	4.98	 	ACPGT001	Renewal	1 Month	Food & Drink
+APPLE	US	com.magshop.ns.gme.months.12.1	 	Good Health Subscription_600_365	 	IAY	2	22.27	05/01/2014	05/01/2014	AUD	AU	AUD	575094513	34.99	 	MAG0253	Renewal	1 Year	Health & Fitness
+APPLE	US	au.com.acpmagazines.gourmettraveller.subscriptions.2months	 	GT Paid Subscription_300_60	 	IAY	1	0	05/01/2014	05/01/2014	AUD	AU	AUD	471832469	0	 	ACPGT001	New	2 Months	Food & Drink
+APPLE	US	MAG0421	PBL MEDIA PTY LTD.	Rugby League Week	1.3.7	1F	1	0	05/01/2014	05/01/2014	USD	US	USD	505309539	0	 	 	 	 	Sports
+APPLE	US	MAG0421	PBL MEDIA PTY LTD.	Rugby League Week	1.3.7	1F	1	0	05/01/2014	05/01/2014	USD	BR	USD	505309539	0	 	 	 	 	Sports
+APPLE	US	SKU_Bauer_WeightWatchers	PBL MEDIA PTY LTD.	Weight Watchers Magazine Australia	1.0.12	1T	16	0	05/01/2014	05/01/2014	AUD	AU	AUD	646610584	0	 	 	 	 	Health & Fitness
+APPLE	US	SKUTRADER_TradeABoat	PBL MEDIA PTY LTD.	Trade-A-Boat for iPad	1.0	1T	1	0	05/01/2014	05/01/2014	EUR	ES	EUR	561365874	0	 	 	 	 	News
+APPLE	US	com.magshop.ns.zoo.1415.1	 	ZOO Weekly 1415	 	IA1	1	1.4	05/01/2014	05/01/2014	USD	US	USD	738259656	1.99	 	MAG0553	 	 	Entertainment
+APPLE	US	ACPGT001	PBL MEDIA PTY LTD.	Gourmet Traveller	1.10.0	1T	3	0	05/01/2014	05/01/2014	USD	CO	USD	374405599	0	 	 	 	 	Food & Drink
+APPLE	US	MAG0053	PBL MEDIA PTY LTD.	Australian Geographic Outdoor Magazine	1.3.5	1F	3	0	05/01/2014	05/01/2014	JPY	JP	JPY	639977537	0	 	 	 	 	Lifestyle
+APPLE	US	com.mogeneration.acp.qantasmagazine.subscriptions.free	 	QANTAS Free sub	 	IAC	1	0	05/01/2014	05/01/2014	SGD	SG	SGD	501592717	0	 	ACP016	 	 	Travel
+APPLE	US	com.magshop.ns.shp.1409.1	 	Shop Til you Drop 1409	 	IA1	12	1.9	05/01/2014	05/01/2014	AUD	AU	AUD	823931494	2.99	 	MAG0430	 	 	Lifestyle
+APPLE	US	au.com.acpmagazines.gourmettraveller.subscriptions.1year	 	GT Paid Subscription_600_365	 	IAY	1	0	05/01/2014	05/01/2014	SGD	SG	SGD	471832473	0	 	ACPGT001	New	1 Year	Food & Drink
+APPLE	US	MAG0184	PBL MEDIA PTY LTD.	Dolly Magazine Australia	1.3.5	1F	6	0	05/01/2014	05/01/2014	CNY	CN	CNY	639967384	0	 	 	 	 	Lifestyle
+APPLE	US	com.magshop.ns.cos.months.6.1	 	Cosmopolitan Australia Subscription_500_180	 	IAY	1	0	05/01/2014	05/01/2014	AUD	AU	AUD	642292681	0	 	MAG0958	New	6 Months	Lifestyle
+APPLE	US	com.magshop.ns.mby.months.2.1	 	Mother & Baby Magazine Australia Subscription_300_60	 	IAY	2	2.54	05/01/2014	05/01/2014	AUD	AU	AUD	642294339	3.99	 	MAG0354	Renewal	2 Months	Lifestyle
+APPLE	US	NZ_CO_ACPMEDIA_KIAORA	PBL MEDIA PTY LTD.	KiaOra	1.6.4	1F	1	0	05/01/2014	05/01/2014	USD	TH	USD	385173690	0	 	 	 	 	Travel
+APPLE	US	MAG1755.1	PBL MEDIA PTY LTD.	Cosmopolitan Bride Magazine Australia	1.3.8	1F	1	0	05/01/2014	05/01/2014	USD	PH	USD	823254501	0	 	 	 	 	Lifestyle
+APPLE	US	MAG1755.1	PBL MEDIA PTY LTD.	Cosmopolitan Bride Magazine Australia	1.3.8	1F	1	0	05/01/2014	05/01/2014	HKD	HK	HKD	823254501	0	 	 	 	 	Lifestyle
+APPLE	US	MAG1755.1	PBL MEDIA PTY LTD.	Cosmopolitan Bride Magazine Australia	1.3.8	1F	1	0	05/01/2014	05/01/2014	USD	EG	USD	823254501	0	 	 	 	 	Lifestyle
+APPLE	US	com.magshop.ns.you.months.12.1	 	Yours Magazine  Subscription_600_365	 	IAY	1	0	05/01/2014	05/01/2014	AUD	AU	AUD	824470177	0	 	MAG2414	New	1 Year	Lifestyle
+APPLE	US	SKU_Bauer_Australian_Geographic	PBL MEDIA PTY LTD.	Australian Geographic Magazine	1.0.16	7T	1	0	05/01/2014	05/01/2014	USD	CL	USD	661038898	0	 	 	 	 	Education
+APPLE	US	SKU_Bauer_Australian_Geographic	PBL MEDIA PTY LTD.	Australian Geographic Magazine	1.0.16	1T	1	0	05/01/2014	05/01/2014	USD	CL	USD	661038898	0	 	 	 	 	Education
+APPLE	US	SKU_Bauer_HNG	PBL MEDIA PTY LTD.	Australian House & Garden Magazine	1.0.10	1T	1	0	05/01/2014	05/01/2014	ZAR	ZA	ZAR	735558949	0	 	 	 	 	Lifestyle
+APPLE	US	ACP_AWW_Recipes	PBL MEDIA PTY LTD.	The Australian Women's Weekly Cookbooks	2.2.1	1T	1	0	05/01/2014	05/01/2014	RUB	RU	RUB	393065903	0	 	 	 	 	Food & Drink
+APPLE	US	MAG2068	PBL MEDIA PTY LTD.	Women's Fitness Magazine Australia	1.3.5	1F	1	0	05/01/2014	05/01/2014	EUR	SK	EUR	639975696	0	 	 	 	 	Health & Fitness
+APPLE	US	MAG0256	PBL MEDIA PTY LTD.	Gourmet Traveller WINE Magazine	1.3.5	1F	5	0	05/01/2014	05/01/2014	AUD	AU	AUD	639981929	0	 	 	 	 	Lifestyle
+APPLE	US	au.com.bauermedia.ellemag.2013.10.issue	 	Elle 2013.10 - Oct issue	 	IA1	1	41300	05/01/2014	05/01/2014	IDR	ID	IDR	697996878	59000	 	SKU_Bauer_ElleMag	 	 	Lifestyle
+APPLE	US	MAG1273	PBL MEDIA PTY LTD.	recipes+ Magazine	1.3.5	1F	1	0	05/01/2014	05/01/2014	INR	IN	INR	574676839	0	 	 	 	 	Food & Drink
+APPLE	US	MAG1273	PBL MEDIA PTY LTD.	recipes+ Magazine	1.3.5	1F	1	0	05/01/2014	05/01/2014	USD	PK	USD	574676839	0	 	 	 	 	Food & Drink
+APPLE	US	MAG1273	PBL MEDIA PTY LTD.	recipes+ Magazine	1.3.5	1F	6	0	05/01/2014	05/01/2014	USD	PH	USD	574676839	0	 	 	 	 	Food & Drink
+APPLE	US	GTRG2014	PBL MEDIA PTY LTD.	GT 2014 Restaurant Guide	1.2.5	1	1	0	05/01/2014	05/01/2014	GBP	GB	GBP	705700418	0	 	 	 	 	Food & Drink
+APPLE	US	GTRG2014	PBL MEDIA PTY LTD.	GT 2014 Restaurant Guide	1.2.5	1	1	0	05/01/2014	05/01/2014	EUR	IT	EUR	705700418	0	 	 	 	 	Food & Drink
+APPLE	US	MAG0449	PBL MEDIA PTY LTD.	Street Machine Magazine	1.3.5	1F	1	0	05/01/2014	05/01/2014	EUR	BE	EUR	639978561	0	 	 	 	 	Lifestyle
+APPLE	US	MAG0553	PBL MEDIA PTY LTD.	ZOO Weekly Australia	1.3.5	1F	1	0	05/01/2014	05/01/2014	TRY	TR	TRY	622413964	0	 	 	 	 	Entertainment
+APPLE	US	MAG0553	PBL MEDIA PTY LTD.	ZOO Weekly Australia	1.3.5	1F	1	0	05/01/2014	05/01/2014	EUR	SK	EUR	622413964	0	 	 	 	 	Entertainment
+APPLE	US	au.com.bauermedia.wwmag.subscriptions.6mth	 	Weight Watchers Subscriptions_500_180	 	IAY	4	12.72	05/01/2014	05/01/2014	AUD	AU	AUD	646627179	19.99	 	SKU_Bauer_WeightWatchers	Renewal	6 Months	Health & Fitness
+APPLE	US	ACP016	PBL MEDIA PTY LTD.	QANTAS Magazine	1.3.0	1T	1	0	05/01/2014	05/01/2014	USD	BR	USD	501279725	0	 	 	 	 	Travel
+APPLE	US	MAG0369	PBL MEDIA PTY LTD.	NW Magazine	1.3.5	1F	43	0	05/01/2014	05/01/2014	AUD	AU	AUD	574650057	0	 	 	 	 	Entertainment
+APPLE	US	MAG0553	PBL MEDIA PTY LTD.	ZOO Weekly Australia	1.3.5	1F	1	0	05/01/2014	05/01/2014	USD	DO	USD	622413964	0	 	 	 	 	Entertainment
+APPLE	US	MAG1755.1	PBL MEDIA PTY LTD.	Cosmopolitan Bride Magazine Australia	1.3.8	1F	16	0	05/01/2014	05/01/2014	USD	US	USD	823254501	0	 	 	 	 	Lifestyle
+APPLE	US	au.com.bauermedia.wwmag.subscriptions.1mth	 	Weight Watchers Subscriptions_200_30	 	IAY	2	2.54	05/01/2014	05/01/2014	AUD	AU	AUD	646627178	3.99	 	SKU_Bauer_WeightWatchers	Renewal	1 Month	Health & Fitness
+APPLE	US	au.com.acpmagazines.aww.subscriptions.6months	 	AWW Paid Subscription_500_180	 	IAY	1	11.9	05/01/2014	05/01/2014	CAD	CA	CAD	471821269	16.99	 	ACP003	Renewal	6 Months	Entertainment
+APPLE	US	com.magshop.ns.wdw.months.1.1	 	Woman's Day Subscription_200_30	 	IAY	13	6.36	05/01/2014	05/01/2014	AUD	AU	AUD	547528605	9.99	 	MAG0536	Renewal	1 Month	Entertainment
+APPLE	US	MAG0004	PBL MEDIA PTY LTD.	4x4 Magazine Australia	1.3.5	1F	1	0	05/01/2014	05/01/2014	USD	CL	USD	639975024	0	 	 	 	 	Lifestyle
+APPLE	US	MAG0004	PBL MEDIA PTY LTD.	4x4 Magazine Australia	1.3.5	1F	2	0	05/01/2014	05/01/2014	USD	BR	USD	639975024	0	 	 	 	 	Lifestyle
+APPLE	US	SKU_Bauer_Australian_Geographic	PBL MEDIA PTY LTD.	Australian Geographic Magazine	1.0.16	1T	5	0	05/01/2014	05/01/2014	AUD	AU	AUD	661038898	0	 	 	 	 	Education
+APPLE	US	com.magshop.clo.1405.1	 	Cleo 2014-05	 	IA1	2	3.81	05/01/2014	05/01/2014	AUD	AU	AUD	734199449	5.99	 	MAG0001	 	 	Lifestyle
+APPLE	US	com.magshop.ns.aaa.1417.1	 	Auto Action 1417	 	IA1	1	3.18	05/01/2014	05/01/2014	AUD	AU	AUD	644113632	4.99	 	MAG0043	 	 	Sports
+APPLE	US	ACP003	PBL MEDIA PTY LTD.	The Australian Women's Weekly	1.10.0	1T	1	0	05/01/2014	05/01/2014	SEK	SE	SEK	384025506	0	 	 	 	 	Entertainment
+APPLE	US	ACP_AWW_Recipes	PBL MEDIA PTY LTD.	The Australian Women's Weekly Cookbooks	2.2.1	7T	2	0	05/01/2014	05/01/2014	EUR	NL	EUR	393065903	0	 	 	 	 	Food & Drink
+APPLE	US	ACP_AWW_Recipes	PBL MEDIA PTY LTD.	The Australian Women's Weekly Cookbooks	2.2.1	7T	1	0	05/01/2014	05/01/2014	SAR	SA	SAR	393065903	0	 	 	 	 	Food & Drink
+APPLE	US	com.magshop.ns.dol.1312.1	 	Dolly 1312	 	IA1	-1	2.8	05/01/2014	05/01/2014	CAD	CA	CAD	643549410	-3.99	 	MAG0184	 	 	Lifestyle
+APPLE	US	com.magshop.stm.1405.1	 	Street Machine 2014-05	 	IA1	1	5.72	05/01/2014	05/01/2014	AUD	AU	AUD	799046982	8.99	 	MAG0001	 	 	Lifestyle
+APPLE	US	au.com.acpmagazines.gourmettraveller.2014.may	 	GT May 2014	 	IA1	1	19.6	05/01/2014	05/01/2014	NOK	NO	NOK	670868560	35	 	ACPGT001	 	 	Food & Drink
+APPLE	US	com.magshop.qlh.1401.1	 	Queensland Homes 1401	 	IA1	1	2.41	05/01/2014	05/01/2014	AUD	AU	AUD	817939886	3.79	 	MAG0001	 	 	Lifestyle
+APPLE	US	com.magshop.ns.new.months.1.1	 	NW Subscription_200_30	 	IAY	3	6.36	05/01/2014	05/01/2014	AUD	AU	AUD	575081143	9.99	 	MAG0369	Renewal	1 Month	Entertainment
+APPLE	US	au.com.bauermedia.wwmag.subscriptions.1yr	 	Weight Watchers Subscriptions_600_365	 	IAY	2	24.18	05/01/2014	05/01/2014	AUD	AU	AUD	646627181	37.99	 	SKU_Bauer_WeightWatchers	Renewal	1 Year	Health & Fitness
+APPLE	US	MAG2414	PBL MEDIA PTY LTD.	Yours Magazine Australia	1.3.8	1F	2	0	05/01/2014	05/01/2014	CNY	CN	CNY	813441022	0	 	 	 	 	Lifestyle
+APPLE	US	com.magshop.ns.mon.1404.1	 	Money 1404	 	IA1	2	3.81	05/01/2014	05/01/2014	AUD	AU	AUD	738220801	5.99	 	MAG0352	 	 	Finance
+APPLE	US	SKU_Bauer_TopGear	PBL MEDIA PTY LTD.	TopGear Australia Magazine	1.0.9	7T	1	0	05/01/2014	05/01/2014	USD	PK	USD	725842093	0	 	 	 	 	Lifestyle
+APPLE	US	ACP003	PBL MEDIA PTY LTD.	The Australian Women's Weekly	1.10.0	7T	10	0	05/01/2014	05/01/2014	NZD	NZ	NZD	384025506	0	 	 	 	 	Entertainment
+APPLE	US	ACP003	PBL MEDIA PTY LTD.	The Australian Women's Weekly	1.10.0	1T	17	0	05/01/2014	05/01/2014	NZD	NZ	NZD	384025506	0	 	 	 	 	Entertainment
+APPLE	US	com.magshop.ns.shp.months.1.1	 	Shop Til You Drop Subscription_200_30	 	IAY	2	0	05/01/2014	05/01/2014	AUD	AU	AUD	575093867	0	 	MAG0430	New	1 Month	Lifestyle
+APPLE	US	com.magshop.ns.cos.1404.1	 	Cosmopolitan 1404	 	IA1	1	3.81	05/01/2014	05/01/2014	AUD	AU	AUD	643555159	5.99	 	MAG0958	 	 	Lifestyle
+APPLE	US	MAG0352	PBL MEDIA PTY LTD.	Money Magazine Australia	1.3.5	7F	1	0	05/01/2014	05/01/2014	USD	US	USD	574683215	0	 	 	 	 	Finance
+APPLE	US	SKU_Bauer_ElleMag	PBL MEDIA PTY LTD.	ELLE Australia	1.0.10	1T	2	0	05/01/2014	05/01/2014	EUR	IT	EUR	694551705	0	 	 	 	 	Lifestyle
+APPLE	US	SKU_Bauer_ElleMag	PBL MEDIA PTY LTD.	ELLE Australia	1.0.10	7T	1	0	05/01/2014	05/01/2014	CNY	CN	CNY	694551705	0	 	 	 	 	Lifestyle
+APPLE	US	MAG0355	PBL MEDIA PTY LTD.	MOTOR Magazine Australia	1.3.5	1F	1	0	05/01/2014	05/01/2014	USD	US	USD	639976688	0	 	 	 	 	Lifestyle
+APPLE	US	au.com.acpmagazines.aww.subscriptions.1month	 	AWW Paid Subscription_200_30	 	IAY	1	1.21	05/01/2014	05/01/2014	GBP	GB	GBP	471819015	1.99	 	ACP003	Renewal	1 Month	Entertainment
+APPLE	US	com.magshop.ns.hmg.1405.3	 	HMG May 2014	 	IA1	1	3.81	05/01/2014	05/01/2014	AUD	AU	AUD	847128906	5.99	 	MAG0410.1	 	 	Lifestyle
+APPLE	US	MAG0256	PBL MEDIA PTY LTD.	Gourmet Traveller WINE Magazine	1.3.5	1F	2	0	05/01/2014	05/01/2014	USD	BR	USD	639981929	0	 	 	 	 	Lifestyle
+APPLE	US	MAG0004	PBL MEDIA PTY LTD.	4x4 Magazine Australia	1.3.5	1F	1	0	05/01/2014	05/01/2014	USD	PH	USD	639975024	0	 	 	 	 	Lifestyle
+APPLE	US	SKU_Bauer_WeightWatchers	PBL MEDIA PTY LTD.	Weight Watchers Magazine Australia	1.0.12	1T	1	0	05/01/2014	05/01/2014	USD	BR	USD	646610584	0	 	 	 	 	Health & Fitness
+APPLE	US	MAG0958	PBL MEDIA PTY LTD.	Cosmopolitan Australia	1.4.0	7F	1	0	05/01/2014	05/01/2014	ZAR	ZA	ZAR	639978764	0	 	 	 	 	Lifestyle
+APPLE	US	MAG0204.1	PBL MEDIA PTY LTD.	Empire Australasia	1.3.8	1F	2	0	05/01/2014	05/01/2014	TRY	TR	TRY	823231884	0	 	 	 	 	Entertainment
+APPLE	US	MAG0410.1	PBL MEDIA PTY LTD.	Real Living Australia	1.3.8	1F	1	0	05/01/2014	05/01/2014	USD	PH	USD	823384894	0	 	 	 	 	Lifestyle
+APPLE	US	MAG0410.1	PBL MEDIA PTY LTD.	Real Living Australia	1.3.8	1F	1	0	05/01/2014	05/01/2014	TWD	TW	TWD	823384894	0	 	 	 	 	Lifestyle
+APPLE	US	MAG0410.1	PBL MEDIA PTY LTD.	Real Living Australia	1.3.8	1F	1	0	05/01/2014	05/01/2014	EUR	PL	EUR	823384894	0	 	 	 	 	Lifestyle
+APPLE	US	com.magshop.ns.rcp.months.2.1	 	recipes+ Subscription_300_60	 	IAY	1	0	05/01/2014	05/01/2014	AUD	AU	AUD	575093860	0	 	MAG1273	New	2 Months	Food & Drink
+APPLE	US	MAG0184	PBL MEDIA PTY LTD.	Dolly Magazine Australia	1.3.5	1F	8	0	05/01/2014	05/01/2014	USD	US	USD	639967384	0	 	 	 	 	Lifestyle
+APPLE	US	MAG0067	PBL MEDIA PTY LTD.	Australian Motorcycle News	1.3.5	1F	2	0	05/01/2014	05/01/2014	USD	KR	USD	598117425	0	 	 	 	 	Sports
+APPLE	US	MAG0067	PBL MEDIA PTY LTD.	Australian Motorcycle News	1.3.5	1F	1	0	05/01/2014	05/01/2014	USD	KZ	USD	598117425	0	 	 	 	 	Sports
+APPLE	US	ACP016	PBL MEDIA PTY LTD.	QANTAS Magazine	1.3.0	7T	17	0	05/01/2014	05/01/2014	AUD	AU	AUD	501279725	0	 	 	 	 	Travel
+APPLE	US	com.magshop.ns.zoo.1327.1	 	ZOO Weekly 1327	 	IA1	1	2.1	05/01/2014	05/01/2014	USD	US	USD	630973572	2.99	 	MAG0553	 	 	Entertainment
+APPLE	US	MAG0553	PBL MEDIA PTY LTD.	ZOO Weekly Australia	1.3.5	7F	7	0	05/01/2014	05/01/2014	AUD	AU	AUD	622413964	0	 	 	 	 	Entertainment
+APPLE	US	au.com.acpmagazines.gourmettraveller.subscriptions.6months	 	GT Paid Subscription_500_180	 	IAY	1	110.6	05/01/2014	05/01/2014	HKD	HK	HKD	471832471	158	 	ACPGT001	Renewal	6 Months	Food & Drink
+APPLE	US	au.com.acpmagazines.gourmettraveller.subscriptions.6months	 	GT Paid Subscription_500_180	 	IAY	1	14	05/01/2014	05/01/2014	USD	PH	USD	471832471	19.99	 	ACPGT001	Renewal	6 Months	Food & Drink
+APPLE	US	com.magshop.ovx.1404.1	 	Oval Express 2014-04	 	IA1	1	4.77	05/01/2014	05/01/2014	AUD	AU	AUD	840629384	7.49	 	MAG0001	 	 	Lifestyle
+APPLE	US	au.com.bauermedia.australiangeographic.subscriptions.2mth	 	Aus Geo Subscriptions_300_60	 	IAY	2	4.77	05/01/2014	05/01/2014	AUD	AU	AUD	661958408	7.49	 	SKU_Bauer_Australian_Geographic	Renewal	2 Months	Education
+APPLE	US	MAG0369	PBL MEDIA PTY LTD.	NW Magazine	1.3.5	1F	1	0	05/01/2014	05/01/2014	CAD	CA	CAD	574650057	0	 	 	 	 	Entertainment
+APPLE	US	MAG0253	PBL MEDIA PTY LTD.	Good Health Magazine	1.3.5	1F	3	0	05/01/2014	05/01/2014	HKD	HK	HKD	574688852	0	 	 	 	 	Health & Fitness
+APPLE	US	au.com.acpmagazines.aww.subscriptions.1month	 	AWW Paid Subscription_200_30	 	IAY	7	0	05/01/2014	05/01/2014	AUD	AU	AUD	471819015	0	 	ACP003	New	1 Month	Entertainment
+APPLE	US	com.magshop.ns.aaa.months.1.1	 	Auto Action Magazine Australia Subscription_200_30	 	IAY	1	0	05/01/2014	05/01/2014	AUD	AU	AUD	642293478	0	 	MAG0043	New	1 Month	Sports
+APPLE	US	MAG0369	PBL MEDIA PTY LTD.	NW Magazine	1.3.5	1F	1	0	05/01/2014	05/01/2014	CHF	CH	CHF	574650057	0	 	 	 	 	Entertainment
+APPLE	US	MAG0369	PBL MEDIA PTY LTD.	NW Magazine	1.3.5	7F	1	0	05/01/2014	05/01/2014	EUR	FR	EUR	574650057	0	 	 	 	 	Entertainment
+APPLE	US	MAG0369	PBL MEDIA PTY LTD.	NW Magazine	1.3.5	1F	1	0	05/01/2014	05/01/2014	EUR	FI	EUR	574650057	0	 	 	 	 	Entertainment
+APPLE	US	au.com.acpmagazines.aww.subscriptions.3months	 	AWW Paid Subscription_400_90	 	IAY	1	4.86	05/01/2014	05/01/2014	EUR	NL	EUR	471821185	7.99	 	ACP003	Renewal	3 Months	Entertainment
+APPLE	US	SKU_Bauer_Wheels	PBL MEDIA PTY LTD.	WHEELS AUSTRALIA MAGAZINE	1.0.10	7T	1	0	05/01/2014	05/01/2014	NOK	NO	NOK	617924139	0	 	 	 	 	Lifestyle
+APPLE	US	MAG0559	PBL MEDIA PTY LTD.	HOME Magazine NZ	1.3.8	1F	1	0	05/01/2014	05/01/2014	ZAR	ZA	ZAR	817999055	0	 	 	 	 	Lifestyle
+APPLE	US	MAG0559	PBL MEDIA PTY LTD.	HOME Magazine NZ	1.3.8	1F	1	0	05/01/2014	05/01/2014	EUR	IT	EUR	817999055	0	 	 	 	 	Lifestyle
+APPLE	US	MAG0559	PBL MEDIA PTY LTD.	HOME Magazine NZ	1.3.8	1F	1	0	05/01/2014	05/01/2014	USD	MY	USD	817999055	0	 	 	 	 	Lifestyle
+APPLE	US	MAG0559	PBL MEDIA PTY LTD.	HOME Magazine NZ	1.3.8	1F	1	0	05/01/2014	05/01/2014	TWD	TW	TWD	817999055	0	 	 	 	 	Lifestyle
+APPLE	US	au.com.acpmagazines.awwrecipes.christmascelebrations	 	Christmas Celebrations	 	IA1	1	62300	05/01/2014	05/01/2014	IDR	ID	IDR	657267325	89000	 	ACP_AWW_Recipes	 	 	Food & Drink
+APPLE	US	ACPGT001	PBL MEDIA PTY LTD.	Gourmet Traveller	1.10.0	1T	3	0	05/01/2014	05/01/2014	IDR	ID	IDR	374405599	0	 	 	 	 	Food & Drink
+APPLE	US	ACPGT001	PBL MEDIA PTY LTD.	Gourmet Traveller	1.10.0	1T	14	0	05/01/2014	05/01/2014	USD	TH	USD	374405599	0	 	 	 	 	Food & Drink
+APPLE	US	ACPGT001	PBL MEDIA PTY LTD.	Gourmet Traveller	1.10.0	1T	1	0	05/01/2014	05/01/2014	USD	KW	USD	374405599	0	 	 	 	 	Food & Drink
+APPLE	US	ACPGT001	PBL MEDIA PTY LTD.	Gourmet Traveller	1.10.0	1T	10	0	05/01/2014	05/01/2014	USD	MY	USD	374405599	0	 	 	 	 	Food & Drink
+APPLE	US	ACPGT001	PBL MEDIA PTY LTD.	Gourmet Traveller	1.10.0	7T	1	0	05/01/2014	05/01/2014	USD	MY	USD	374405599	0	 	 	 	 	Food & Drink
+APPLE	US	au.com.acpmagazines.aww.2014.february	 	AWW February 2014	 	IA1	1	3.81	05/01/2014	05/01/2014	AUD	AU	AUD	670870604	5.99	 	ACP003	 	 	Entertainment
+APPLE	US	au.com.acpmagazines.awwrecipes.cheatscakes	 	Cheat’s Cakes	 	IA1	1	6.36	05/01/2014	05/01/2014	AUD	AU	AUD	737534109	9.99	 	ACP_AWW_Recipes	 	 	Food & Drink
+APPLE	US	com.magshop.ns.fbf.1403.1	 	4x4 1403	 	IA1	1	4.77	05/01/2014	05/01/2014	AUD	AU	AUD	645797124	7.49	 	MAG0004	 	 	Lifestyle
+APPLE	US	au.com.acpmagazines.gourmettraveller.subscriptions.1month	 	GT Paid Subscription_200_30	 	IAY	1	1.52	05/01/2014	05/01/2014	GBP	GB	GBP	471832348	2.49	 	ACPGT001	Renewal	1 Month	Food & Drink
+APPLE	US	au.com.acpmagazines.gourmettraveller.subscriptions.1month	 	GT Paid Subscription_200_30	 	IAY	1	0	05/01/2014	05/01/2014	USD	MY	USD	471832348	0	 	ACPGT001	New	1 Month	Food & Drink
+APPLE	US	MAG0430	PBL MEDIA PTY LTD.	Shop Til You Drop	1.3.5	7F	1	0	05/01/2014	05/01/2014	CAD	CA	CAD	574686823	0	 	 	 	 	Lifestyle
+APPLE	US	au.com.acpmagazines.gourmettraveller.subscriptions.6months	 	GT Paid Subscription_500_180	 	IAY	1	181.3	05/01/2014	05/01/2014	MXN	MX	MXN	471832471	259	 	ACPGT001	Renewal	6 Months	Food & Drink
+APPLE	US	MAG0132	PBL MEDIA PTY LTD.	Cleo Magazine Australia	1.3.8	1F	1	0	05/01/2014	05/01/2014	CNY	CN	CNY	813461450	0	 	 	 	 	Lifestyle
+APPLE	US	com.magshop.amw.1408.1	 	Australian Motorcycle News 1408	 	IA1	1	2.8	05/01/2014	05/01/2014	CAD	CA	CAD	734187157	3.99	 	MAG0001	 	 	Lifestyle
+APPLE	US	com.magshop.ns.wdw.months.6.1	 	Woman's Day Subscription_500_180	 	IAY	2	31.81	05/01/2014	05/01/2014	AUD	AU	AUD	547528607	49.99	 	MAG0536	Renewal	6 Months	Entertainment
+APPLE	US	MAG0355	PBL MEDIA PTY LTD.	MOTOR Magazine Australia	1.3.5	7F	1	0	05/01/2014	05/01/2014	AUD	AU	AUD	639976688	0	 	 	 	 	Lifestyle
+APPLE	US	MAG562	PBL MEDIA PTY LTD.	Metro Magazine NZ	1.3.6	1F	4	0	05/01/2014	05/01/2014	NZD	NZ	NZD	707972675	0	 	 	 	 	Lifestyle
+APPLE	US	au.com.acpmagazines.gourmettraveller.subscriptions.1year	 	GT Paid Subscription_600_365	 	IAY	1	258300	05/01/2014	05/01/2014	IDR	ID	IDR	471832473	369000	 	ACPGT001	Renewal	1 Year	Food & Drink
+APPLE	US	com.magshop.ns.rol.1312.1	 	Rolling Stone 1312	 	IA1	1	3.81	05/01/2014	05/01/2014	AUD	AU	AUD	645397242	5.99	 	MAG0420	 	 	Music
+APPLE	US	MAG0536	PBL MEDIA PTY LTD.	Woman's Day	1.3.5	1F	1	0	05/01/2014	05/01/2014	HKD	HK	HKD	547520978	0	 	 	 	 	Entertainment
+APPLE	US	com.magshop.ear.1401.1	 	Earth Garden 2014-01	 	IA1	1	4.77	05/01/2014	05/01/2014	AUD	AU	AUD	827533523	7.49	 	MAG0001	 	 	Lifestyle
+APPLE	US	com.magshop.ns.mby.months.2.1	 	Mother & Baby Magazine Australia Subscription_300_60	 	IAY	1	0	05/01/2014	05/01/2014	AUD	AU	AUD	642294339	0	 	MAG0354	New	2 Months	Lifestyle
+APPLE	US	MAG1755.1	PBL MEDIA PTY LTD.	Cosmopolitan Bride Magazine Australia	1.3.8	1F	1	0	05/01/2014	05/01/2014	EUR	DE	EUR	823254501	0	 	 	 	 	Lifestyle
+APPLE	US	MAG1755.1	PBL MEDIA PTY LTD.	Cosmopolitan Bride Magazine Australia	1.3.8	1F	1	0	05/01/2014	05/01/2014	GBP	GB	GBP	823254501	0	 	 	 	 	Lifestyle
+APPLE	US	com.magshop.ns.fit.1405.1	 	Women's Fitness 1405	 	IA1	1	19.6	05/01/2014	05/01/2014	HKD	HK	HKD	645785712	28	 	MAG2068	 	 	Health & Fitness
+APPLE	US	com.magshop.ns.zoo.months.6.1	 	ZOO Subscription_500_180	 	IAY	2	28.63	05/01/2014	05/01/2014	AUD	AU	AUD	626545693	44.99	 	MAG0553	Renewal	6 Months	Entertainment
+APPLE	US	MAG0253	PBL MEDIA PTY LTD.	Good Health Magazine	1.3.5	1F	1	0	05/01/2014	05/01/2014	CAD	CA	CAD	574688852	0	 	 	 	 	Health & Fitness
+APPLE	US	au.com.acpmagazines.gourmettraveller.2010.october	 	Gourmet Traveller October 2010 Issue	 	IA1	1	4.2	05/01/2014	05/01/2014	USD	US	USD	385032154	5.99	 	ACPGT001	 	 	Food & Drink
+APPLE	US	SKU_Bauer_Australian_Geographic	PBL MEDIA PTY LTD.	Australian Geographic Magazine	1.0.16	1T	1	0	05/01/2014	05/01/2014	MXN	MX	MXN	661038898	0	 	 	 	 	Education
+APPLE	US	SKU_Bauer_HNG	PBL MEDIA PTY LTD.	Australian House & Garden Magazine	1.0.10	7T	1	0	05/01/2014	05/01/2014	TWD	TW	TWD	735558949	0	 	 	 	 	Lifestyle
+APPLE	US	ACP_AWW_Recipes	PBL MEDIA PTY LTD.	The Australian Women's Weekly Cookbooks	2.2.1	1T	1	0	05/01/2014	05/01/2014	INR	IN	INR	393065903	0	 	 	 	 	Food & Drink
+APPLE	US	au.com.acp.smarter.subscription.free	 	Smarter Free Subscription	 	IAC	1	0	05/01/2014	05/01/2014	AUD	AU	AUD	567645291	0	 	REDDOSMARTER01	 	 	Business
+APPLE	US	MAG0004	PBL MEDIA PTY LTD.	4x4 Magazine Australia	1.3.5	1F	30	0	05/01/2014	05/01/2014	AUD	AU	AUD	639975024	0	 	 	 	 	Lifestyle
+APPLE	US	com.magshop.ns.wow.1308.1	 	World of Knowledge 1308	 	IA1	1	3.18	05/01/2014	05/01/2014	AUD	AU	AUD	722573506	4.99	 	MAG2181	 	 	Education
+APPLE	US	au.com.dow.yearlysub	 	Deals On Wheels_600_365	 	IAY	1	69.99	05/01/2014	05/01/2014	AUD	AU	AUD	550918342	109.99	 	SKUTRADER_DealsOnWheels	Renewal	1 Year	News
+APPLE	US	MAG1273	PBL MEDIA PTY LTD.	recipes+ Magazine	1.3.5	1F	1	0	05/01/2014	05/01/2014	USD	KR	USD	574676839	0	 	 	 	 	Food & Drink
+APPLE	US	MAG1273	PBL MEDIA PTY LTD.	recipes+ Magazine	1.3.5	7F	2	0	05/01/2014	05/01/2014	SGD	SG	SGD	574676839	0	 	 	 	 	Food & Drink
+APPLE	US	com.magshop.qlh.1304.1	 	Queensland Homes 1304	 	IA1	1	2.41	05/01/2014	05/01/2014	AUD	AU	AUD	722629984	3.79	 	MAG0001	 	 	Lifestyle
+APPLE	US	MAG0553	PBL MEDIA PTY LTD.	ZOO Weekly Australia	1.3.5	1F	1	0	05/01/2014	05/01/2014	TWD	TW	TWD	622413964	0	 	 	 	 	Entertainment
+APPLE	US	MAG0553	PBL MEDIA PTY LTD.	ZOO Weekly Australia	1.3.5	1F	1	0	05/01/2014	05/01/2014	SEK	SE	SEK	622413964	0	 	 	 	 	Entertainment
+APPLE	US	MAG0553	PBL MEDIA PTY LTD.	ZOO Weekly Australia	1.3.5	1F	2	0	05/01/2014	05/01/2014	USD	VN	USD	622413964	0	 	 	 	 	Entertainment
+APPLE	US	MAG0553	PBL MEDIA PTY LTD.	ZOO Weekly Australia	1.3.5	1F	3	0	05/01/2014	05/01/2014	USD	TH	USD	622413964	0	 	 	 	 	Entertainment
+APPLE	US	MAG1273	PBL MEDIA PTY LTD.	recipes+ Magazine	1.3.5	1F	16	0	05/01/2014	05/01/2014	USD	US	USD	574676839	0	 	 	 	 	Food & Drink
+APPLE	US	au.com.acpmagazines.aww.subscriptions.6months	 	AWW Paid Subscription_500_180	 	IAY	9	13.99	05/01/2014	05/01/2014	AUD	AU	AUD	471821269	21.99	 	ACP003	Renewal	6 Months	Entertainment
+APPLE	US	com.mogeneration.acp.harpersbazaar.subscriptions3.1year	 	Harpers Auto Renewable Subs_600_365	 	IAY	1	3.49	05/01/2014	05/01/2014	NZD	NZ	NZD	497852766	4.99	 	ACP011	New	1 Year	Entertainment
+APPLE	US	MAG0553	PBL MEDIA PTY LTD.	ZOO Weekly Australia	1.3.5	1F	30	0	05/01/2014	05/01/2014	USD	US	USD	622413964	0	 	 	 	 	Entertainment
+APPLE	US	MAG0536	PBL MEDIA PTY LTD.	Woman's Day	1.3.5	1F	1	0	05/01/2014	05/01/2014	USD	US	USD	547520978	0	 	 	 	 	Entertainment
+APPLE	US	SKU_Bauer_WeightWatchers	PBL MEDIA PTY LTD.	Weight Watchers Magazine Australia	1.0.12	1T	1	0	05/01/2014	05/01/2014	ZAR	ZA	ZAR	646610584	0	 	 	 	 	Health & Fitness
+APPLE	US	SKU_Bauer_WeightWatchers	PBL MEDIA PTY LTD.	Weight Watchers Magazine Australia	1.0.12	1T	1	0	05/01/2014	05/01/2014	EUR	NL	EUR	646610584	0	 	 	 	 	Health & Fitness
+APPLE	US	SKU_Bauer_WeightWatchers	PBL MEDIA PTY LTD.	Weight Watchers Magazine Australia	1.0.12	1T	6	0	05/01/2014	05/01/2014	GBP	GB	GBP	646610584	0	 	 	 	 	Health & Fitness
+APPLE	US	SKU_Bauer_WeightWatchers	PBL MEDIA PTY LTD.	Weight Watchers Magazine Australia	1.0.12	7T	4	0	05/01/2014	05/01/2014	EUR	FR	EUR	646610584	0	 	 	 	 	Health & Fitness
+APPLE	US	SKU_Bauer_ElleMag	PBL MEDIA PTY LTD.	ELLE Australia	1.0.10	7T	53	0	05/01/2014	05/01/2014	AUD	AU	AUD	694551705	0	 	 	 	 	Lifestyle
+APPLE	US	ACP_AWW_Recipes	PBL MEDIA PTY LTD.	The Australian Women's Weekly Cookbooks	2.2.1	7T	8	0	05/01/2014	05/01/2014	USD	US	USD	393065903	0	 	 	 	 	Food & Drink
+APPLE	US	com.magshop.ns.rcp.months.2.1	 	recipes+ Subscription_300_60	 	IAY	1	2.1	05/01/2014	05/01/2014	USD	US	USD	575093860	2.99	 	MAG1273	Renewal	2 Months	Food & Drink
+APPLE	US	com.magshop.ns.zoo.1406.1	 	ZOO Weekly 1406	 	IA1	-1	17.49	05/01/2014	05/01/2014	ZAR	ZA	ZAR	738259601	-24.99	 	MAG0553	 	 	Entertainment
+APPLE	US	MAG2068	PBL MEDIA PTY LTD.	Women's Fitness Magazine Australia	1.3.5	1F	4	0	05/01/2014	05/01/2014	NZD	NZ	NZD	639975696	0	 	 	 	 	Health & Fitness
+APPLE	US	com.magshop.ns.zoo.1403.1	 	ZOO Weekly 1403	 	IA1	1	1.4	05/01/2014	05/01/2014	USD	US	USD	664947802	1.99	 	MAG0553	 	 	Entertainment
+APPLE	US	MAG0204.1	PBL MEDIA PTY LTD.	Empire Australasia	1.3.8	1F	1	0	05/01/2014	05/01/2014	JPY	JP	JPY	823231884	0	 	 	 	 	Entertainment
+APPLE	US	com.magshop.ns.cos.1405.1	 	Cosmopolitan 1405	 	IA1	1	2.43	05/01/2014	05/01/2014	EUR	FR	EUR	643555161	3.99	 	MAG0958	 	 	Lifestyle
+APPLE	US	SKU_Bauer_Australian_Geographic	PBL MEDIA PTY LTD.	Australian Geographic Magazine	1.0.16	7T	1	0	05/01/2014	05/01/2014	EUR	DE	EUR	661038898	0	 	 	 	 	Education
+APPLE	US	com.magshop.ns.rcp.1103.1	 	Recipes+ 1103	 	IA1	1	2.41	05/01/2014	05/01/2014	AUD	AU	AUD	575093061	3.79	 	MAG1273	 	 	Food & Drink
+APPLE	US	MAG0354	PBL MEDIA PTY LTD.	Mother & Baby Magazine Australia	1.3.5	1F	2	0	05/01/2014	05/01/2014	NZD	NZ	NZD	639982558	0	 	 	 	 	Lifestyle
+APPLE	US	au.com.bauermedia.wheels.2014.05.issue	 	Wheels 2014.05 - May issue	 	IA1	3	4.13	05/01/2014	05/01/2014	AUD	AU	AUD	648321612	6.49	 	SKU_Bauer_Wheels	 	 	Lifestyle
+APPLE	US	ACP_AWW_Recipes	PBL MEDIA PTY LTD.	The Australian Women's Weekly Cookbooks	2.2.1	1T	2	0	05/01/2014	05/01/2014	SGD	SG	SGD	393065903	0	 	 	 	 	Food & Drink
+APPLE	US	ACP_AWW_Recipes	PBL MEDIA PTY LTD.	The Australian Women's Weekly Cookbooks	2.2.1	7T	1	0	05/01/2014	05/01/2014	TWD	TW	TWD	393065903	0	 	 	 	 	Food & Drink
+APPLE	US	ACP_AWW_Recipes	PBL MEDIA PTY LTD.	The Australian Women's Weekly Cookbooks	2.2.1	1T	1	0	05/01/2014	05/01/2014	EUR	FR	EUR	393065903	0	 	 	 	 	Food & Drink
+APPLE	US	ACP_AWW_Recipes	PBL MEDIA PTY LTD.	The Australian Women's Weekly Cookbooks	2.2.1	7T	5	0	05/01/2014	05/01/2014	CNY	CN	CNY	393065903	0	 	 	 	 	Food & Drink
+APPLE	US	ACP_AWW_Recipes	PBL MEDIA PTY LTD.	The Australian Women's Weekly Cookbooks	2.2.1	1T	2	0	05/01/2014	05/01/2014	HKD	HK	HKD	393065903	0	 	 	 	 	Food & Drink
+APPLE	US	NZ_CO_ACPMEDIA_NORTHSOUTH	PBL MEDIA PTY LTD.	North & South	1.6.0	1F	1	0	05/01/2014	05/01/2014	NZD	NZ	NZD	378396346	0	 	 	 	 	Lifestyle
+APPLE	US	com.magshop.gme.1406.1	 	Good Health 2014-06	 	IA1	1	4.13	05/01/2014	05/01/2014	AUD	AU	AUD	802532053	6.49	 	MAG0001	 	 	Lifestyle
+APPLE	US	com.magshop.ns.cos.months.1.1	 	Cosmopolitan Australia Subscription_200_30	 	IAY	2	2.79	05/01/2014	05/01/2014	NZD	NZ	NZD	642292678	3.99	 	MAG0958	Renewal	1 Month	Lifestyle
+APPLE	US	MAG1273	PBL MEDIA PTY LTD.	recipes+ Magazine	1.3.5	1F	30	0	05/01/2014	05/01/2014	NZD	NZ	NZD	574676839	0	 	 	 	 	Food & Drink
+APPLE	US	com.magshop.ns.new.1417.1	 	NW 1417	 	IA1	2	1.9	05/01/2014	05/01/2014	AUD	AU	AUD	738227016	2.99	 	MAG0369	 	 	Entertainment
+APPLE	US	com.magshop.ns.clo.months.1.1	 	Cleo Magazine Australia Subscription_200_30	 	IAY	1	0	05/01/2014	05/01/2014	AUD	AU	AUD	821343039	0	 	MAG0132	New	1 Month	Lifestyle
+APPLE	US	com.magshop.ns.shp.1309.1	 	Shop Til you Drop 1309	 	IA1	1	0	05/01/2014	05/01/2014	GBP	GB	GBP	605602690	0	FREE	MAG0430	 	 	Lifestyle
+APPLE	US	com.magshop.ns.shp.months.1.1	 	Shop Til You Drop Subscription_200_30	 	IAY	1	0	05/01/2014	05/01/2014	NZD	NZ	NZD	575093867	0	 	MAG0430	New	1 Month	Lifestyle
+APPLE	US	SKU_Bauer_Indulge	PBL MEDIA PTY LTD.	Indulge 享受	1.0.4	1T	2	0	05/01/2014	05/01/2014	SGD	SG	SGD	749474890	0	 	 	 	 	Travel
+APPLE	US	MAG0067	PBL MEDIA PTY LTD.	Australian Motorcycle News	1.3.5	7F	2	0	05/01/2014	05/01/2014	AUD	AU	AUD	598117425	0	 	 	 	 	Sports
+APPLE	US	SKU_Bauer_ElleMag	PBL MEDIA PTY LTD.	ELLE Australia	1.0.10	7T	1	0	05/01/2014	05/01/2014	SAR	SA	SAR	694551705	0	 	 	 	 	Lifestyle
+APPLE	US	BeautyBites_001	PBL MEDIA PTY LTD.	Beauty Bites	1.2.2	1	17	0	05/01/2014	05/01/2014	AUD	AU	AUD	684585688	0	 	 	 	 	Lifestyle
+APPLE	US	SKU_Bauer_HNG	PBL MEDIA PTY LTD.	Australian House & Garden Magazine	1.0.10	7T	12	0	05/01/2014	05/01/2014	AUD	AU	AUD	735558949	0	 	 	 	 	Lifestyle
+APPLE	US	SKU_Bauer_HNG	PBL MEDIA PTY LTD.	Australian House & Garden Magazine	1.0.10	1T	12	0	05/01/2014	05/01/2014	AUD	AU	AUD	735558949	0	 	 	 	 	Lifestyle
+APPLE	US	SKU_Bauer_HNG	PBL MEDIA PTY LTD.	Australian House & Garden Magazine	1.0.10	1T	1	0	05/01/2014	05/01/2014	CAD	CA	CAD	735558949	0	 	 	 	 	Lifestyle
+APPLE	US	SKU_Bauer_Wheels	PBL MEDIA PTY LTD.	WHEELS AUSTRALIA MAGAZINE	1.0.10	1T	1	0	05/01/2014	05/01/2014	USD	US	USD	617924139	0	 	 	 	 	Lifestyle
+APPLE	US	MAG0256	PBL MEDIA PTY LTD.	Gourmet Traveller WINE Magazine	1.3.5	1F	1	0	05/01/2014	05/01/2014	USD	US	USD	639981929	0	 	 	 	 	Lifestyle
+APPLE	US	MAG0449	PBL MEDIA PTY LTD.	Street Machine Magazine	1.3.5	7F	1	0	05/01/2014	05/01/2014	AUD	AU	AUD	639978561	0	 	 	 	 	Lifestyle
+APPLE	US	MAG0449	PBL MEDIA PTY LTD.	Street Machine Magazine	1.3.5	1F	36	0	05/01/2014	05/01/2014	AUD	AU	AUD	639978561	0	 	 	 	 	Lifestyle
+APPLE	US	MAG0004	PBL MEDIA PTY LTD.	4x4 Magazine Australia	1.3.5	1F	1	0	05/01/2014	05/01/2014	EUR	ES	EUR	639975024	0	 	 	 	 	Lifestyle
+APPLE	US	MAG0004	PBL MEDIA PTY LTD.	4x4 Magazine Australia	1.3.5	1F	1	0	05/01/2014	05/01/2014	USD	MY	USD	639975024	0	 	 	 	 	Lifestyle
+APPLE	US	MAG0004	PBL MEDIA PTY LTD.	4x4 Magazine Australia	1.3.5	1F	1	0	05/01/2014	05/01/2014	IDR	ID	IDR	639975024	0	 	 	 	 	Lifestyle
+APPLE	US	MAG0958	PBL MEDIA PTY LTD.	Cosmopolitan Australia	1.4.0	1F	1	0	05/01/2014	05/01/2014	EUR	IT	EUR	639978764	0	 	 	 	 	Lifestyle
+APPLE	US	com.magshop.ns.shp.months.6.1	 	Shop Til You Drop Subscription_500_180	 	IAY	1	0	05/01/2014	05/01/2014	GBP	GB	GBP	575093868	0	 	MAG0430	New	6 Months	Lifestyle
+APPLE	US	au.com.acpmagazines.awwrecipes.2013.05.slowcooker3	 	Slow Cooker 3	 	IA1	1	6.36	05/01/2014	05/01/2014	AUD	AU	AUD	639502674	9.99	 	ACP_AWW_Recipes	 	 	Food & Drink
+APPLE	US	MAG0204.1	PBL MEDIA PTY LTD.	Empire Australasia	1.3.8	1F	5	0	05/01/2014	05/01/2014	CNY	CN	CNY	823231884	0	 	 	 	 	Entertainment
+APPLE	US	MAG0204.1	PBL MEDIA PTY LTD.	Empire Australasia	1.3.8	1F	1	0	05/01/2014	05/01/2014	TWD	TW	TWD	823231884	0	 	 	 	 	Entertainment
+APPLE	US	MAG0204.1	PBL MEDIA PTY LTD.	Empire Australasia	1.3.8	1F	1	0	05/01/2014	05/01/2014	IDR	ID	IDR	823231884	0	 	 	 	 	Entertainment
+APPLE	US	com.magshop.ns.rcp.months.2.1	 	recipes+ Subscription_300_60	 	IAY	3	2.54	05/01/2014	05/01/2014	AUD	AU	AUD	575093860	3.99	 	MAG1273	Renewal	2 Months	Food & Drink
+APPLE	US	com.magshop.ns.gme.1206.1	 	Good Health 1206	 	IA1	1	4.13	05/01/2014	05/01/2014	AUD	AU	AUD	575093573	6.49	 	MAG0253	 	 	Health & Fitness
+APPLE	US	MAG0184	PBL MEDIA PTY LTD.	Dolly Magazine Australia	1.3.5	1F	4	0	05/01/2014	05/01/2014	MXN	MX	MXN	639967384	0	 	 	 	 	Lifestyle
+APPLE	US	com.magshop.ns.okm.months.2.1	 	OK! Magazine Australia Subscription_300_60	 	IAY	1	11.45	05/01/2014	05/01/2014	AUD	AU	AUD	642291085	17.99	 	MAG0372.2	Renewal	2 Months	Entertainment
+APPLE	US	com.magshop.ns.okm.months.2.1	 	OK! Magazine Australia Subscription_300_60	 	IAY	1	0	05/01/2014	05/01/2014	AUD	AU	AUD	642291085	0	 	MAG0372.2	New	2 Months	Entertainment
+APPLE	US	MAG0067	PBL MEDIA PTY LTD.	Australian Motorcycle News	1.3.5	1F	1	0	05/01/2014	05/01/2014	USD	TH	USD	598117425	0	 	 	 	 	Sports
+APPLE	US	ACP016	PBL MEDIA PTY LTD.	QANTAS Magazine	1.3.0	1T	24	0	05/01/2014	05/01/2014	AUD	AU	AUD	501279725	0	 	 	 	 	Travel
+APPLE	US	SKUTRADER_SupplyChainReview	PBL MEDIA PTY LTD.	Supply Chain Review (SCR) for iPad	1.0	1T	1	0	05/01/2014	05/01/2014	USD	US	USD	561378101	0	 	 	 	 	News
+APPLE	US	com.magshop.okm.1420.1	 	OK! 1420	 	IA1	1	2.1	05/01/2014	05/01/2014	USD	US	USD	797856150	2.99	 	MAG0001	 	 	Lifestyle
+APPLE	US	com.magshop.ns.win.months.2.1	 	Gourmet Traveller WINE Magazine Subscription_300_60	 	IAY	1	3.81	05/01/2014	05/01/2014	AUD	AU	AUD	642293814	5.99	 	MAG0256	Renewal	2 Months	Lifestyle
+APPLE	US	au.com.acpmagazines.gourmettraveller.subscriptions.2months	 	GT Paid Subscription_300_60	 	IAY	1	4.9	05/01/2014	05/01/2014	CAD	CA	CAD	471832469	6.99	 	ACPGT001	Renewal	2 Months	Food & Drink
+APPLE	US	MAG0352	PBL MEDIA PTY LTD.	Money Magazine Australia	1.3.5	1F	1	0	05/01/2014	05/01/2014	CNY	CN	CNY	574683215	0	 	 	 	 	Finance
+APPLE	US	MAG0369	PBL MEDIA PTY LTD.	NW Magazine	1.3.5	1F	1	0	05/01/2014	05/01/2014	SEK	SE	SEK	574650057	0	 	 	 	 	Entertainment
+APPLE	US	au.com.bauermedia.ellemag.2014.04.issue	 	Elle 2014.04 - April issue	 	IA1	1	2.73	05/01/2014	05/01/2014	EUR	IT	EUR	804310258	4.49	 	SKU_Bauer_ElleMag	 	 	Lifestyle
+APPLE	US	MAG0559	PBL MEDIA PTY LTD.	HOME Magazine NZ	1.3.8	1F	2	0	05/01/2014	05/01/2014	SAR	SA	SAR	817999055	0	 	 	 	 	Lifestyle
+APPLE	US	ACPGT001	PBL MEDIA PTY LTD.	Gourmet Traveller	1.10.0	1T	1	0	05/01/2014	05/01/2014	EUR	ES	EUR	374405599	0	 	 	 	 	Food & Drink
+APPLE	US	ACPGT001	PBL MEDIA PTY LTD.	Gourmet Traveller	1.10.0	7T	2	0	05/01/2014	05/01/2014	USD	TH	USD	374405599	0	 	 	 	 	Food & Drink
+APPLE	US	ACPGT001	PBL MEDIA PTY LTD.	Gourmet Traveller	1.10.0	7T	1	0	05/01/2014	05/01/2014	USD	KR	USD	374405599	0	 	 	 	 	Food & Drink
+APPLE	US	ACPGT001	PBL MEDIA PTY LTD.	Gourmet Traveller	1.10.0	7T	1	0	05/01/2014	05/01/2014	EUR	RO	EUR	374405599	0	 	 	 	 	Food & Drink
+APPLE	US	ACPGT001	PBL MEDIA PTY LTD.	Gourmet Traveller	1.10.0	1T	1	0	05/01/2014	05/01/2014	EUR	LT	EUR	374405599	0	 	 	 	 	Food & Drink
+APPLE	US	ACPGT001	PBL MEDIA PTY LTD.	Gourmet Traveller	1.10.0	1T	6	0	05/01/2014	05/01/2014	SGD	SG	SGD	374405599	0	 	 	 	 	Food & Drink
+APPLE	US	com.magshop.ns.emp.months.6.2	 	Empire Australasia Subscription_500_180	 	IAY	1	0	05/01/2014	05/01/2014	EUR	NL	EUR	823372334	0	 	MAG0204.1	New	6 Months	Entertainment
+APPLE	US	com.magshop.ns.zoo.1409.1	 	ZOO Weekly 1409	 	IA1	3	1.9	05/01/2014	05/01/2014	AUD	AU	AUD	738259625	2.99	 	MAG0553	 	 	Entertainment
+APPLE	US	com.magshop.ns.fit.months.1.1	 	Women's Fitness Magazine Australia Subscription_200_30	 	IAY	4	2.54	05/01/2014	05/01/2014	AUD	AU	AUD	642290332	3.99	 	MAG2068	Renewal	1 Month	Health & Fitness
+APPLE	US	au.com.ffm.monthlysub	 	Farms and Farm Machinery Monthly_200_30	 	IAY	1	4.2	05/01/2014	05/01/2014	USD	AR	USD	551198950	5.99	 	SKUTRADER_FarmsFM	Renewal	1 Month	News
+APPLE	US	MAG0067	PBL MEDIA PTY LTD.	Australian Motorcycle News	1.3.5	1F	10	0	05/01/2014	05/01/2014	USD	US	USD	598117425	0	 	 	 	 	Sports
+APPLE	US	MAG0421	PBL MEDIA PTY LTD.	Rugby League Week	1.3.7	1F	1	0	05/01/2014	05/01/2014	EUR	RO	EUR	505309539	0	 	 	 	 	Sports
+APPLE	US	MAG0421	PBL MEDIA PTY LTD.	Rugby League Week	1.3.7	7F	1	0	05/01/2014	05/01/2014	EUR	ES	EUR	505309539	0	 	 	 	 	Sports
+APPLE	US	SKUTRADER_TradeABoat	PBL MEDIA PTY LTD.	Trade-A-Boat for iPad	1.0	1T	1	0	05/01/2014	05/01/2014	GBP	GB	GBP	561365874	0	 	 	 	 	News
+APPLE	US	MAG0132	PBL MEDIA PTY LTD.	Cleo Magazine Australia	1.3.8	1F	2	0	05/01/2014	05/01/2014	EUR	DE	EUR	813461450	0	 	 	 	 	Lifestyle
+APPLE	US	ACPGT001	PBL MEDIA PTY LTD.	Gourmet Traveller	1.10.0	7T	2	0	05/01/2014	05/01/2014	USD	BR	USD	374405599	0	 	 	 	 	Food & Drink
+APPLE	US	com.magshop.ns.wdw.months.6.1	 	Woman's Day Subscription_500_180	 	IAY	1	0	05/01/2014	05/01/2014	AUD	AU	AUD	547528607	0	 	MAG0536	New	6 Months	Entertainment
+APPLE	US	MAG0355	PBL MEDIA PTY LTD.	MOTOR Magazine Australia	1.3.5	1F	28	0	05/01/2014	05/01/2014	AUD	AU	AUD	639976688	0	 	 	 	 	Lifestyle
+APPLE	US	MAG0001	PBL MEDIA PTY LTD.	Magshop	2.4.1	1F	2	0	05/01/2014	05/01/2014	USD	US	USD	378036778	0	 	 	 	 	Lifestyle
+APPLE	US	MAG0001	PBL MEDIA PTY LTD.	Magshop	2.4.1	1F	1	0	05/01/2014	05/01/2014	USD	BR	USD	378036778	0	 	 	 	 	Lifestyle
+APPLE	US	com.magshop.ns.new.1418.1	 	NW 1418	 	IA1	5	2.09	05/01/2014	05/01/2014	NZD	NZ	NZD	738227029	2.99	 	MAG0369	 	 	Entertainment
+APPLE	US	au.com.acpmagazines.gourmettraveller.subscriptions.1year	 	GT Paid Subscription_600_365	 	IAY	1	20.09	05/01/2014	05/01/2014	CHF	CH	CHF	471832473	31	 	ACPGT001	Renewal	1 Year	Food & Drink
+APPLE	US	com.magshop.ns.hmg.months.12.2	 	Real Living Australia Subscription_600_365	 	IAY	2	0	05/01/2014	05/01/2014	AUD	AU	AUD	823393687	0	 	MAG0410.1	New	1 Year	Lifestyle
+APPLE	US	MAG0184	PBL MEDIA PTY LTD.	Dolly Magazine Australia	1.3.5	1F	4	0	05/01/2014	05/01/2014	EUR	FR	EUR	639967384	0	 	 	 	 	Lifestyle
+APPLE	US	au.com.bauermedia.wwmag.2014.04.issue	 	WW Mag 2014.04 - Apr issue	 	IA1	1	3.49	05/01/2014	05/01/2014	NZD	NZ	NZD	648323706	4.99	 	SKU_Bauer_WeightWatchers	 	 	Health & Fitness
+APPLE	US	com.magshop.nas.1405.1	 	North & South 1405	 	IA1	1	3.5	05/01/2014	05/01/2014	USD	US	USD	813342001	4.99	 	MAG0001	 	 	Lifestyle
+APPLE	US	ACP016	PBL MEDIA PTY LTD.	QANTAS Magazine	1.3.0	1T	1	0	05/01/2014	05/01/2014	EUR	IT	EUR	501279725	0	 	 	 	 	Travel
+APPLE	US	MAG1755.1	PBL MEDIA PTY LTD.	Cosmopolitan Bride Magazine Australia	1.3.8	1F	2	0	05/01/2014	05/01/2014	IDR	ID	IDR	823254501	0	 	 	 	 	Lifestyle
+APPLE	US	au.com.bauermedia.topgear.subs.1yr	 	TopGear  Subscriptions_600_365	 	IAY	1	0	05/01/2014	05/01/2014	AUD	AU	AUD	725842342	0	 	SKU_Bauer_TopGear	New	1 Year	Lifestyle
+APPLE	US	com.mogeneration.acp.wheels.subscriptions.free	 	Free sub	 	IAC	2	0	05/01/2014	05/01/2014	AUD	AU	AUD	534038442	0	 	ACP013	 	 	Lifestyle
+APPLE	US	SKU_Bauer_Australian_Geographic	PBL MEDIA PTY LTD.	Australian Geographic Magazine	1.0.16	1T	1	0	05/01/2014	05/01/2014	USD	US	USD	661038898	0	 	 	 	 	Education
+APPLE	US	SKU_Bauer_HNG	PBL MEDIA PTY LTD.	Australian House & Garden Magazine	1.0.10	7T	1	0	05/01/2014	05/01/2014	CNY	CN	CNY	735558949	0	 	 	 	 	Lifestyle
+APPLE	US	au.com.acpmagazines.aww.2014.january	 	AWW January 2014	 	IA1	1	4.19	05/01/2014	05/01/2014	NZD	NZ	NZD	670870603	5.99	 	ACP003	 	 	Entertainment
+APPLE	US	ACP_AWW_Recipes	PBL MEDIA PTY LTD.	The Australian Women's Weekly Cookbooks	2.2.1	7T	1	0	05/01/2014	05/01/2014	EUR	GR	EUR	393065903	0	 	 	 	 	Food & Drink
+APPLE	US	ACP_AWW_Recipes	PBL MEDIA PTY LTD.	The Australian Women's Weekly Cookbooks	2.2.1	7T	3	0	05/01/2014	05/01/2014	EUR	IE	EUR	393065903	0	 	 	 	 	Food & Drink
+APPLE	US	MAG0053	PBL MEDIA PTY LTD.	Australian Geographic Outdoor Magazine	1.3.5	1F	10	0	05/01/2014	05/01/2014	CNY	CN	CNY	639977537	0	 	 	 	 	Lifestyle
+APPLE	US	MAG0053	PBL MEDIA PTY LTD.	Australian Geographic Outdoor Magazine	1.3.5	1F	1	0	05/01/2014	05/01/2014	EUR	FR	EUR	639977537	0	 	 	 	 	Lifestyle
+APPLE	US	au.com.bauermedia.ellemag.2014.05.issue	 	Elle 2014.05 - May issue	 	IA1	1	3.5	05/01/2014	05/01/2014	USD	BR	USD	804310057	4.99	 	SKU_Bauer_ElleMag	 	 	Lifestyle
+APPLE	US	MAG1273	PBL MEDIA PTY LTD.	recipes+ Magazine	1.3.5	1F	1	0	05/01/2014	05/01/2014	USD	TN	USD	574676839	0	 	 	 	 	Food & Drink
+APPLE	US	MAG0449	PBL MEDIA PTY LTD.	Street Machine Magazine	1.3.5	1F	1	0	05/01/2014	05/01/2014	EUR	DE	EUR	639978561	0	 	 	 	 	Lifestyle
+APPLE	US	com.magshop.ns.mon.months.6.1	 	Money Subscription_500_180	 	IAY	3	13.99	05/01/2014	05/01/2014	AUD	AU	AUD	575093468	21.99	 	MAG0352	Renewal	6 Months	Finance
+APPLE	US	com.magshop.ns.cbr.months.12.2	 	Cosmopolitan Bride Australia Subscription_600_365	 	IAY	1	19.08	05/01/2014	05/01/2014	AUD	AU	AUD	826160138	29.99	 	MAG1755.1	Renewal	1 Year	Lifestyle
+APPLE	US	MAG0553	PBL MEDIA PTY LTD.	ZOO Weekly Australia	1.3.5	1F	1	0	05/01/2014	05/01/2014	EUR	ES	EUR	622413964	0	 	 	 	 	Entertainment
+APPLE	US	MAG0553	PBL MEDIA PTY LTD.	ZOO Weekly Australia	1.3.5	1F	8	0	05/01/2014	05/01/2014	CNY	CN	CNY	622413964	0	 	 	 	 	Entertainment
+APPLE	US	MAG0553	PBL MEDIA PTY LTD.	ZOO Weekly Australia	1.3.5	1F	1	0	05/01/2014	05/01/2014	EUR	IT	EUR	622413964	0	 	 	 	 	Entertainment
+APPLE	US	MAG0553	PBL MEDIA PTY LTD.	ZOO Weekly Australia	1.3.5	1F	2	0	05/01/2014	05/01/2014	HKD	HK	HKD	622413964	0	 	 	 	 	Entertainment
+APPLE	US	au.com.bauermedia.wwmag.subscriptions.6mth	 	Weight Watchers Subscriptions_500_180	 	IAY	1	0	05/01/2014	05/01/2014	AUD	AU	AUD	646627179	0	 	SKU_Bauer_WeightWatchers	New	6 Months	Health & Fitness
+APPLE	US	MAG2181	PBL MEDIA PTY LTD.	World of Knowledge Magazine Australia	1.3.6	1F	1	0	05/01/2014	05/01/2014	NZD	NZ	NZD	707996622	0	 	 	 	 	Education
+APPLE	US	MAG0958	PBL MEDIA PTY LTD.	Cosmopolitan Australia	1.4.0	1F	62	0	05/01/2014	05/01/2014	NZD	NZ	NZD	639978764	0	 	 	 	 	Lifestyle
+APPLE	US	ACP03	PBL MEDIA PTY LTD.	Myer Emporium	1.9.0	7T	5	0	05/01/2014	05/01/2014	AUD	AU	AUD	400191481	0	 	 	 	 	Lifestyle
+APPLE	US	ACP03	PBL MEDIA PTY LTD.	Myer Emporium	1.9.0	1T	15	0	05/01/2014	05/01/2014	AUD	AU	AUD	400191481	0	 	 	 	 	Lifestyle
+APPLE	US	MAG0369	PBL MEDIA PTY LTD.	NW Magazine	1.3.5	1F	1	0	05/01/2014	05/01/2014	JPY	JP	JPY	574650057	0	 	 	 	 	Entertainment
+APPLE	US	SKU_Bauer_WeightWatchers	PBL MEDIA PTY LTD.	Weight Watchers Magazine Australia	1.0.12	7T	2	0	05/01/2014	05/01/2014	CHF	CH	CHF	646610584	0	 	 	 	 	Health & Fitness
+APPLE	US	SKU_Bauer_WeightWatchers	PBL MEDIA PTY LTD.	Weight Watchers Magazine Australia	1.0.12	7T	1	0	05/01/2014	05/01/2014	EUR	GR	EUR	646610584	0	 	 	 	 	Health & Fitness
+APPLE	US	SKU_Bauer_WeightWatchers	PBL MEDIA PTY LTD.	Weight Watchers Magazine Australia	1.0.12	7T	2	0	05/01/2014	05/01/2014	EUR	BE	EUR	646610584	0	 	 	 	 	Health & Fitness
+APPLE	US	SKU_Bauer_WeightWatchers	PBL MEDIA PTY LTD.	Weight Watchers Magazine Australia	1.0.12	7T	1	0	05/01/2014	05/01/2014	USD	EG	USD	646610584	0	 	 	 	 	Health & Fitness
+APPLE	US	ACP_AWW_Recipes	PBL MEDIA PTY LTD.	The Australian Women's Weekly Cookbooks	2.2.1	7T	6	0	05/01/2014	05/01/2014	CAD	CA	CAD	393065903	0	 	 	 	 	Food & Drink
+APPLE	US	ACP_AWW_Recipes	PBL MEDIA PTY LTD.	The Australian Women's Weekly Cookbooks	2.2.1	1T	2	0	05/01/2014	05/01/2014	MXN	MX	MXN	393065903	0	 	 	 	 	Food & Drink
+APPLE	US	com.magshop.ns.wdw.months.1.1	 	Woman's Day Subscription_200_30	 	IAY	2	0	05/01/2014	05/01/2014	AUD	AU	AUD	547528605	0	 	MAG0536	New	1 Month	Entertainment
+APPLE	US	MAG1755.1	PBL MEDIA PTY LTD.	Cosmopolitan Bride Magazine Australia	1.3.8	1F	1	0	05/01/2014	05/01/2014	NZD	NZ	NZD	823254501	0	 	 	 	 	Lifestyle
+APPLE	US	BeautyBites_001	PBL MEDIA PTY LTD.	Beauty Bites	1.2.2	1	1	0	05/01/2014	05/01/2014	USD	US	USD	684585688	0	 	 	 	 	Lifestyle
+APPLE	US	SKU_Bauer_Australian_Geographic	PBL MEDIA PTY LTD.	Australian Geographic Magazine	1.0.16	7T	37	0	05/01/2014	05/01/2014	AUD	AU	AUD	661038898	0	 	 	 	 	Education
+APPLE	US	com.magshop.whe.1405.1	 	Wheels 2014-05	 	IA1	1	5.72	05/01/2014	05/01/2014	AUD	AU	AUD	738160091	8.99	 	MAG0001	 	 	Lifestyle
+APPLE	US	au.com.acpmagazines.gourmettraveller.2014.april	 	GT April 2014	 	IA1	1	4.13	05/01/2014	05/01/2014	AUD	AU	AUD	670868559	6.49	 	ACPGT001	 	 	Food & Drink
+APPLE	US	ACP003	PBL MEDIA PTY LTD.	The Australian Women's Weekly	1.10.0	7T	1	0	05/01/2014	05/01/2014	GBP	GB	GBP	384025506	0	 	 	 	 	Entertainment
+APPLE	US	ACP011	PBL MEDIA PTY LTD.	Harper’s BAZAAR Australia Runway Report	1.6.1	1T	14	0	05/01/2014	05/01/2014	AUD	AU	AUD	448250232	0	 	 	 	 	Entertainment
+APPLE	US	ACP_AWW_Recipes	PBL MEDIA PTY LTD.	The Australian Women's Weekly Cookbooks	2.2.1	7T	2	0	05/01/2014	05/01/2014	EUR	FR	EUR	393065903	0	 	 	 	 	Food & Drink
+APPLE	US	ACP_AWW_Recipes	PBL MEDIA PTY LTD.	The Australian Women's Weekly Cookbooks	2.2.1	7T	1	0	05/01/2014	05/01/2014	TRY	TR	TRY	393065903	0	 	 	 	 	Food & Drink
+APPLE	US	ACP_AWW_Recipes	PBL MEDIA PTY LTD.	The Australian Women's Weekly Cookbooks	2.2.1	1T	4	0	05/01/2014	05/01/2014	ZAR	ZA	ZAR	393065903	0	 	 	 	 	Food & Drink
+APPLE	US	ACP_AWW_Recipes	PBL MEDIA PTY LTD.	The Australian Women's Weekly Cookbooks	2.2.1	7T	1	0	05/01/2014	05/01/2014	EUR	LU	EUR	393065903	0	 	 	 	 	Food & Drink
+APPLE	US	au.com.acpmagazines.aww.2014.may	 	AWW May 2014	 	IA1	1	2.43	05/01/2014	05/01/2014	EUR	DE	EUR	670870608	3.99	 	ACP003	 	 	Entertainment
+APPLE	US	com.magshop.ns.cos.months.1.1	 	Cosmopolitan Australia Subscription_200_30	 	IAY	4	2.54	05/01/2014	05/01/2014	AUD	AU	AUD	642292678	3.99	 	MAG0958	Renewal	1 Month	Lifestyle
+APPLE	US	com.magshop.ns.dol.1404.1	 	Dolly 1404	 	IA1	1	3.18	05/01/2014	05/01/2014	AUD	AU	AUD	643550463	4.99	 	MAG0184	 	 	Lifestyle
+APPLE	US	com.magshop.ns.zoo.months.1.1	 	ZOO Subscription_200_30	 	IAY	2	4.9	05/01/2014	05/01/2014	USD	US	USD	626544914	6.99	 	MAG0553	Renewal	1 Month	Entertainment
+APPLE	US	MAG1273	PBL MEDIA PTY LTD.	recipes+ Magazine	1.3.5	7F	2	0	05/01/2014	05/01/2014	NZD	NZ	NZD	574676839	0	 	 	 	 	Food & Drink
+APPLE	US	com.magshop.ns.clo.1404.1	 	CLO 1404	 	IA1	1	3.81	05/01/2014	05/01/2014	AUD	AU	AUD	827609914	5.99	 	MAG0132	 	 	Lifestyle
+APPLE	US	com.magshop.ns.shp.months.12.1	 	Shop Til You Drop Subscription_600_365	 	IAY	1	31.81	05/01/2014	05/01/2014	AUD	AU	AUD	575094349	49.99	 	MAG0430	Renewal	1 Year	Lifestyle
+APPLE	US	SKU_Bauer_TopGear	PBL MEDIA PTY LTD.	TopGear Australia Magazine	1.0.9	7T	4	0	05/01/2014	05/01/2014	USD	NG	USD	725842093	0	 	 	 	 	Lifestyle
+APPLE	US	ACP003	PBL MEDIA PTY LTD.	The Australian Women's Weekly	1.10.0	7T	70	0	05/01/2014	05/01/2014	AUD	AU	AUD	384025506	0	 	 	 	 	Entertainment
+APPLE	US	MAG0410.1	PBL MEDIA PTY LTD.	Real Living Australia	1.3.8	1F	3	0	05/01/2014	05/01/2014	USD	US	USD	823384894	0	 	 	 	 	Lifestyle
+APPLE	US	MAG0410.1	PBL MEDIA PTY LTD.	Real Living Australia	1.3.8	1F	1	0	05/01/2014	05/01/2014	USD	BR	USD	823384894	0	 	 	 	 	Lifestyle
+APPLE	US	MAG0352	PBL MEDIA PTY LTD.	Money Magazine Australia	1.3.5	1F	1	0	05/01/2014	05/01/2014	USD	US	USD	574683215	0	 	 	 	 	Finance
+APPLE	US	BeautyBites_001	PBL MEDIA PTY LTD.	Beauty Bites	1.2.2	7	2	0	05/01/2014	05/01/2014	AUD	AU	AUD	684585688	0	 	 	 	 	Lifestyle
+APPLE	US	SKU_Bauer_HNG	PBL MEDIA PTY LTD.	Australian House & Garden Magazine	1.0.10	1T	2	0	05/01/2014	05/01/2014	NZD	NZ	NZD	735558949	0	 	 	 	 	Lifestyle
+APPLE	US	MAG0043	PBL MEDIA PTY LTD.	Auto Action Magazine Australia	1.3.5	1F	9	0	05/01/2014	05/01/2014	AUD	AU	AUD	639980943	0	 	 	 	 	Sports
+APPLE	US	au.com.bauermedia.ellemag.2014.05.issue	 	Elle 2014.05 - May issue	 	IA1	1	2.73	05/01/2014	05/01/2014	EUR	IE	EUR	804310057	4.49	 	SKU_Bauer_ElleMag	 	 	Lifestyle
+APPLE	US	com.magshop.ns.win.1404.1	 	Wine 1404	 	IA1	1	3.5	05/01/2014	05/01/2014	CAD	CA	CAD	645422234	4.99	 	MAG0256	 	 	Lifestyle
+APPLE	US	MAG0449	PBL MEDIA PTY LTD.	Street Machine Magazine	1.3.5	1F	5	0	05/01/2014	05/01/2014	NZD	NZ	NZD	639978561	0	 	 	 	 	Lifestyle
+APPLE	US	com.magshop.clo.1405.1	 	Cleo 2014-05	 	IA1	1	1.52	05/01/2014	05/01/2014	GBP	GB	GBP	734199449	2.49	 	MAG0001	 	 	Lifestyle
+APPLE	US	au.com.acpmagazines.gourmettraveller.subscriptions.3months	 	GT Paid Subscription_400_90	 	IAY	2	9.09	05/01/2014	05/01/2014	NZD	NZ	NZD	471832470	12.99	 	ACPGT001	Renewal	3 Months	Food & Drink
+APPLE	US	com.magshop.ns.gme.1406.1	 	Good Health 1406	 	IA1	1	2.8	05/01/2014	05/01/2014	USD	US	USD	775599485	3.99	 	MAG0253	 	 	Health & Fitness
+APPLE	US	MAG0958	PBL MEDIA PTY LTD.	Cosmopolitan Australia	1.4.0	1F	1	0	05/01/2014	05/01/2014	AED	AE	AED	639978764	0	 	 	 	 	Lifestyle
+APPLE	US	MAG0958	PBL MEDIA PTY LTD.	Cosmopolitan Australia	1.4.0	1F	3	0	05/01/2014	05/01/2014	CNY	CN	CNY	639978764	0	 	 	 	 	Lifestyle
+APPLE	US	MAG0043	PBL MEDIA PTY LTD.	Auto Action Magazine Australia	1.3.5	1F	1	0	05/01/2014	05/01/2014	TRY	TR	TRY	639980943	0	 	 	 	 	Sports
+APPLE	US	au.com.bauermedia.hng.2014.April.issue	 	HNG 2014.04 - April Issue	 	IA1	1	4.13	05/01/2014	05/01/2014	AUD	AU	AUD	796284138	6.49	 	SKU_Bauer_HNG	 	 	Lifestyle
+APPLE	US	com.magshop.ns.gme.months.1.1	 	Good Health Subscription_200_30	 	IAY	4	0	05/01/2014	05/01/2014	AUD	AU	AUD	575094511	0	 	MAG0253	New	1 Month	Health & Fitness
+APPLE	US	com.magshop.hgn.1404.1	 	House & Garden 2014-04	 	IA1	1	3.5	05/01/2014	05/01/2014	USD	US	USD	734130709	4.99	 	MAG0001	 	 	Lifestyle
+APPLE	US	au.com.acpmagazines.gourmettraveller.subscriptions.1month	 	GT Paid Subscription_200_30	 	IAY	11	3.18	05/01/2014	05/01/2014	AUD	AU	AUD	471832348	4.99	 	ACPGT001	Renewal	1 Month	Food & Drink
+APPLE	US	au.com.bauermedia.topgear.2014.may.issue	 	TopGear 2014.05- May issue	 	IA1	4	4.13	05/01/2014	05/01/2014	AUD	AU	AUD	796807657	6.49	 	SKU_Bauer_TopGear	 	 	Lifestyle
+APPLE	US	MAG0204.1	PBL MEDIA PTY LTD.	Empire Australasia	1.3.8	1F	1	0	05/01/2014	05/01/2014	DKK	DK	DKK	823231884	0	 	 	 	 	Entertainment
+APPLE	US	MAG0204.1	PBL MEDIA PTY LTD.	Empire Australasia	1.3.8	1F	3	0	05/01/2014	05/01/2014	GBP	GB	GBP	823231884	0	 	 	 	 	Entertainment
+APPLE	US	com.magshop.ns.zoo.1417.1	 	ZOO Weekly 1417	 	IA1	1	2.09	05/01/2014	05/01/2014	NZD	NZ	NZD	738259661	2.99	 	MAG0553	 	 	Entertainment
+APPLE	US	au.com.bauermedia.ellemag.subs.6mth	 	ELLE Subscriptions_500_180	 	IAY	2	0	05/01/2014	05/01/2014	AUD	AU	AUD	697996987	0	 	SKU_Bauer_ElleMag	New	6 Months	Lifestyle
+APPLE	US	au.com.acpmagazines.aww.subscriptions.3months	 	AWW Paid Subscription_400_90	 	IAY	1	0	05/01/2014	05/01/2014	AUD	AU	AUD	471821185	0	 	ACP003	New	3 Months	Entertainment
+APPLE	US	au.com.acpmagazines.aww.subscriptions.3months	 	AWW Paid Subscription_400_90	 	IAY	11	6.99	05/01/2014	05/01/2014	AUD	AU	AUD	471821185	10.99	 	ACP003	Renewal	3 Months	Entertainment
+APPLE	US	MAG0067	PBL MEDIA PTY LTD.	Australian Motorcycle News	1.3.5	1F	1	0	05/01/2014	05/01/2014	EUR	DE	EUR	598117425	0	 	 	 	 	Sports
+APPLE	US	SKU_Bauer_TopGear	PBL MEDIA PTY LTD.	TopGear Australia Magazine	1.0.9	7T	4	0	05/01/2014	05/01/2014	NZD	NZ	NZD	725842093	0	 	 	 	 	Lifestyle
+APPLE	US	MAG0253	PBL MEDIA PTY LTD.	Good Health Magazine	1.3.5	1F	12	0	05/01/2014	05/01/2014	USD	TH	USD	574688852	0	 	 	 	 	Health & Fitness
+APPLE	US	MAG0352	PBL MEDIA PTY LTD.	Money Magazine Australia	1.3.5	1F	1	0	05/01/2014	05/01/2014	USD	PH	USD	574683215	0	 	 	 	 	Finance
+APPLE	US	au.com.acpmagazines.aww.subscriptions.1month	 	AWW Paid Subscription_200_30	 	IAY	-1	2.79	05/01/2014	05/01/2014	NZD	NZ	NZD	471819015	-3.99	 	ACP003	Renewal	1 Month	Entertainment
+APPLE	US	MAG0369	PBL MEDIA PTY LTD.	NW Magazine	1.3.5	1F	25	0	05/01/2014	05/01/2014	EUR	DE	EUR	574650057	0	 	 	 	 	Entertainment
+APPLE	US	MAG0369	PBL MEDIA PTY LTD.	NW Magazine	1.3.5	1F	1	0	05/01/2014	05/01/2014	USD	MO	USD	574650057	0	 	 	 	 	Entertainment
+APPLE	US	com.magshop.ns.zoo.1414.1	 	ZOO Weekly 1414	 	IA1	1	1.9	05/01/2014	05/01/2014	AUD	AU	AUD	738259645	2.99	 	MAG0553	 	 	Entertainment
+APPLE	US	au.com.acpmagazines.gourmettraveller.subscriptions.1year	 	GT Paid Subscription_600_365	 	IAY	4	0	05/01/2014	05/01/2014	AUD	AU	AUD	471832473	0	 	ACPGT001	New	1 Year	Food & Drink
+APPLE	US	MAG0001	PBL MEDIA PTY LTD.	Magshop	2.4.1	1F	1	0	05/01/2014	05/01/2014	ZAR	ZA	ZAR	378036778	0	 	 	 	 	Lifestyle
+APPLE	US	SKU_Bauer_Wheels	PBL MEDIA PTY LTD.	WHEELS AUSTRALIA MAGAZINE	1.0.10	7T	3	0	05/01/2014	05/01/2014	USD	NG	USD	617924139	0	 	 	 	 	Lifestyle
+APPLE	US	MAG0184	PBL MEDIA PTY LTD.	Dolly Magazine Australia	1.3.5	1F	65	0	05/01/2014	05/01/2014	AUD	AU	AUD	639967384	0	 	 	 	 	Lifestyle
+APPLE	US	au.com.acpmagazines.aww.subscriptions.2months	 	AWW Paid Subscription_300_60	 	IAY	25	4.77	05/01/2014	05/01/2014	AUD	AU	AUD	471821181	7.49	 	ACP003	Renewal	2 Months	Entertainment
+APPLE	US	com.magshop.ns.wdw.1418.1	 	Woman's Day 1418	 	IA1	65	1.9	05/01/2014	05/01/2014	AUD	AU	AUD	797269582	2.99	 	MAG0536	 	 	Entertainment
+APPLE	US	MAG0559	PBL MEDIA PTY LTD.	HOME Magazine NZ	1.3.8	1F	3	0	05/01/2014	05/01/2014	EUR	FR	EUR	817999055	0	 	 	 	 	Lifestyle
+APPLE	US	MAG0559	PBL MEDIA PTY LTD.	HOME Magazine NZ	1.3.8	1F	73	0	05/01/2014	05/01/2014	CNY	CN	CNY	817999055	0	 	 	 	 	Lifestyle
+APPLE	US	ACP003	PBL MEDIA PTY LTD.	The Australian Women's Weekly	1.10.0	1T	1	0	05/01/2014	05/01/2014	USD	CL	USD	384025506	0	 	 	 	 	Entertainment
+APPLE	US	ACPGT001	PBL MEDIA PTY LTD.	Gourmet Traveller	1.10.0	1T	14	0	05/01/2014	05/01/2014	USD	PH	USD	374405599	0	 	 	 	 	Food & Drink
+APPLE	US	ACPGT001	PBL MEDIA PTY LTD.	Gourmet Traveller	1.10.0	7T	1	0	05/01/2014	05/01/2014	USD	PH	USD	374405599	0	 	 	 	 	Food & Drink
+APPLE	US	ACPGT001	PBL MEDIA PTY LTD.	Gourmet Traveller	1.10.0	1T	3	0	05/01/2014	05/01/2014	HKD	HK	HKD	374405599	0	 	 	 	 	Food & Drink
+APPLE	US	com.magshop.ns.zoo.1409.1	 	ZOO Weekly 1409	 	IA1	1	2.09	05/01/2014	05/01/2014	NZD	NZ	NZD	738259625	2.99	 	MAG0553	 	 	Entertainment
+APPLE	US	com.magshop.ns.wdw.months.2.1	 	Woman's Day Subscription_300_60	 	IAY	3	11.45	05/01/2014	05/01/2014	AUD	AU	AUD	547528606	17.99	 	MAG0536	Renewal	2 Months	Entertainment
+APPLE	US	au.com.bauermedia.topgear.subs.onemth	 	TopGear  Subscriptions_200_30	 	IAY	1	3.18	05/01/2014	05/01/2014	AUD	AU	AUD	741822464	4.99	 	SKU_Bauer_TopGear	Renewal	1 Month	Lifestyle
+APPLE	US	au.com.acpmagazines.myeremporium.subscriptions.free	 	Myer Free Subscription	 	IAC	10	0	05/01/2014	05/01/2014	AUD	AU	AUD	481565913	0	 	ACP03	 	 	Lifestyle
+APPLE	US	au.com.acpmagazines.gourmettraveller.subscriptions.2months	 	GT Paid Subscription_300_60	 	IAY	16	5.72	05/01/2014	05/01/2014	AUD	AU	AUD	471832469	8.99	 	ACPGT001	Renewal	2 Months	Food & Drink
+APPLE	US	au.com.bauermedia.ellemag.subs.1year	 	ELLE Subscriptions_600_365	 	IAY	1	0	05/01/2014	05/01/2014	AUD	AU	AUD	697996988	0	 	SKU_Bauer_ElleMag	New	1 Year	Lifestyle
+APPLE	US	SKU_Bauer_WeightWatchers	PBL MEDIA PTY LTD.	Weight Watchers Magazine Australia	1.0.12	7T	19	0	05/01/2014	05/01/2014	NZD	NZ	NZD	646610584	0	 	 	 	 	Health & Fitness
+APPLE	US	MAG0132	PBL MEDIA PTY LTD.	Cleo Magazine Australia	1.3.8	1F	1	0	05/01/2014	05/01/2014	GBP	GB	GBP	813461450	0	 	 	 	 	Lifestyle
+APPLE	US	MAG0536	PBL MEDIA PTY LTD.	Woman's Day	1.3.5	7F	47	0	05/01/2014	05/01/2014	AUD	AU	AUD	547520978	0	 	 	 	 	Entertainment
+APPLE	US	ACPGT001	PBL MEDIA PTY LTD.	Gourmet Traveller	1.10.0	7T	50	0	05/01/2014	05/01/2014	AUD	AU	AUD	374405599	0	 	 	 	 	Food & Drink
+APPLE	US	ACPGT001	PBL MEDIA PTY LTD.	Gourmet Traveller	1.10.0	1T	2	0	05/01/2014	05/01/2014	USD	US	USD	374405599	0	 	 	 	 	Food & Drink
+APPLE	US	ACPGT001	PBL MEDIA PTY LTD.	Gourmet Traveller	1.10.0	1T	1	0	05/01/2014	05/01/2014	USD	CL	USD	374405599	0	 	 	 	 	Food & Drink
+APPLE	US	MAG0355	PBL MEDIA PTY LTD.	MOTOR Magazine Australia	1.3.5	1F	2	0	05/01/2014	05/01/2014	NZD	NZ	NZD	639976688	0	 	 	 	 	Lifestyle
+APPLE	US	REDDOSMARTER01	PBL MEDIA PTY LTD.	Smarter Business Ideas	1.3.25	1T	2	0	05/01/2014	05/01/2014	USD	US	USD	567645200	0	 	 	 	 	Business
+APPLE	US	com.magshop.ns.wdw.1417.1	 	Woman's Day 1417	 	IA1	6	1.9	05/01/2014	05/01/2014	AUD	AU	AUD	797269510	2.99	 	MAG0536	 	 	Entertainment
+APPLE	US	au.com.acpmagazines.awwrecipes.thebigbookofbeautifulbiscuits	 	The Big Book of Beautiful Biscuits	 	IA1	1	6.36	05/01/2014	05/01/2014	AUD	AU	AUD	655405256	9.99	 	ACP_AWW_Recipes	 	 	Food & Drink
+APPLE	US	com.magshop.ns.rol.months.6.1	 	Rolling Stone Australia Subscription_500_180	 	IAY	1	19.08	05/01/2014	05/01/2014	AUD	AU	AUD	642291343	29.99	 	MAG0420	Renewal	6 Months	Music
+APPLE	US	com.magshop.okm.1419.1	 	OK! 1419	 	IA1	4	2.41	05/01/2014	05/01/2014	AUD	AU	AUD	797853868	3.79	 	MAG0001	 	 	Lifestyle
+APPLE	US	com.magshop.ns.zoo.months.12.1	 	ZOO Subscription_600_365	 	IAY	3	44.54	05/01/2014	05/01/2014	AUD	AU	AUD	626545696	69.99	 	MAG0553	Renewal	1 Year	Entertainment
+APPLE	US	ACP016	PBL MEDIA PTY LTD.	QANTAS Magazine	1.3.0	1T	1	0	05/01/2014	05/01/2014	USD	PH	USD	501279725	0	 	 	 	 	Travel
+APPLE	US	ACP016	PBL MEDIA PTY LTD.	QANTAS Magazine	1.3.0	7T	1	0	05/01/2014	05/01/2014	USD	MY	USD	501279725	0	 	 	 	 	Travel
+APPLE	US	MAG1755.1	PBL MEDIA PTY LTD.	Cosmopolitan Bride Magazine Australia	1.3.8	1F	1	0	05/01/2014	05/01/2014	EUR	FR	EUR	823254501	0	 	 	 	 	Lifestyle
+APPLE	US	MAG1755.1	PBL MEDIA PTY LTD.	Cosmopolitan Bride Magazine Australia	1.3.8	1F	7	0	05/01/2014	05/01/2014	RUB	RU	RUB	823254501	0	 	 	 	 	Lifestyle
+APPLE	US	com.magshop.ns.zoo.1320.1	 	ZOO Weekly 1320	 	IA1	-1	23.09	05/01/2014	05/01/2014	ZAR	ZA	ZAR	622441711	-32.99	 	MAG0553	 	 	Entertainment
+APPLE	US	au.com.acpmagazines.aww.subscriptions.1year	 	AWW Paid Subscription_600_365	 	IAY	-1	25.45	05/01/2014	05/01/2014	AUD	AU	AUD	471822135	-39.99	 	ACP003	Renewal	1 Year	Entertainment
+APPLE	US	MAG0132	PBL MEDIA PTY LTD.	Cleo Magazine Australia	1.3.8	1F	1	0	05/01/2014	05/01/2014	USD	CL	USD	813461450	0	 	 	 	 	Lifestyle
+APPLE	US	MAG0001	PBL MEDIA PTY LTD.	Magshop	2.4.1	7F	19	0	05/01/2014	05/01/2014	AUD	AU	AUD	378036778	0	 	 	 	 	Lifestyle
+APPLE	US	MAG0253	PBL MEDIA PTY LTD.	Good Health Magazine	1.3.5	7F	2	0	05/01/2014	05/01/2014	USD	US	USD	574688852	0	 	 	 	 	Health & Fitness
+APPLE	US	MAG0253	PBL MEDIA PTY LTD.	Good Health Magazine	1.3.5	1F	3	0	05/01/2014	05/01/2014	USD	US	USD	574688852	0	 	 	 	 	Health & Fitness
+APPLE	US	au.com.acpmagazines.aww.subscriptions.1year	 	AWW Paid Subscription_600_365	 	IAY	1	17.65	05/01/2014	05/01/2014	EUR	FR	EUR	471822135	28.99	 	ACP003	Renewal	1 Year	Entertainment
+APPLE	US	au.com.acpmagazines.awwrecipes.subscriptions.1mth	 	The Australian Women’s Weekly Cookbooks Subscriptions_200_30	 	IAY	2	5.72	05/01/2014	05/01/2014	AUD	AU	AUD	617841288	8.99	 	ACP_AWW_Recipes	Renewal	1 Month	Food & Drink
+APPLE	US	SKU_Bauer_Australian_Geographic	PBL MEDIA PTY LTD.	Australian Geographic Magazine	1.0.16	7T	1	0	05/01/2014	05/01/2014	USD	US	USD	661038898	0	 	 	 	 	Education
+APPLE	US	com.magshop.ns.dol.months.1.1	 	Dolly Magazine Australia Subscription_200_30	 	IAY	1	0	05/01/2014	05/01/2014	EUR	IT	EUR	642290338	0	 	MAG0184	New	1 Month	Lifestyle
+APPLE	US	MAG0053	PBL MEDIA PTY LTD.	Australian Geographic Outdoor Magazine	1.3.5	1F	1	0	05/01/2014	05/01/2014	USD	BR	USD	639977537	0	 	 	 	 	Lifestyle
+APPLE	US	ACP_AWW_Recipes	PBL MEDIA PTY LTD.	The Australian Women's Weekly Cookbooks	2.2.1	7T	1	0	05/01/2014	05/01/2014	AED	AE	AED	393065903	0	 	 	 	 	Food & Drink
+APPLE	US	com.magshop.adb.1405.1	 	Australian Dirt Bike 2014-05	 	IA1	2	4.77	05/01/2014	05/01/2014	AUD	AU	AUD	733689146	7.49	 	MAG0001	 	 	Lifestyle
+APPLE	US	MAG0053	PBL MEDIA PTY LTD.	Australian Geographic Outdoor Magazine	1.3.5	1F	1	0	05/01/2014	05/01/2014	USD	MY	USD	639977537	0	 	 	 	 	Lifestyle
+APPLE	US	au.com.bauermedia.australiangeographic.subscriptions.1yr	 	Aus Geo Subscriptions_600_365	 	IAY	2	0	05/01/2014	05/01/2014	AUD	AU	AUD	661958406	0	 	SKU_Bauer_Australian_Geographic	New	1 Year	Education
+APPLE	US	MAG2068	PBL MEDIA PTY LTD.	Women's Fitness Magazine Australia	1.3.5	1F	3	0	05/01/2014	05/01/2014	USD	US	USD	639975696	0	 	 	 	 	Health & Fitness
+APPLE	US	com.magshop.ns.fit.1405.1	 	Women's Fitness 1405	 	IA1	1	3.18	05/01/2014	05/01/2014	AUD	AU	AUD	645785712	4.99	 	MAG2068	 	 	Health & Fitness
+APPLE	US	MAG1273	PBL MEDIA PTY LTD.	recipes+ Magazine	1.3.5	1F	1	0	05/01/2014	05/01/2014	CHF	CH	CHF	574676839	0	 	 	 	 	Food & Drink
+APPLE	US	MAG1273	PBL MEDIA PTY LTD.	recipes+ Magazine	1.3.5	1F	1	0	05/01/2014	05/01/2014	USD	KW	USD	574676839	0	 	 	 	 	Food & Drink
+APPLE	US	MAG1273	PBL MEDIA PTY LTD.	recipes+ Magazine	1.3.5	1F	1	0	05/01/2014	05/01/2014	USD	MO	USD	574676839	0	 	 	 	 	Food & Drink
+APPLE	US	GTRG2014	PBL MEDIA PTY LTD.	GT 2014 Restaurant Guide	1.2.5	1	4	0	05/01/2014	05/01/2014	EUR	DE	EUR	705700418	0	 	 	 	 	Food & Drink
+APPLE	US	MAG0449	PBL MEDIA PTY LTD.	Street Machine Magazine	1.3.5	1F	1	0	05/01/2014	05/01/2014	GBP	GB	GBP	639978561	0	 	 	 	 	Lifestyle
+APPLE	US	MAG0553	PBL MEDIA PTY LTD.	ZOO Weekly Australia	1.3.5	1F	1	0	05/01/2014	05/01/2014	USD	LB	USD	622413964	0	 	 	 	 	Entertainment
+APPLE	US	MAG0553	PBL MEDIA PTY LTD.	ZOO Weekly Australia	1.3.5	1F	3	0	05/01/2014	05/01/2014	EUR	NL	EUR	622413964	0	 	 	 	 	Entertainment
+APPLE	US	MAG0553	PBL MEDIA PTY LTD.	ZOO Weekly Australia	1.3.5	1F	1	0	05/01/2014	05/01/2014	USD	PK	USD	622413964	0	 	 	 	 	Entertainment
+APPLE	US	MAG0553	PBL MEDIA PTY LTD.	ZOO Weekly Australia	1.3.5	1F	1	0	05/01/2014	05/01/2014	EUR	BE	EUR	622413964	0	 	 	 	 	Entertainment
+APPLE	US	MAG0553	PBL MEDIA PTY LTD.	ZOO Weekly Australia	1.3.5	1F	2	0	05/01/2014	05/01/2014	INR	IN	INR	622413964	0	 	 	 	 	Entertainment
+APPLE	US	MAG1273	PBL MEDIA PTY LTD.	recipes+ Magazine	1.3.5	7F	5	0	05/01/2014	05/01/2014	USD	US	USD	574676839	0	 	 	 	 	Food & Drink
+APPLE	US	MAG0958	PBL MEDIA PTY LTD.	Cosmopolitan Australia	1.4.0	7F	70	0	05/01/2014	05/01/2014	AUD	AU	AUD	639978764	0	 	 	 	 	Lifestyle
+APPLE	US	au.com.bauermedia.wwmag.2014.05.issue	 	WW Mag 2014.05 - May issue	 	IA1	2	3.18	05/01/2014	05/01/2014	AUD	AU	AUD	648323945	4.99	 	SKU_Bauer_WeightWatchers	 	 	Health & Fitness
+APPLE	US	com.magshop.ns.rlw.1418.1	 	Rugby League Week 1418	 	IA1	43	3.18	05/01/2014	05/01/2014	AUD	AU	AUD	738227525	4.99	 	MAG0421	 	 	Sports
+APPLE	US	com.magshop.ns.rlw.1418.1	 	Rugby League Week 1418	 	IA1	8	3.49	05/01/2014	05/01/2014	NZD	NZ	NZD	738227525	4.99	 	MAG0421	 	 	Sports
+APPLE	US	MAG0253	PBL MEDIA PTY LTD.	Good Health Magazine	1.3.5	1F	43	0	05/01/2014	05/01/2014	AUD	AU	AUD	574688852	0	 	 	 	 	Health & Fitness
+APPLE	US	MAG0253	PBL MEDIA PTY LTD.	Good Health Magazine	1.3.5	1F	13	0	05/01/2014	05/01/2014	NZD	NZ	NZD	574688852	0	 	 	 	 	Health & Fitness
+APPLE	US	ACP016	PBL MEDIA PTY LTD.	QANTAS Magazine	1.3.0	7T	1	0	05/01/2014	05/01/2014	USD	US	USD	501279725	0	 	 	 	 	Travel
+APPLE	US	MAG0369	PBL MEDIA PTY LTD.	NW Magazine	1.3.5	7F	3	0	05/01/2014	05/01/2014	NZD	NZ	NZD	574650057	0	 	 	 	 	Entertainment
+APPLE	US	SKU_Bauer_WeightWatchers	PBL MEDIA PTY LTD.	Weight Watchers Magazine Australia	1.0.12	7T	9	0	05/01/2014	05/01/2014	GBP	GB	GBP	646610584	0	 	 	 	 	Health & Fitness
+APPLE	US	ACP_AWW_Recipes	PBL MEDIA PTY LTD.	The Australian Women's Weekly Cookbooks	2.2.1	1T	1	0	05/01/2014	05/01/2014	USD	BO	USD	393065903	0	 	 	 	 	Food & Drink
+APPLE	US	com.magshop.ns.cos.1401.1	 	Cosmopolitan 1401	 	IA1	1	3.81	05/01/2014	05/01/2014	AUD	AU	AUD	643554810	5.99	 	MAG0958	 	 	Lifestyle
+APPLE	US	com.magshop.ns.fit.months.6.1	 	Women's Fitness Magazine Australia Subscription_500_180	 	IAY	2	12.72	05/01/2014	05/01/2014	AUD	AU	AUD	642290333	19.99	 	MAG2068	Renewal	6 Months	Health & Fitness
+APPLE	US	com.magshop.ns.shp.1307.1	 	Shop Til you Drop 1307	 	IA1	1	0	05/01/2014	05/01/2014	GBP	GB	GBP	605602147	0	FREE	MAG0430	 	 	Lifestyle
+APPLE	US	au.com.bauermedia.ellemag.subs.1mth	 	ELLE Subscriptions_200_30	 	IAY	1	0	05/01/2014	05/01/2014	AUD	AU	AUD	697996986	0	 	SKU_Bauer_ElleMag	New	1 Month	Lifestyle
+APPLE	US	com.magshop.ns.nas.months.12.1	 	North & South Magazine Subscription_600_365	 	IAY	1	28	05/01/2014	05/01/2014	USD	US	USD	708966016	39.99	 	MAG567	New	1 Year	Lifestyle
+APPLE	US	SKUTRADER_Earthmovers	PBL MEDIA PTY LTD.	Earthmovers and Excavators for iPad	1.1	1T	2	0	05/01/2014	05/01/2014	USD	US	USD	546261009	0	 	 	 	 	News
+APPLE	US	au.com.bauermedia.wheels.2014.05.issue	 	Wheels 2014.05 - May issue	 	IA1	2	4.54	05/01/2014	05/01/2014	NZD	NZ	NZD	648321612	6.49	 	SKU_Bauer_Wheels	 	 	Lifestyle
+APPLE	US	ACP003	PBL MEDIA PTY LTD.	The Australian Women's Weekly	1.10.0	7T	2	0	05/01/2014	05/01/2014	USD	MY	USD	384025506	0	 	 	 	 	Entertainment
+APPLE	US	com.magshop.ns.rcp.1405.1	 	Recipes+ 1405	 	IA1	1	.91	05/01/2014	05/01/2014	GBP	GB	GBP	813416884	1.49	 	MAG1273	 	 	Food & Drink
+APPLE	US	ACP_AWW_Recipes	PBL MEDIA PTY LTD.	The Australian Women's Weekly Cookbooks	2.2.1	7T	2	0	05/01/2014	05/01/2014	SGD	SG	SGD	393065903	0	 	 	 	 	Food & Drink
+APPLE	US	ACP_AWW_Recipes	PBL MEDIA PTY LTD.	The Australian Women's Weekly Cookbooks	2.2.1	7T	1	0	05/01/2014	05/01/2014	SEK	SE	SEK	393065903	0	 	 	 	 	Food & Drink
+APPLE	US	ACP_AWW_Recipes	PBL MEDIA PTY LTD.	The Australian Women's Weekly Cookbooks	2.2.1	7T	3	0	05/01/2014	05/01/2014	USD	MY	USD	393065903	0	 	 	 	 	Food & Drink
+APPLE	US	ACP_AWW_Recipes	PBL MEDIA PTY LTD.	The Australian Women's Weekly Cookbooks	2.2.1	1T	2	0	05/01/2014	05/01/2014	USD	MY	USD	393065903	0	 	 	 	 	Food & Drink
+APPLE	US	ACP_AWW_Recipes	PBL MEDIA PTY LTD.	The Australian Women's Weekly Cookbooks	2.2.1	1T	1	0	05/01/2014	05/01/2014	USD	KR	USD	393065903	0	 	 	 	 	Food & Drink
+APPLE	US	com.magshop.rlw.1418.1	 	Rugby League Week 1418	 	IA1	1	2.8	05/01/2014	05/01/2014	USD	US	USD	737568079	3.99	 	MAG0001	 	 	Lifestyle
+APPLE	US	com.magshop.ns.rol.months.1.1	 	Rolling Stone Australia Subscription_200_30	 	IAY	1	3.18	05/01/2014	05/01/2014	AUD	AU	AUD	642291342	4.99	 	MAG0420	Renewal	1 Month	Music
+APPLE	US	au.com.bauermedia.wwmag.subscriptions.1yr	 	Weight Watchers Subscriptions_600_365	 	IAY	1	0	05/01/2014	05/01/2014	AUD	AU	AUD	646627181	0	 	SKU_Bauer_WeightWatchers	New	1 Year	Health & Fitness
+APPLE	US	com.magshop.ns.clo.months.1.1	 	Cleo Magazine Australia Subscription_200_30	 	IAY	2	2.54	05/01/2014	05/01/2014	AUD	AU	AUD	821343039	3.99	 	MAG0132	Renewal	1 Month	Lifestyle
+APPLE	US	BAU001	PBL MEDIA PTY LTD.	ELLE Australia: The Pulse	1.3	7	1	0	05/01/2014	05/01/2014	CNY	CN	CNY	694546352	0	 	 	 	 	Lifestyle
+APPLE	US	GTRG2014	PBL MEDIA PTY LTD.	GT 2014 Restaurant Guide	1.2.5	1	1	0	05/01/2014	05/01/2014	NZD	NZ	NZD	705700418	0	 	 	 	 	Food & Drink
+APPLE	US	com.magshop.ns.dol.1403.1	 	Dolly 1403	 	IA1	1	3.49	05/01/2014	05/01/2014	NZD	NZ	NZD	643550302	4.99	 	MAG0184	 	 	Lifestyle
+APPLE	US	com.magshop.ns.dol.1405.1	 	Dolly 1405	 	IA1	3	3.18	05/01/2014	05/01/2014	AUD	AU	AUD	643551408	4.99	 	MAG0184	 	 	Lifestyle
+APPLE	US	com.magshop.ns.new.1415.1	 	NW 1415	 	IA1	1	1.9	05/01/2014	05/01/2014	AUD	AU	AUD	738227003	2.99	 	MAG0369	 	 	Entertainment
+APPLE	US	ACP003	PBL MEDIA PTY LTD.	The Australian Women's Weekly	1.10.0	1T	103	0	05/01/2014	05/01/2014	AUD	AU	AUD	384025506	0	 	 	 	 	Entertainment
+APPLE	US	com.magshop.ns.shp.months.1.1	 	Shop Til You Drop Subscription_200_30	 	IAY	1	3.49	05/01/2014	05/01/2014	NZD	NZ	NZD	575093867	4.99	 	MAG0430	Renewal	1 Month	Lifestyle
+APPLE	US	com.magshop.ns.shp.1407.1	 	Shop Til you Drop 1407	 	IA1	1	2.09	05/01/2014	05/01/2014	NZD	NZ	NZD	756288966	2.99	 	MAG0430	 	 	Lifestyle
+APPLE	US	com.magshop.ns.amw.months.1.1	 	Australian Motorcycle News Subscription_200_30	 	IAY	1	0	05/01/2014	05/01/2014	AUD	AU	AUD	601969729	0	 	MAG0067	New	1 Month	Sports
+APPLE	US	MAG0559	PBL MEDIA PTY LTD.	HOME Magazine NZ	1.3.8	1F	2	0	05/01/2014	05/01/2014	USD	BR	USD	817999055	0	 	 	 	 	Lifestyle
+APPLE	US	SKU_Bauer_ElleMag	PBL MEDIA PTY LTD.	ELLE Australia	1.0.10	7T	1	0	05/01/2014	05/01/2014	RUB	RU	RUB	694551705	0	 	 	 	 	Lifestyle
+APPLE	US	com.magshop.ns.zoo.1414.1	 	ZOO Weekly 1414	 	IA1	1	1.4	05/01/2014	05/01/2014	USD	US	USD	738259645	1.99	 	MAG0553	 	 	Entertainment
+APPLE	US	au.com.acpmagazines.gourmettraveller.2014.may	 	GT May 2014	 	IA1	5	4.13	05/01/2014	05/01/2014	AUD	AU	AUD	670868560	6.49	 	ACPGT001	 	 	Food & Drink
+APPLE	US	com.magshop.ns.shp.1212.1	 	Shop Til you Drop 1212	 	IA1	1	0	05/01/2014	05/01/2014	AUD	AU	AUD	575093465	0	FREE	MAG0430	 	 	Lifestyle
+APPLE	US	MAG0410.1	PBL MEDIA PTY LTD.	Real Living Australia	1.3.8	1F	1	0	05/01/2014	05/01/2014	GBP	GB	GBP	823384894	0	 	 	 	 	Lifestyle
+APPLE	US	MAG0410.1	PBL MEDIA PTY LTD.	Real Living Australia	1.3.8	1F	1	0	05/01/2014	05/01/2014	USD	MY	USD	823384894	0	 	 	 	 	Lifestyle
+APPLE	US	com.magshop.ns.zoo.1417.1	 	ZOO Weekly 1417	 	IA1	5	1.9	05/01/2014	05/01/2014	AUD	AU	AUD	738259661	2.99	 	MAG0553	 	 	Entertainment
+APPLE	US	au.com.bauermedia.hng.subs.oneyr	 	House and Garden Subscriptions_600_365	 	IAY	1	0	05/01/2014	05/01/2014	AUD	AU	AUD	743049885	0	 	SKU_Bauer_HNG	New	1 Year	Lifestyle
+APPLE	US	MAG0430	PBL MEDIA PTY LTD.	Shop Til You Drop	1.3.5	1F	1	0	05/01/2014	05/01/2014	GBP	GB	GBP	574686823	0	 	 	 	 	Lifestyle
+APPLE	US	au.com.acpmagazines.aww.subscriptions.3months	 	AWW Paid Subscription_400_90	 	IAY	1	7.69	05/01/2014	05/01/2014	NZD	NZ	NZD	471821185	10.99	 	ACP003	Renewal	3 Months	Entertainment
+APPLE	US	au.com.acpmagazines.gourmettraveller.subscriptions.2months	 	GT Paid Subscription_300_60	 	IAY	1	27.39	05/01/2014	05/01/2014	DKK	DK	DKK	471832469	45	 	ACPGT001	Renewal	2 Months	Food & Drink
+APPLE	US	com.magshop.ns.mon.1402.1	 	Money 1402	 	IA1	2	3.81	05/01/2014	05/01/2014	AUD	AU	AUD	681457835	5.99	 	MAG0352	 	 	Finance
+APPLE	US	com.magshop.ns.amw.months.12.1	 	Australian Motorcycle News Subscription_600_365	 	IAY	1	57.27	05/01/2014	05/01/2014	AUD	AU	AUD	601969731	89.99	 	MAG0067	Renewal	1 Year	Sports
+APPLE	US	MAG0553	PBL MEDIA PTY LTD.	ZOO Weekly Australia	1.3.5	1F	80	0	05/01/2014	05/01/2014	AUD	AU	AUD	622413964	0	 	 	 	 	Entertainment
+APPLE	US	com.magshop.ns.stm.months.1.1	 	Street Machine Magazine Subscription_200_30	 	IAY	1	3.18	05/01/2014	05/01/2014	AUD	AU	AUD	643505237	4.99	 	MAG0449	Renewal	1 Month	Lifestyle
+APPLE	US	au.com.acpmagazines.gourmettraveller.subscriptions.2months	 	GT Paid Subscription_300_60	 	IAY	2	4.9	05/01/2014	05/01/2014	USD	US	USD	471832469	6.99	 	ACPGT001	Renewal	2 Months	Food & Drink
+APPLE	US	MAG0369	PBL MEDIA PTY LTD.	NW Magazine	1.3.5	7F	2	0	05/01/2014	05/01/2014	CAD	CA	CAD	574650057	0	 	 	 	 	Entertainment
+APPLE	US	MAG0253	PBL MEDIA PTY LTD.	Good Health Magazine	1.3.5	1F	1	0	05/01/2014	05/01/2014	EUR	FR	EUR	574688852	0	 	 	 	 	Health & Fitness
+APPLE	US	MAG0355	PBL MEDIA PTY LTD.	MOTOR Magazine Australia	1.3.5	1F	2	0	05/01/2014	05/01/2014	RUB	RU	RUB	639976688	0	 	 	 	 	Lifestyle
+APPLE	US	MAG0410.1	PBL MEDIA PTY LTD.	Real Living Australia	1.3.8	1F	10	0	05/01/2014	05/01/2014	AUD	AU	AUD	823384894	0	 	 	 	 	Lifestyle
+APPLE	US	com.magshop.ns.fbf.1401.1	 	4x4 1401	 	IA1	1	4.77	05/01/2014	05/01/2014	AUD	AU	AUD	645796996	7.49	 	MAG0004	 	 	Lifestyle
+APPLE	US	SKU_Bauer_Wheels	PBL MEDIA PTY LTD.	WHEELS AUSTRALIA MAGAZINE	1.0.10	1T	1	0	05/01/2014	05/01/2014	TWD	TW	TWD	617924139	0	 	 	 	 	Lifestyle
+APPLE	US	MAG0420	PBL MEDIA PTY LTD.	Rolling Stone Australia	1.3.5	1F	25	0	05/01/2014	05/01/2014	AUD	AU	AUD	639979132	0	 	 	 	 	Music
+APPLE	US	com.magshop.ns.wdw.1407.1	 	Woman's Day 1407	 	IA1	1	1.9	05/01/2014	05/01/2014	AUD	AU	AUD	797227253	2.99	 	MAG0536	 	 	Entertainment
+APPLE	US	ACPGT001	PBL MEDIA PTY LTD.	Gourmet Traveller	1.10.0	1T	3	0	05/01/2014	05/01/2014	TWD	TW	TWD	374405599	0	 	 	 	 	Food & Drink
+APPLE	US	ACPGT001	PBL MEDIA PTY LTD.	Gourmet Traveller	1.10.0	1T	2	0	05/01/2014	05/01/2014	CHF	CH	CHF	374405599	0	 	 	 	 	Food & Drink
+APPLE	US	com.magshop.ns.cos.1405.1	 	Cosmopolitan 1405	 	IA1	5	3.81	05/01/2014	05/01/2014	AUD	AU	AUD	643555161	5.99	 	MAG0958	 	 	Lifestyle
+APPLE	US	au.com.acpmagazines.gourmettraveller.subscriptions.1month	 	GT Paid Subscription_200_30	 	IAY	1	10.49	05/01/2014	05/01/2014	SAR	SA	SAR	471832348	14.99	 	ACPGT001	Renewal	1 Month	Food & Drink
+APPLE	US	MAG0067	PBL MEDIA PTY LTD.	Australian Motorcycle News	1.3.5	1F	1	0	05/01/2014	05/01/2014	USD	CL	USD	598117425	0	 	 	 	 	Sports
+APPLE	US	MAG0067	PBL MEDIA PTY LTD.	Australian Motorcycle News	1.3.5	1F	1	0	05/01/2014	05/01/2014	USD	CR	USD	598117425	0	 	 	 	 	Sports
+APPLE	US	MAG0421	PBL MEDIA PTY LTD.	Rugby League Week	1.3.7	1F	1	0	05/01/2014	05/01/2014	USD	NG	USD	505309539	0	 	 	 	 	Sports
+APPLE	US	MAG0132	PBL MEDIA PTY LTD.	Cleo Magazine Australia	1.3.8	1F	1	0	05/01/2014	05/01/2014	EUR	SK	EUR	813461450	0	 	 	 	 	Lifestyle
+APPLE	US	MAG567	PBL MEDIA PTY LTD.	North & South Magazine	1.3.6	1F	4	0	05/01/2014	05/01/2014	NZD	NZ	NZD	707996306	0	 	 	 	 	Lifestyle
+APPLE	US	ACPGT001	PBL MEDIA PTY LTD.	Gourmet Traveller	1.10.0	7T	2	0	05/01/2014	05/01/2014	USD	US	USD	374405599	0	 	 	 	 	Food & Drink
+APPLE	US	au.com.acpmagazines.gourmettraveller.subscriptions.1year	 	GT Paid Subscription_600_365	 	IAY	2	13.69	05/01/2014	05/01/2014	GBP	GB	GBP	471832473	22.49	 	ACPGT001	Renewal	1 Year	Food & Drink
+APPLE	US	au.com.acpmagazines.gourmettraveller.subscriptions.1year	 	GT Paid Subscription_600_365	 	IAY	1	0	05/01/2014	05/01/2014	TWD	TW	TWD	471832473	0	 	ACPGT001	New	1 Year	Food & Drink
+APPLE	US	com.mogeneration.acp.qantasmagazine.subscriptions.free	 	QANTAS Free sub	 	IAC	1	0	05/01/2014	05/01/2014	CAD	CA	CAD	501592717	0	 	ACP016	 	 	Travel
+APPLE	US	MAG0184	PBL MEDIA PTY LTD.	Dolly Magazine Australia	1.3.5	1F	1	0	05/01/2014	05/01/2014	NOK	NO	NOK	639967384	0	 	 	 	 	Lifestyle
+APPLE	US	com.magshop.ns.zoo.months.12.1	 	ZOO Subscription_600_365	 	IAY	-1	44.54	05/01/2014	05/01/2014	AUD	AU	AUD	626545696	-69.99	 	MAG0553	Renewal	1 Year	Entertainment
+APPLE	US	com.magshop.ns.okm.1419.1	 	OK! 1419	 	IA1	6	1.9	05/01/2014	05/01/2014	AUD	AU	AUD	644070354	2.99	 	MAG0372.2	 	 	Entertainment
+APPLE	US	MAG1755.1	PBL MEDIA PTY LTD.	Cosmopolitan Bride Magazine Australia	1.3.8	1F	1	0	05/01/2014	05/01/2014	USD	MN	USD	823254501	0	 	 	 	 	Lifestyle
+APPLE	US	au.com.bauermedia.topgear.subs.1yr	 	TopGear  Subscriptions_600_365	 	IAY	2	28.63	05/01/2014	05/01/2014	AUD	AU	AUD	725842342	44.99	 	SKU_Bauer_TopGear	Renewal	1 Year	Lifestyle
+APPLE	US	au.com.acpmagazines.aww.subscriptions.1year	 	AWW Paid Subscription_600_365	 	IAY	3	0	05/01/2014	05/01/2014	AUD	AU	AUD	471822135	0	 	ACP003	New	1 Year	Entertainment
+APPLE	US	com.magshop.ns.okm.1410.1	 	OK! 1410	 	IA1	1	1.9	05/01/2014	05/01/2014	AUD	AU	AUD	644069194	2.99	 	MAG0372.2	 	 	Entertainment
+APPLE	US	MAG0132	PBL MEDIA PTY LTD.	Cleo Magazine Australia	1.3.8	1F	4	0	05/01/2014	05/01/2014	USD	US	USD	813461450	0	 	 	 	 	Lifestyle
+APPLE	US	com.magshop.ns.wow.1310.1	 	World of Knowledge 1310	 	IA1	1	3.18	05/01/2014	05/01/2014	AUD	AU	AUD	722573557	4.99	 	MAG2181	 	 	Education
+APPLE	US	MAG0001	PBL MEDIA PTY LTD.	Magshop	2.4.1	7F	1	0	05/01/2014	05/01/2014	NZD	NZ	NZD	378036778	0	 	 	 	 	Lifestyle
+APPLE	US	com.magshop.ns.zoo.1416.1	 	ZOO Weekly 1416	 	IA1	2	1.4	05/01/2014	05/01/2014	USD	US	USD	738259658	1.99	 	MAG0553	 	 	Entertainment
+APPLE	US	MAG0132	PBL MEDIA PTY LTD.	Cleo Magazine Australia	1.3.8	1F	19	0	05/01/2014	05/01/2014	AUD	AU	AUD	813461450	0	 	 	 	 	Lifestyle
+APPLE	US	SKU_Bauer_HNG	PBL MEDIA PTY LTD.	Australian House & Garden Magazine	1.0.10	1T	1	0	05/01/2014	05/01/2014	EUR	BE	EUR	735558949	0	 	 	 	 	Lifestyle
+APPLE	US	MAG0053	PBL MEDIA PTY LTD.	Australian Geographic Outdoor Magazine	1.3.5	1F	1	0	05/01/2014	05/01/2014	EUR	IT	EUR	639977537	0	 	 	 	 	Lifestyle
+APPLE	US	MAG0031	PBL MEDIA PTY LTD.	Australasian Dirt Bike Magazine	1.3.5	7F	1	0	05/01/2014	05/01/2014	CNY	CN	CNY	639973451	0	 	 	 	 	Sports
+APPLE	US	MAG0004	PBL MEDIA PTY LTD.	4x4 Magazine Australia	1.3.5	1F	4	0	05/01/2014	05/01/2014	NZD	NZ	NZD	639975024	0	 	 	 	 	Lifestyle
+APPLE	US	MAG2068	PBL MEDIA PTY LTD.	Women's Fitness Magazine Australia	1.3.5	1F	1	0	05/01/2014	05/01/2014	CNY	CN	CNY	639975696	0	 	 	 	 	Health & Fitness
+APPLE	US	com.magshop.ns.clo.1405.1	 	CLO 1405	 	IA1	4	3.81	05/01/2014	05/01/2014	AUD	AU	AUD	833158886	5.99	 	MAG0132	 	 	Lifestyle
+APPLE	US	MAG1273	PBL MEDIA PTY LTD.	recipes+ Magazine	1.3.5	7F	1	0	05/01/2014	05/01/2014	IDR	ID	IDR	574676839	0	 	 	 	 	Food & Drink
+APPLE	US	MAG1273	PBL MEDIA PTY LTD.	recipes+ Magazine	1.3.5	1F	1	0	05/01/2014	05/01/2014	EUR	DE	EUR	574676839	0	 	 	 	 	Food & Drink
+APPLE	US	MAG1273	PBL MEDIA PTY LTD.	recipes+ Magazine	1.3.5	1F	1	0	05/01/2014	05/01/2014	IDR	ID	IDR	574676839	0	 	 	 	 	Food & Drink
+APPLE	US	MAG1273	PBL MEDIA PTY LTD.	recipes+ Magazine	1.3.5	1F	1	0	05/01/2014	05/01/2014	ZAR	ZA	ZAR	574676839	0	 	 	 	 	Food & Drink
+APPLE	US	MAG0449	PBL MEDIA PTY LTD.	Street Machine Magazine	1.3.5	1F	1	0	05/01/2014	05/01/2014	EUR	IT	EUR	639978561	0	 	 	 	 	Lifestyle
+APPLE	US	MAG0553	PBL MEDIA PTY LTD.	ZOO Weekly Australia	1.3.5	1F	5	0	05/01/2014	05/01/2014	RUB	RU	RUB	622413964	0	 	 	 	 	Entertainment
+APPLE	US	MAG0958	PBL MEDIA PTY LTD.	Cosmopolitan Australia	1.4.0	7F	15	0	05/01/2014	05/01/2014	NZD	NZ	NZD	639978764	0	 	 	 	 	Lifestyle
+APPLE	US	MAG0553	PBL MEDIA PTY LTD.	ZOO Weekly Australia	1.3.5	1F	6	0	05/01/2014	05/01/2014	CAD	CA	CAD	622413964	0	 	 	 	 	Entertainment
+APPLE	US	com.magshop.gme.1405.1	 	Good Health 2014-05	 	IA1	1	4.13	05/01/2014	05/01/2014	AUD	AU	AUD	802532025	6.49	 	MAG0001	 	 	Lifestyle
+APPLE	US	SKU_Bauer_ElleMag	PBL MEDIA PTY LTD.	ELLE Australia	1.0.10	7T	2	0	05/01/2014	05/01/2014	NZD	NZ	NZD	694551705	0	 	 	 	 	Lifestyle
+APPLE	US	com.magshop.mby.1312.1	 	Mother and Baby 2013-12	 	IA1	1	4.13	05/01/2014	05/01/2014	AUD	AU	AUD	603840399	6.49	 	MAG0001	 	 	Lifestyle
+APPLE	US	com.magshop.ns.zoo.1348.1	 	ZOO Weekly 1348	 	IA1	1	2.1	05/01/2014	05/01/2014	USD	US	USD	664943946	2.99	 	MAG0553	 	 	Entertainment
+APPLE	US	MAG0430	PBL MEDIA PTY LTD.	Shop Til You Drop	1.3.5	1F	51	0	05/01/2014	05/01/2014	AUD	AU	AUD	574686823	0	 	 	 	 	Lifestyle
+APPLE	US	MAG0004	PBL MEDIA PTY LTD.	4x4 Magazine Australia	1.3.5	7F	1	0	05/01/2014	05/01/2014	USD	AR	USD	639975024	0	 	 	 	 	Lifestyle
+APPLE	US	SKU_Bauer_Wheels	PBL MEDIA PTY LTD.	WHEELS AUSTRALIA MAGAZINE	1.0.10	7T	5	0	05/01/2014	05/01/2014	NZD	NZ	NZD	617924139	0	 	 	 	 	Lifestyle
+APPLE	US	SKU_Bauer_Wheels	PBL MEDIA PTY LTD.	WHEELS AUSTRALIA MAGAZINE	1.0.10	1T	35	0	05/01/2014	05/01/2014	AUD	AU	AUD	617924139	0	 	 	 	 	Lifestyle
+APPLE	US	SKU_Bauer_Wheels	PBL MEDIA PTY LTD.	WHEELS AUSTRALIA MAGAZINE	1.0.10	1T	7	0	05/01/2014	05/01/2014	NZD	NZ	NZD	617924139	0	 	 	 	 	Lifestyle
+APPLE	US	MAG0354	PBL MEDIA PTY LTD.	Mother & Baby Magazine Australia	1.3.5	1F	7	0	05/01/2014	05/01/2014	AUD	AU	AUD	639982558	0	 	 	 	 	Lifestyle
+APPLE	US	ACP003	PBL MEDIA PTY LTD.	The Australian Women's Weekly	1.10.0	1T	1	0	05/01/2014	05/01/2014	EUR	NL	EUR	384025506	0	 	 	 	 	Entertainment
+APPLE	US	SKUTRADER_Earthmovers	PBL MEDIA PTY LTD.	Earthmovers and Excavators for iPad	1.1	1T	1	0	05/01/2014	05/01/2014	DKK	DK	DKK	546261009	0	 	 	 	 	News
+APPLE	US	MAG0372.2	PBL MEDIA PTY LTD.	OK! Magazine Australia	1.3.5	1F	2	0	05/01/2014	05/01/2014	NZD	NZ	NZD	639977310	0	 	 	 	 	Entertainment
+APPLE	US	com.magshop.ns.zoo.1419.1	 	ZOO Weekly 1419	 	IA1	17	1.9	05/01/2014	05/01/2014	AUD	AU	AUD	738259672	2.99	 	MAG0553	 	 	Entertainment
+APPLE	US	ACP_AWW_Recipes	PBL MEDIA PTY LTD.	The Australian Women's Weekly Cookbooks	2.2.1	7T	16	0	05/01/2014	05/01/2014	NZD	NZ	NZD	393065903	0	 	 	 	 	Food & Drink
+APPLE	US	ACP_AWW_Recipes	PBL MEDIA PTY LTD.	The Australian Women's Weekly Cookbooks	2.2.1	7T	2	0	05/01/2014	05/01/2014	USD	EG	USD	393065903	0	 	 	 	 	Food & Drink
+APPLE	US	ACP_AWW_Recipes	PBL MEDIA PTY LTD.	The Australian Women's Weekly Cookbooks	2.2.1	7T	1	0	05/01/2014	05/01/2014	INR	IN	INR	393065903	0	 	 	 	 	Food & Drink
+APPLE	US	au.com.acpmagazines.aww.2014.may	 	AWW May 2014	 	IA1	1	1.52	05/01/2014	05/01/2014	GBP	GB	GBP	670870608	2.49	 	ACP003	 	 	Entertainment
+APPLE	US	au.com.acpmagazines.aww.subscriptions.1month	 	AWW Paid Subscription_200_30	 	IAY	2	2.1	05/01/2014	05/01/2014	USD	US	USD	471819015	2.99	 	ACP003	Renewal	1 Month	Entertainment
+APPLE	US	MAG1273	PBL MEDIA PTY LTD.	recipes+ Magazine	1.3.5	1F	110	0	05/01/2014	05/01/2014	AUD	AU	AUD	574676839	0	 	 	 	 	Food & Drink
+APPLE	US	com.magshop.ns.new.1417.1	 	NW 1417	 	IA1	2	2.09	05/01/2014	05/01/2014	NZD	NZ	NZD	738227016	2.99	 	MAG0369	 	 	Entertainment
+APPLE	US	com.magshop.ns.wdw.1414.1	 	Woman's Day 1414	 	IA1	1	1.9	05/01/2014	05/01/2014	AUD	AU	AUD	797236399	2.99	 	MAG0536	 	 	Entertainment
+APPLE	US	GTRG2014	PBL MEDIA PTY LTD.	GT 2014 Restaurant Guide	1.2.5	1	49	0	05/01/2014	05/01/2014	AUD	AU	AUD	705700418	0	 	 	 	 	Food & Drink
+APPLE	US	BeautyBites_001	PBL MEDIA PTY LTD.	Beauty Bites	1.2.2	1	1	0	05/01/2014	05/01/2014	EUR	ES	EUR	684585688	0	 	 	 	 	Lifestyle
+APPLE	US	com.magshop.ns.dol.months.1.1	 	Dolly Magazine Australia Subscription_200_30	 	IAY	1	0	05/01/2014	05/01/2014	NZD	NZ	NZD	642290338	0	 	MAG0184	New	1 Month	Lifestyle
+APPLE	US	com.magshop.ns.mon.months.1.1	 	Money Subscription_200_30	 	IAY	3	2.54	05/01/2014	05/01/2014	AUD	AU	AUD	575093467	3.99	 	MAG0352	Renewal	1 Month	Finance
+APPLE	US	SKU_Bauer_TopGear	PBL MEDIA PTY LTD.	TopGear Australia Magazine	1.0.9	1T	1	0	05/01/2014	05/01/2014	EUR	DE	EUR	725842093	0	 	 	 	 	Lifestyle
+APPLE	US	com.magshop.new.1418.1	 	NW 1418	 	IA1	8	2.41	05/01/2014	05/01/2014	AUD	AU	AUD	737567962	3.79	 	MAG0001	 	 	Lifestyle
+APPLE	US	com.magshop.ns.rcp.months.1.1	 	recipes+ Subscription_200_30	 	IAY	2	1.9	05/01/2014	05/01/2014	AUD	AU	AUD	657989110	2.99	 	MAG1273	Renewal	1 Month	Food & Drink
+APPLE	US	com.magshop.ns.amw.months.1.1	 	Australian Motorcycle News Subscription_200_30	 	IAY	1	6.99	05/01/2014	05/01/2014	NZD	NZ	NZD	601969729	9.99	 	MAG0067	Renewal	1 Month	Sports
+APPLE	US	com.magshop.you.1407.1	 	Yours 1407	 	IA1	2	2.41	05/01/2014	05/01/2014	AUD	AU	AUD	868457925	3.79	 	MAG0001	 	 	Lifestyle
+APPLE	US	au.com.acpmagazines.aww.subscriptions.1month	 	AWW Paid Subscription_200_30	 	IAY	1	1.82	05/01/2014	05/01/2014	EUR	DE	EUR	471819015	2.99	 	ACP003	Renewal	1 Month	Entertainment
+APPLE	US	au.com.acpmagazines.aww.subscriptions.1month	 	AWW Paid Subscription_200_30	 	IAY	1	1.82	05/01/2014	05/01/2014	EUR	NL	EUR	471819015	2.99	 	ACP003	Renewal	1 Month	Entertainment
+APPLE	US	SKU_Bauer_HNG	PBL MEDIA PTY LTD.	Australian House & Garden Magazine	1.0.10	7T	1	0	05/01/2014	05/01/2014	NZD	NZ	NZD	735558949	0	 	 	 	 	Lifestyle
+APPLE	US	SKU_Bauer_HNG	PBL MEDIA PTY LTD.	Australian House & Garden Magazine	1.0.10	7T	1	0	05/01/2014	05/01/2014	USD	GT	USD	735558949	0	 	 	 	 	Lifestyle
+APPLE	US	MAG0256	PBL MEDIA PTY LTD.	Gourmet Traveller WINE Magazine	1.3.5	1F	1	0	05/01/2014	05/01/2014	CAD	CA	CAD	639981929	0	 	 	 	 	Lifestyle
+APPLE	US	au.com.bauermedia.australiangeographic.subscriptions.2mth	 	Aus Geo Subscriptions_300_60	 	IAY	1	0	05/01/2014	05/01/2014	INR	IN	INR	661958408	0	 	SKU_Bauer_Australian_Geographic	New	2 Months	Education
+APPLE	US	MAG0958	PBL MEDIA PTY LTD.	Cosmopolitan Australia	1.4.0	1F	1	0	05/01/2014	05/01/2014	EUR	FR	EUR	639978764	0	 	 	 	 	Lifestyle
+APPLE	US	MAG0958	PBL MEDIA PTY LTD.	Cosmopolitan Australia	1.4.0	7F	1	0	05/01/2014	05/01/2014	EUR	IE	EUR	639978764	0	 	 	 	 	Lifestyle
+APPLE	US	MAG0958	PBL MEDIA PTY LTD.	Cosmopolitan Australia	1.4.0	7F	1	0	05/01/2014	05/01/2014	USD	MY	USD	639978764	0	 	 	 	 	Lifestyle
+APPLE	US	MAG0043	PBL MEDIA PTY LTD.	Auto Action Magazine Australia	1.3.5	1F	1	0	05/01/2014	05/01/2014	EUR	DE	EUR	639980943	0	 	 	 	 	Sports
+APPLE	US	ACP011	PBL MEDIA PTY LTD.	Harper’s BAZAAR Australia Runway Report	1.6.1	7T	1	0	05/01/2014	05/01/2014	USD	US	USD	448250232	0	 	 	 	 	Entertainment
+APPLE	US	au.com.bauermedia.wwmag.2014.04.issue	 	WW Mag 2014.04 - Apr issue	 	IA1	1	30.79	05/01/2014	05/01/2014	ZAR	ZA	ZAR	648323706	43.99	 	SKU_Bauer_WeightWatchers	 	 	Health & Fitness
+APPLE	US	au.com.acpmagazines.gourmettraveller.subscriptions.1month	 	GT Paid Subscription_200_30	 	IAY	2	0	05/01/2014	05/01/2014	AUD	AU	AUD	471832348	0	 	ACPGT001	New	1 Month	Food & Drink
+APPLE	US	MAG0204.1	PBL MEDIA PTY LTD.	Empire Australasia	1.3.8	1F	2	0	05/01/2014	05/01/2014	RUB	RU	RUB	823231884	0	 	 	 	 	Entertainment
+APPLE	US	MAG0204.1	PBL MEDIA PTY LTD.	Empire Australasia	1.3.8	1F	1	0	05/01/2014	05/01/2014	USD	EG	USD	823231884	0	 	 	 	 	Entertainment
+APPLE	US	MAG0410.1	PBL MEDIA PTY LTD.	Real Living Australia	1.3.8	1F	2	0	05/01/2014	05/01/2014	CNY	CN	CNY	823384894	0	 	 	 	 	Lifestyle
+APPLE	US	MAG0184	PBL MEDIA PTY LTD.	Dolly Magazine Australia	1.3.5	1F	2	0	05/01/2014	05/01/2014	CAD	CA	CAD	639967384	0	 	 	 	 	Lifestyle
+APPLE	US	MAG0067	PBL MEDIA PTY LTD.	Australian Motorcycle News	1.3.5	1F	1	0	05/01/2014	05/01/2014	USD	MY	USD	598117425	0	 	 	 	 	Sports
+APPLE	US	com.magshop.ns.rlw.1418.1	 	Rugby League Week 1418	 	IA1	1	2.8	05/01/2014	05/01/2014	USD	TH	USD	738227525	3.99	 	MAG0421	 	 	Sports
+APPLE	US	com.magshop.ns.cos.months.12.1	 	Cosmopolitan Australia Subscription_600_365	 	IAY	1	25.45	05/01/2014	05/01/2014	AUD	AU	AUD	642292690	39.99	 	MAG0958	Renewal	1 Year	Lifestyle
+APPLE	US	com.magshop.ns.stm.months.1.1	 	Street Machine Magazine Subscription_200_30	 	IAY	2	0	05/01/2014	05/01/2014	AUD	AU	AUD	643505237	0	 	MAG0449	New	1 Month	Lifestyle
+APPLE	US	au.com.acpmagazines.gourmettraveller.subscriptions.6months	 	GT Paid Subscription_500_180	 	IAY	2	8.52	05/01/2014	05/01/2014	GBP	GB	GBP	471832471	13.99	 	ACPGT001	Renewal	6 Months	Food & Drink
+APPLE	US	com.magshop.ns.rcp.months.12.1	 	recipes+ Subscription_600_365	 	IAY	6	12.72	05/01/2014	05/01/2014	AUD	AU	AUD	575093861	19.99	 	MAG1273	Renewal	1 Year	Food & Drink
+APPLE	US	MAG0369	PBL MEDIA PTY LTD.	NW Magazine	1.3.5	1F	2	0	05/01/2014	05/01/2014	USD	US	USD	574650057	0	 	 	 	 	Entertainment
+APPLE	US	MAG0253	PBL MEDIA PTY LTD.	Good Health Magazine	1.3.5	1F	16	0	05/01/2014	05/01/2014	TWD	TW	TWD	574688852	0	 	 	 	 	Health & Fitness
+APPLE	US	MAG0352	PBL MEDIA PTY LTD.	Money Magazine Australia	1.3.5	1F	1	0	05/01/2014	05/01/2014	EUR	IT	EUR	574683215	0	 	 	 	 	Finance
+APPLE	US	com.magshop.ns.zoo.1333.1	 	ZOO Weekly 1333	 	IA1	1	2.41	05/01/2014	05/01/2014	AUD	AU	AUD	664938348	3.79	 	MAG0553	 	 	Entertainment
+APPLE	US	com.mogeneration.acp.qantasmagazine.subscriptions.free	 	QANTAS Free sub	 	IAC	14	0	05/01/2014	05/01/2014	AUD	AU	AUD	501592717	0	 	ACP016	 	 	Travel
+APPLE	US	MAG0369	PBL MEDIA PTY LTD.	NW Magazine	1.3.5	7F	1	0	05/01/2014	05/01/2014	CNY	CN	CNY	574650057	0	 	 	 	 	Entertainment
+APPLE	US	MAG0369	PBL MEDIA PTY LTD.	NW Magazine	1.3.5	1F	1	0	05/01/2014	05/01/2014	EUR	AT	EUR	574650057	0	 	 	 	 	Entertainment
+APPLE	US	SKU_Bauer_Wheels	PBL MEDIA PTY LTD.	WHEELS AUSTRALIA MAGAZINE	1.0.10	7T	1	0	05/01/2014	05/01/2014	GBP	GB	GBP	617924139	0	 	 	 	 	Lifestyle
+APPLE	US	au.com.bauermedia.wheels.subscriptions.1yr	 	Wheels Subscriptions_600_365	 	IAY	2	0	05/01/2014	05/01/2014	AUD	AU	AUD	624343158	0	 	SKU_Bauer_Wheels	New	1 Year	Lifestyle
+APPLE	US	com.mogeneration.acp.harpersbazaar.subscriptions3.1year	 	Harpers Auto Renewable Subs_600_365	 	IAY	1	2.8	05/01/2014	05/01/2014	USD	MY	USD	497852766	3.99	 	ACP011	Renewal	1 Year	Entertainment
+APPLE	US	ACPGT001	PBL MEDIA PTY LTD.	Gourmet Traveller	1.10.0	1T	1	0	05/01/2014	05/01/2014	EUR	BG	EUR	374405599	0	 	 	 	 	Food & Drink
+APPLE	US	ACPGT001	PBL MEDIA PTY LTD.	Gourmet Traveller	1.10.0	1T	3	0	05/01/2014	05/01/2014	GBP	GB	GBP	374405599	0	 	 	 	 	Food & Drink
+APPLE	US	ACPGT001	PBL MEDIA PTY LTD.	Gourmet Traveller	1.10.0	1T	1	0	05/01/2014	05/01/2014	ZAR	ZA	ZAR	374405599	0	 	 	 	 	Food & Drink
+APPLE	US	ACPGT001	PBL MEDIA PTY LTD.	Gourmet Traveller	1.10.0	1T	6	0	05/01/2014	05/01/2014	USD	VN	USD	374405599	0	 	 	 	 	Food & Drink
+APPLE	US	MAG2414	PBL MEDIA PTY LTD.	Yours Magazine Australia	1.3.8	1F	4	0	05/01/2014	05/01/2014	AUD	AU	AUD	813441022	0	 	 	 	 	Lifestyle
+APPLE	US	SKUTRADER_SupplyChainReview	PBL MEDIA PTY LTD.	Supply Chain Review (SCR) for iPad	1.0	1T	1	0	05/01/2014	05/01/2014	USD	MY	USD	561378101	0	 	 	 	 	News
+APPLE	US	SKUTRADER_SupplyChainReview	PBL MEDIA PTY LTD.	Supply Chain Review (SCR) for iPad	1.0	1T	1	0	05/01/2014	05/01/2014	RUB	RU	RUB	561378101	0	 	 	 	 	News
+APPLE	US	com.magshop.ns.zoo.1401.1	 	ZOO Weekly 1401	 	IA1	1	1.4	05/01/2014	05/01/2014	USD	US	USD	664947204	1.99	 	MAG0553	 	 	Entertainment
+APPLE	US	MAG0421	PBL MEDIA PTY LTD.	Rugby League Week	1.3.7	1F	4	0	05/01/2014	05/01/2014	GBP	GB	GBP	505309539	0	 	 	 	 	Sports
+APPLE	US	MAG0421	PBL MEDIA PTY LTD.	Rugby League Week	1.3.7	7F	51	0	05/01/2014	05/01/2014	AUD	AU	AUD	505309539	0	 	 	 	 	Sports
+APPLE	US	MAG0421	PBL MEDIA PTY LTD.	Rugby League Week	1.3.7	1F	67	0	05/01/2014	05/01/2014	AUD	AU	AUD	505309539	0	 	 	 	 	Sports
+APPLE	US	MAG0421	PBL MEDIA PTY LTD.	Rugby League Week	1.3.7	7F	7	0	05/01/2014	05/01/2014	NZD	NZ	NZD	505309539	0	 	 	 	 	Sports
+APPLE	US	MAG0536	PBL MEDIA PTY LTD.	Woman's Day	1.3.5	1F	110	0	05/01/2014	05/01/2014	AUD	AU	AUD	547520978	0	 	 	 	 	Entertainment
+APPLE	US	ACPGT001	PBL MEDIA PTY LTD.	Gourmet Traveller	1.10.0	1T	57	0	05/01/2014	05/01/2014	AUD	AU	AUD	374405599	0	 	 	 	 	Food & Drink
+APPLE	US	ACPGT001	PBL MEDIA PTY LTD.	Gourmet Traveller	1.10.0	7T	4	0	05/01/2014	05/01/2014	NZD	NZ	NZD	374405599	0	 	 	 	 	Food & Drink
+APPLE	US	MAG0053	PBL MEDIA PTY LTD.	Australian Geographic Outdoor Magazine	1.3.5	1F	5	0	05/01/2014	05/01/2014	AUD	AU	AUD	639977537	0	 	 	 	 	Lifestyle
+APPLE	US	com.magshop.ns.mot.1405.1	 	Motor 1405	 	IA1	4	4.13	05/01/2014	05/01/2014	AUD	AU	AUD	645783480	6.49	 	MAG0355	 	 	Lifestyle
+APPLE	US	com.magshop.ns.new.1418.1	 	NW 1418	 	IA1	47	1.9	05/01/2014	05/01/2014	AUD	AU	AUD	738227029	2.99	 	MAG0369	 	 	Entertainment
+APPLE	US	au.com.acpmagazines.gourmettraveller.subscriptions.6months	 	GT Paid Subscription_500_180	 	IAY	19	15.9	05/01/2014	05/01/2014	AUD	AU	AUD	471832471	24.99	 	ACPGT001	Renewal	6 Months	Food & Drink
+APPLE	US	MAG0184	PBL MEDIA PTY LTD.	Dolly Magazine Australia	1.3.5	1F	1	0	05/01/2014	05/01/2014	INR	IN	INR	639967384	0	 	 	 	 	Lifestyle
+APPLE	US	MAG0184	PBL MEDIA PTY LTD.	Dolly Magazine Australia	1.3.5	1F	3	0	05/01/2014	05/01/2014	GBP	GB	GBP	639967384	0	 	 	 	 	Lifestyle
+APPLE	US	MAG0184	PBL MEDIA PTY LTD.	Dolly Magazine Australia	1.3.5	1F	1	0	05/01/2014	05/01/2014	RUB	RU	RUB	639967384	0	 	 	 	 	Lifestyle
+APPLE	US	com.magshop.ns.amw.1409.1	 	AMCN 1409	 	IA1	12	3.81	05/01/2014	05/01/2014	AUD	AU	AUD	738190913	5.99	 	MAG0067	 	 	Sports
+APPLE	US	com.magshop.ns.mon.months.1.1	 	Money Subscription_200_30	 	IAY	1	1.21	05/01/2014	05/01/2014	GBP	GB	GBP	575093467	1.99	 	MAG0352	Renewal	1 Month	Finance
+APPLE	US	com.mogeneration.acp.harpersbazaar.2014.spring	 	Harper's Spring Summer 2014	 	IA1	2	2.41	05/01/2014	05/01/2014	AUD	AU	AUD	551502519	3.79	 	ACP011	 	 	Entertainment
+APPLE	US	MAG0449	PBL MEDIA PTY LTD.	Street Machine Magazine	1.3.5	1F	6	0	05/01/2014	05/01/2014	USD	US	USD	639978561	0	 	 	 	 	Lifestyle
+APPLE	US	com.magshop.ns.cos.months.6.1	 	Cosmopolitan Australia Subscription_500_180	 	IAY	4	13.99	05/01/2014	05/01/2014	AUD	AU	AUD	642292681	21.99	 	MAG0958	Renewal	6 Months	Lifestyle
+APPLE	US	com.magshop.ns.zoo.1347.1	 	ZOO Weekly 1347	 	IA1	1	2.41	05/01/2014	05/01/2014	AUD	AU	AUD	664943931	3.79	 	MAG0553	 	 	Entertainment
+APPLE	US	com.magshop.ns.zoo.1416.1	 	ZOO Weekly 1416	 	IA1	4	1.9	05/01/2014	05/01/2014	AUD	AU	AUD	738259658	2.99	 	MAG0553	 	 	Entertainment
+APPLE	US	MAG1755.1	PBL MEDIA PTY LTD.	Cosmopolitan Bride Magazine Australia	1.3.8	1F	4	0	05/01/2014	05/01/2014	TRY	TR	TRY	823254501	0	 	 	 	 	Lifestyle
+APPLE	US	MAG1755.1	PBL MEDIA PTY LTD.	Cosmopolitan Bride Magazine Australia	1.3.8	1F	1	0	05/01/2014	05/01/2014	EUR	AT	EUR	823254501	0	 	 	 	 	Lifestyle
+APPLE	US	MAG1755.1	PBL MEDIA PTY LTD.	Cosmopolitan Bride Magazine Australia	1.3.8	1F	3	0	05/01/2014	05/01/2014	SEK	SE	SEK	823254501	0	 	 	 	 	Lifestyle
+APPLE	US	MAG0001	PBL MEDIA PTY LTD.	Magshop	2.4.1	1F	10	0	05/01/2014	05/01/2014	AUD	AU	AUD	378036778	0	 	 	 	 	Lifestyle
+APPLE	US	MAG0132	PBL MEDIA PTY LTD.	Cleo Magazine Australia	1.3.8	1F	3	0	05/01/2014	05/01/2014	NZD	NZ	NZD	813461450	0	 	 	 	 	Lifestyle
+APPLE	US	MAG0053	PBL MEDIA PTY LTD.	Australian Geographic Outdoor Magazine	1.3.5	1F	2	0	05/01/2014	05/01/2014	CAD	CA	CAD	639977537	0	 	 	 	 	Lifestyle
+APPLE	US	SKU_Bauer_HNG	PBL MEDIA PTY LTD.	Australian House & Garden Magazine	1.0.10	7T	1	0	05/01/2014	05/01/2014	IDR	ID	IDR	735558949	0	 	 	 	 	Lifestyle
+APPLE	US	SKU_Bauer_HNG	PBL MEDIA PTY LTD.	Australian House & Garden Magazine	1.0.10	7T	1	0	05/01/2014	05/01/2014	USD	KR	USD	735558949	0	 	 	 	 	Lifestyle
+APPLE	US	ACP_AWW_Recipes	PBL MEDIA PTY LTD.	The Australian Women's Weekly Cookbooks	2.2.1	7T	1	0	05/01/2014	05/01/2014	USD	MO	USD	393065903	0	 	 	 	 	Food & Drink
+APPLE	US	MAG0352	PBL MEDIA PTY LTD.	Money Magazine Australia	1.3.5	1F	43	0	05/01/2014	05/01/2014	AUD	AU	AUD	574683215	0	 	 	 	 	Finance
+APPLE	US	MAG1273	PBL MEDIA PTY LTD.	recipes+ Magazine	1.3.5	7F	1	0	05/01/2014	05/01/2014	TRY	TR	TRY	574676839	0	 	 	 	 	Food & Drink
+APPLE	US	MAG1273	PBL MEDIA PTY LTD.	recipes+ Magazine	1.3.5	1F	1	0	05/01/2014	05/01/2014	SAR	SA	SAR	574676839	0	 	 	 	 	Food & Drink
+APPLE	US	MAG1273	PBL MEDIA PTY LTD.	recipes+ Magazine	1.3.5	7F	1	0	05/01/2014	05/01/2014	USD	PH	USD	574676839	0	 	 	 	 	Food & Drink
+APPLE	US	com.magshop.ns.mon.months.6.1	 	Money Subscription_500_180	 	IAY	2	0	05/01/2014	05/01/2014	AUD	AU	AUD	575093468	0	 	MAG0352	New	6 Months	Finance
+APPLE	US	MAG0553	PBL MEDIA PTY LTD.	ZOO Weekly Australia	1.3.5	1F	4	0	05/01/2014	05/01/2014	EUR	FR	EUR	622413964	0	 	 	 	 	Entertainment
+APPLE	US	MAG0553	PBL MEDIA PTY LTD.	ZOO Weekly Australia	1.3.5	1F	2	0	05/01/2014	05/01/2014	SGD	SG	SGD	622413964	0	 	 	 	 	Entertainment
+APPLE	US	MAG0553	PBL MEDIA PTY LTD.	ZOO Weekly Australia	1.3.5	1F	2	0	05/01/2014	05/01/2014	EUR	IE	EUR	622413964	0	 	 	 	 	Entertainment
+APPLE	US	com.magshop.ns.wdw.months.12.1	 	Woman's Day Subscription_600_365	 	IAY	1	0	05/01/2014	05/01/2014	AUD	AU	AUD	547528608	0	 	MAG0536	New	1 Year	Entertainment
+APPLE	US	au.com.acpmagazines.aww.subscriptions.6months	 	AWW Paid Subscription_500_180	 	IAY	1	0	05/01/2014	05/01/2014	AUD	AU	AUD	471821269	0	 	ACP003	New	6 Months	Entertainment
+APPLE	US	MAG0253	PBL MEDIA PTY LTD.	Good Health Magazine	1.3.5	7F	12	0	05/01/2014	05/01/2014	AUD	AU	AUD	574688852	0	 	 	 	 	Health & Fitness
+APPLE	US	com.magshop.ns.zoo.months.1.1	 	ZOO Subscription_200_30	 	IAY	8	5.72	05/01/2014	05/01/2014	AUD	AU	AUD	626544914	8.99	 	MAG0553	Renewal	1 Month	Entertainment
+APPLE	US	MAG0369	PBL MEDIA PTY LTD.	NW Magazine	1.3.5	7F	18	0	05/01/2014	05/01/2014	AUD	AU	AUD	574650057	0	 	 	 	 	Entertainment
+APPLE	US	com.magshop.win.1404.1	 	Gourmet Traveller WINE 2014-04	 	IA1	1	33.6	05/01/2014	05/01/2014	HKD	HK	HKD	738173169	48	 	MAG0001	 	 	Lifestyle
+APPLE	US	SKU_Bauer_WeightWatchers	PBL MEDIA PTY LTD.	Weight Watchers Magazine Australia	1.0.12	7T	1	0	05/01/2014	05/01/2014	EUR	IE	EUR	646610584	0	 	 	 	 	Health & Fitness
+APPLE	US	SKU_Bauer_WeightWatchers	PBL MEDIA PTY LTD.	Weight Watchers Magazine Australia	1.0.12	7T	7	0	05/01/2014	05/01/2014	EUR	DE	EUR	646610584	0	 	 	 	 	Health & Fitness
+APPLE	US	SKU_Bauer_WeightWatchers	PBL MEDIA PTY LTD.	Weight Watchers Magazine Australia	1.0.12	7T	4	0	05/01/2014	05/01/2014	EUR	NL	EUR	646610584	0	 	 	 	 	Health & Fitness
+APPLE	US	SKU_Bauer_WeightWatchers	PBL MEDIA PTY LTD.	Weight Watchers Magazine Australia	1.0.12	1T	1	0	05/01/2014	05/01/2014	EUR	FR	EUR	646610584	0	 	 	 	 	Health & Fitness
+APPLE	US	au.com.bauermedia.wwmag.subscriptions.1mth	 	Weight Watchers Subscriptions_200_30	 	IAY	1	2.79	05/01/2014	05/01/2014	NZD	NZ	NZD	646627178	3.99	 	SKU_Bauer_WeightWatchers	Renewal	1 Month	Health & Fitness
+APPLE	US	SKU_Bauer_ElleMag	PBL MEDIA PTY LTD.	ELLE Australia	1.0.10	1T	14	0	05/01/2014	05/01/2014	AUD	AU	AUD	694551705	0	 	 	 	 	Lifestyle
+APPLE	US	au.com.bauermedia.hng.subs.onemth	 	House and Garden Subscriptions_200_30	 	IAY	1	3.18	05/01/2014	05/01/2014	AUD	AU	AUD	743042926	4.99	 	SKU_Bauer_HNG	Renewal	1 Month	Lifestyle
+APPLE	US	au.com.acpmagazines.awwrecipes.15minutemeals	 	15 Minute Meals	 	IA1	1	3.34	05/01/2014	05/01/2014	GBP	GB	GBP	737551588	5.49	 	ACP_AWW_Recipes	 	 	Food & Drink
+APPLE	US	au.com.acpmagazines.awwrecipes.subscriptions.1mth	 	The Australian Women’s Weekly Cookbooks Subscriptions_200_30	 	IAY	1	4.9	05/01/2014	05/01/2014	CAD	CA	CAD	617841288	6.99	 	ACP_AWW_Recipes	New	1 Month	Food & Drink
+APPLE	US	au.com.acpmagazines.gourmettraveller.2013.september	 	GT September 2013	 	IA1	1	3.5	05/01/2014	05/01/2014	USD	CL	USD	654861382	4.99	 	ACPGT001	 	 	Food & Drink
+APPLE	US	SKU_Bauer_Australian_Geographic	PBL MEDIA PTY LTD.	Australian Geographic Magazine	1.0.16	1T	1	0	05/01/2014	05/01/2014	JPY	JP	JPY	661038898	0	 	 	 	 	Education
+APPLE	US	SKUTRADER_DealsOnWheels	PBL MEDIA PTY LTD.	Deals On Wheels for iPad	1.1	1T	1	0	05/01/2014	05/01/2014	AUD	AU	AUD	546231887	0	 	 	 	 	News
+APPLE	US	au.com.bauermedia.wwmag.subscriptions.1mth	 	Weight Watchers Subscriptions_200_30	 	IAY	1	7.69	05/01/2014	05/01/2014	AED	AE	AED	646627178	10.99	 	SKU_Bauer_WeightWatchers	Renewal	1 Month	Health & Fitness
+APPLE	US	com.magshop.ns.otd.months.2.1	 	Australian Geographic Outdoor Magazine Subscription_300_60	 	IAY	1	0	05/01/2014	05/01/2014	HKD	HK	HKD	642291044	0	 	MAG0053	New	2 Months	Lifestyle
+APPLE	US	SKU_Bauer_Australian_Geographic	PBL MEDIA PTY LTD.	Australian Geographic Magazine	1.0.16	1T	1	0	05/01/2014	05/01/2014	EUR	IT	EUR	661038898	0	 	 	 	 	Education
+APPLE	US	SKU_Bauer_Australian_Geographic	PBL MEDIA PTY LTD.	Australian Geographic Magazine	1.0.16	7T	1	0	05/01/2014	05/01/2014	EUR	PT	EUR	661038898	0	 	 	 	 	Education
+APPLE	US	SKU_Bauer_Australian_Geographic	PBL MEDIA PTY LTD.	Australian Geographic Magazine	1.0.16	1T	1	0	05/01/2014	05/01/2014	INR	IN	INR	661038898	0	 	 	 	 	Education
+APPLE	US	com.magshop.ns.fbf.months.6.1	 	4x4 Magazine Australia Subscription_500_180	 	IAY	1	0	05/01/2014	05/01/2014	AUD	AU	AUD	642632757	0	 	MAG0004	New	6 Months	Lifestyle
+APPLE	US	SKU_Bauer_Wheels	PBL MEDIA PTY LTD.	WHEELS AUSTRALIA MAGAZINE	1.0.10	7T	91	0	05/01/2014	05/01/2014	AUD	AU	AUD	617924139	0	 	 	 	 	Lifestyle
+APPLE	US	ACP003	PBL MEDIA PTY LTD.	The Australian Women's Weekly	1.10.0	1T	1	0	05/01/2014	05/01/2014	SAR	SA	SAR	384025506	0	 	 	 	 	Entertainment
+APPLE	US	com.magshop.ns.mon.1209.1	 	Money 1209	 	IA1	1	4.13	05/01/2014	05/01/2014	AUD	AU	AUD	575091672	6.49	 	MAG0352	 	 	Finance
+APPLE	US	ACP011	PBL MEDIA PTY LTD.	Harper’s BAZAAR Australia Runway Report	1.6.1	7T	9	0	05/01/2014	05/01/2014	AUD	AU	AUD	448250232	0	 	 	 	 	Entertainment
+APPLE	US	ACP_AWW_Recipes	PBL MEDIA PTY LTD.	The Australian Women's Weekly Cookbooks	2.2.1	7T	223	0	05/01/2014	05/01/2014	AUD	AU	AUD	393065903	0	 	 	 	 	Food & Drink
+APPLE	US	ACP_AWW_Recipes	PBL MEDIA PTY LTD.	The Australian Women's Weekly Cookbooks	2.2.1	1T	3	0	05/01/2014	05/01/2014	SAR	SA	SAR	393065903	0	 	 	 	 	Food & Drink
+APPLE	US	ACP_AWW_Recipes	PBL MEDIA PTY LTD.	The Australian Women's Weekly Cookbooks	2.2.1	7T	4	0	05/01/2014	05/01/2014	HKD	HK	HKD	393065903	0	 	 	 	 	Food & Drink
+APPLE	US	NZ_CO_ACPMEDIA_NORTHSOUTH	PBL MEDIA PTY LTD.	North & South	1.6.0	7F	1	0	05/01/2014	05/01/2014	NZD	NZ	NZD	378396346	0	 	 	 	 	Lifestyle
+APPLE	US	com.magshop.ns.zoo.1419.1	 	ZOO Weekly 1419	 	IA1	3	1.4	05/01/2014	05/01/2014	USD	US	USD	738259672	1.99	 	MAG0553	 	 	Entertainment
+APPLE	US	com.magshop.asm.1405.1	 	Australian Motorcyclist 2014-05	 	IA1	1	5.72	05/01/2014	05/01/2014	AUD	AU	AUD	853385010	8.99	 	MAG0001	 	 	Lifestyle
+APPLE	US	MAG1273	PBL MEDIA PTY LTD.	recipes+ Magazine	1.3.5	7F	19	0	05/01/2014	05/01/2014	AUD	AU	AUD	574676839	0	 	 	 	 	Food & Drink
+APPLE	US	com.magshop.vex.0080.1	 	V8X 2014-02	 	IA1	1	5.72	05/01/2014	05/01/2014	AUD	AU	AUD	840629636	8.99	 	MAG0001	 	 	Lifestyle
+APPLE	US	au.com.bauermedia.wwmag.2014.05.issue	 	WW Mag 2014.05 - May issue	 	IA1	1	2.8	05/01/2014	05/01/2014	USD	MY	USD	648323945	3.99	 	SKU_Bauer_WeightWatchers	 	 	Health & Fitness
+APPLE	US	MAG2414	PBL MEDIA PTY LTD.	Yours Magazine Australia	1.3.8	1F	1	0	05/01/2014	05/01/2014	EUR	DE	EUR	813441022	0	 	 	 	 	Lifestyle
+APPLE	US	com.magshop.ns.zoo.1306.1	 	ZOO Weekly 1306	 	IA1	1	2.1	05/01/2014	05/01/2014	USD	US	USD	622440194	2.99	 	MAG0553	 	 	Entertainment
+APPLE	US	com.magshop.ns.mon.months.1.1	 	Money Subscription_200_30	 	IAY	1	0	05/01/2014	05/01/2014	AUD	AU	AUD	575093467	0	 	MAG0352	New	1 Month	Finance
+APPLE	US	com.magshop.ns.zoo.1410.1	 	ZOO Weekly 1410	 	IA1	1	1.4	05/01/2014	05/01/2014	USD	US	USD	738259632	1.99	 	MAG0553	 	 	Entertainment
+APPLE	US	com.magshop.ns.gme.months.6.1	 	Good Health Subscription_500_180	 	IAY	2	0	05/01/2014	05/01/2014	AUD	AU	AUD	575094512	0	 	MAG0253	New	6 Months	Health & Fitness
+APPLE	US	au.com.acpmagazines.aww.subscriptions.1month	 	AWW Paid Subscription_200_30	 	IAY	1	16.1	05/01/2014	05/01/2014	HKD	HK	HKD	471819015	23	 	ACP003	Renewal	1 Month	Entertainment
+APPLE	US	au.com.acpmagazines.aww.subscriptions.1month	 	AWW Paid Subscription_200_30	 	IAY	1	63	05/01/2014	05/01/2014	TWD	TW	TWD	471819015	90	 	ACP003	Renewal	1 Month	Entertainment
+APPLE	US	com.magshop.ns.stm.1405.1	 	Street Machine 1405	 	IA1	1	4.13	05/01/2014	05/01/2014	AUD	AU	AUD	645423647	6.49	 	MAG0449	 	 	Lifestyle
+APPLE	US	au.com.acpmagazines.gourmettraveller.subscriptions.3months	 	GT Paid Subscription_400_90	 	IAY	14	8.27	05/01/2014	05/01/2014	AUD	AU	AUD	471832470	12.99	 	ACPGT001	Renewal	3 Months	Food & Drink
+APPLE	US	SKU_Bauer_WeightWatchers	PBL MEDIA PTY LTD.	Weight Watchers Magazine Australia	1.0.12	1T	5	0	05/01/2014	05/01/2014	CAD	CA	CAD	646610584	0	 	 	 	 	Health & Fitness
+APPLE	US	SKU_Bauer_WeightWatchers	PBL MEDIA PTY LTD.	Weight Watchers Magazine Australia	1.0.12	7T	11	0	05/01/2014	05/01/2014	CAD	CA	CAD	646610584	0	 	 	 	 	Health & Fitness
+APPLE	US	com.magshop.ns.cos.months.1.1	 	Cosmopolitan Australia Subscription_200_30	 	IAY	1	12.6	05/01/2014	05/01/2014	CNY	CN	CNY	642292678	18	 	MAG0958	Renewal	1 Month	Lifestyle
+APPLE	US	com.magshop.ns.shp.1408.1	 	Shop Til you Drop 1408	 	IA1	5	1.9	05/01/2014	05/01/2014	AUD	AU	AUD	756311503	2.99	 	MAG0430	 	 	Lifestyle
+APPLE	US	GTRG2014	PBL MEDIA PTY LTD.	GT 2014 Restaurant Guide	1.2.5	1	5	0	05/01/2014	05/01/2014	USD	US	USD	705700418	0	 	 	 	 	Food & Drink
+APPLE	US	com.magshop.amw.1408.1	 	Australian Motorcycle News 1408	 	IA1	1	3.81	05/01/2014	05/01/2014	AUD	AU	AUD	734187157	5.99	 	MAG0001	 	 	Lifestyle
+APPLE	US	MAG0410.1	PBL MEDIA PTY LTD.	Real Living Australia	1.3.8	1F	1	0	05/01/2014	05/01/2014	EUR	IT	EUR	823384894	0	 	 	 	 	Lifestyle
+APPLE	US	com.magshop.ns.you.months.1.1	 	Yours Magazine  Subscription_200_30	 	IAY	1	0	05/01/2014	05/01/2014	AUD	AU	AUD	824461663	0	 	MAG2414	New	1 Month	Lifestyle
+APPLE	US	MAG0184	PBL MEDIA PTY LTD.	Dolly Magazine Australia	1.3.5	1F	6	0	05/01/2014	05/01/2014	USD	BR	USD	639967384	0	 	 	 	 	Lifestyle
+APPLE	US	MAG0256	PBL MEDIA PTY LTD.	Gourmet Traveller WINE Magazine	1.3.5	1F	1	0	05/01/2014	05/01/2014	USD	KR	USD	639981929	0	 	 	 	 	Lifestyle
+APPLE	US	com.magshop.ns.rlw.1418.1	 	Rugby League Week 1418	 	IA1	1	1.52	05/01/2014	05/01/2014	GBP	GB	GBP	738227525	2.49	 	MAG0421	 	 	Sports
+APPLE	US	com.magshop.ns.win.months.6.1	 	Gourmet Traveller WINE Magazine Subscription_500_180	 	IAY	1	10.81	05/01/2014	05/01/2014	AUD	AU	AUD	642293815	16.99	 	MAG0256	Renewal	6 Months	Lifestyle
+APPLE	US	SKU_Bauer_TopGear	PBL MEDIA PTY LTD.	TopGear Australia Magazine	1.0.9	7T	10	0	05/01/2014	05/01/2014	AUD	AU	AUD	725842093	0	 	 	 	 	Lifestyle
+APPLE	US	SKU_Bauer_TopGear	PBL MEDIA PTY LTD.	TopGear Australia Magazine	1.0.9	1T	8	0	05/01/2014	05/01/2014	AUD	AU	AUD	725842093	0	 	 	 	 	Lifestyle
+APPLE	US	com.magshop.hgn.1405.1	 	House & Garden 2014-05	 	IA1	3	4.13	05/01/2014	05/01/2014	AUD	AU	AUD	734130713	6.49	 	MAG0001	 	 	Lifestyle
+APPLE	US	MAG0253	PBL MEDIA PTY LTD.	Good Health Magazine	1.3.5	1F	7	0	05/01/2014	05/01/2014	USD	VN	USD	574688852	0	 	 	 	 	Health & Fitness
+APPLE	US	MAG0253	PBL MEDIA PTY LTD.	Good Health Magazine	1.3.5	1F	14	0	05/01/2014	05/01/2014	USD	MY	USD	574688852	0	 	 	 	 	Health & Fitness
+APPLE	US	MAG0352	PBL MEDIA PTY LTD.	Money Magazine Australia	1.3.5	7F	1	0	05/01/2014	05/01/2014	SGD	SG	SGD	574683215	0	 	 	 	 	Finance
+APPLE	US	com.magshop.amw.1409.1	 	Australian Motorcycle News 1409	 	IA1	20	3.81	05/01/2014	05/01/2014	AUD	AU	AUD	734187161	5.99	 	MAG0001	 	 	Lifestyle
+APPLE	US	au.com.bauermedia.wheels.subscriptions.6mth	 	Wheels Subscriptions_500_180	 	IAY	1	15.9	05/01/2014	05/01/2014	AUD	AU	AUD	624343157	24.99	 	SKU_Bauer_Wheels	Renewal	6 Months	Lifestyle
+APPLE	US	SKU_Bauer_Wheels	PBL MEDIA PTY LTD.	WHEELS AUSTRALIA MAGAZINE	1.0.10	7T	1	0	05/01/2014	05/01/2014	USD	PK	USD	617924139	0	 	 	 	 	Lifestyle
+APPLE	US	MAG0559	PBL MEDIA PTY LTD.	HOME Magazine NZ	1.3.8	1F	1	0	05/01/2014	05/01/2014	EUR	DE	EUR	817999055	0	 	 	 	 	Lifestyle
+APPLE	US	MAG0559	PBL MEDIA PTY LTD.	HOME Magazine NZ	1.3.8	1F	1	0	05/01/2014	05/01/2014	USD	AM	USD	817999055	0	 	 	 	 	Lifestyle
+APPLE	US	MAG0559	PBL MEDIA PTY LTD.	HOME Magazine NZ	1.3.8	1F	1	0	05/01/2014	05/01/2014	EUR	BE	EUR	817999055	0	 	 	 	 	Lifestyle
+APPLE	US	MAG0559	PBL MEDIA PTY LTD.	HOME Magazine NZ	1.3.8	1F	1	0	05/01/2014	05/01/2014	NOK	NO	NOK	817999055	0	 	 	 	 	Lifestyle
+APPLE	US	MAG0559	PBL MEDIA PTY LTD.	HOME Magazine NZ	1.3.8	1F	1	0	05/01/2014	05/01/2014	USD	JO	USD	817999055	0	 	 	 	 	Lifestyle
+APPLE	US	MAG0204.1	PBL MEDIA PTY LTD.	Empire Australasia	1.3.8	1F	1	0	05/01/2014	05/01/2014	USD	EC	USD	823231884	0	 	 	 	 	Entertainment
+APPLE	US	MAG0204.1	PBL MEDIA PTY LTD.	Empire Australasia	1.3.8	1F	1	0	05/01/2014	05/01/2014	CAD	CA	CAD	823231884	0	 	 	 	 	Entertainment
+APPLE	US	ACPGT001	PBL MEDIA PTY LTD.	Gourmet Traveller	1.10.0	7T	1	0	05/01/2014	05/01/2014	EUR	DE	EUR	374405599	0	 	 	 	 	Food & Drink
+APPLE	US	com.magshop.ns.cos.1405.1	 	Cosmopolitan 1405	 	IA1	2	4.19	05/01/2014	05/01/2014	NZD	NZ	NZD	643555161	5.99	 	MAG0958	 	 	Lifestyle
+APPLE	US	ACP011	PBL MEDIA PTY LTD.	Harper’s BAZAAR Australia Runway Report	1.6.1	7T	1	0	05/01/2014	05/01/2014	EUR	PL	EUR	448250232	0	 	 	 	 	Entertainment
+APPLE	US	REDDOSMARTER01	PBL MEDIA PTY LTD.	Smarter Business Ideas	1.3.25	1T	2	0	05/01/2014	05/01/2014	AUD	AU	AUD	567645200	0	 	 	 	 	Business
+APPLE	US	MAG0067	PBL MEDIA PTY LTD.	Australian Motorcycle News	1.3.5	7F	1	0	05/01/2014	05/01/2014	USD	US	USD	598117425	0	 	 	 	 	Sports
+APPLE	US	MAG0421	PBL MEDIA PTY LTD.	Rugby League Week	1.3.7	7F	1	0	05/01/2014	05/01/2014	USD	US	USD	505309539	0	 	 	 	 	Sports
+APPLE	US	SKU_Bauer_WeightWatchers	PBL MEDIA PTY LTD.	Weight Watchers Magazine Australia	1.0.12	7T	135	0	05/01/2014	05/01/2014	AUD	AU	AUD	646610584	0	 	 	 	 	Health & Fitness
+APPLE	US	SKUTRADER_TradeABoat	PBL MEDIA PTY LTD.	Trade-A-Boat for iPad	1.0	1T	1	0	05/01/2014	05/01/2014	EUR	DE	EUR	561365874	0	 	 	 	 	News
+APPLE	US	MAG0132	PBL MEDIA PTY LTD.	Cleo Magazine Australia	1.3.8	1F	1	0	05/01/2014	05/01/2014	SGD	SG	SGD	813461450	0	 	 	 	 	Lifestyle
+APPLE	US	MAG0031	PBL MEDIA PTY LTD.	Australasian Dirt Bike Magazine	1.3.5	1F	3	0	05/01/2014	05/01/2014	USD	US	USD	639973451	0	 	 	 	 	Sports
+APPLE	US	au.com.bauermedia.ellemag.2014.05.issue	 	Elle 2014.05 - May issue	 	IA1	10	4.13	05/01/2014	05/01/2014	AUD	AU	AUD	804310057	6.49	 	SKU_Bauer_ElleMag	 	 	Lifestyle
+APPLE	US	ACPGT001	PBL MEDIA PTY LTD.	Gourmet Traveller	1.10.0	1T	5	0	05/01/2014	05/01/2014	NZD	NZ	NZD	374405599	0	 	 	 	 	Food & Drink
+APPLE	US	ACPGT001	PBL MEDIA PTY LTD.	Gourmet Traveller	1.10.0	1T	1	0	05/01/2014	05/01/2014	CAD	CA	CAD	374405599	0	 	 	 	 	Food & Drink
+APPLE	US	ACPGT001	PBL MEDIA PTY LTD.	Gourmet Traveller	1.10.0	1T	2	0	05/01/2014	05/01/2014	MXN	MX	MXN	374405599	0	 	 	 	 	Food & Drink
+APPLE	US	com.magshop.ns.fbf.1405.1	 	4x4 1405	 	IA1	1	4.77	05/01/2014	05/01/2014	AUD	AU	AUD	645797336	7.49	 	MAG0004	 	 	Lifestyle
+APPLE	US	com.mogeneration.acp.qantasmagazine.subscriptions.free	 	QANTAS Free sub	 	IAC	1	0	05/01/2014	05/01/2014	GBP	GB	GBP	501592717	0	 	ACP016	 	 	Travel
+APPLE	US	com.magshop.ns.new.months.2.1	 	NW Subscription_300_60	 	IAY	1	11.45	05/01/2014	05/01/2014	AUD	AU	AUD	634245113	17.99	 	MAG0369	Renewal	2 Months	Entertainment
+APPLE	US	MAG0184	PBL MEDIA PTY LTD.	Dolly Magazine Australia	1.3.5	1F	2	0	05/01/2014	05/01/2014	SAR	SA	SAR	639967384	0	 	 	 	 	Lifestyle
+APPLE	US	au.com.bauermedia.wwmag.2013.10.issue	 	WW Mag 2013.10 - Oct issue	 	IA1	1	2.8	05/01/2014	05/01/2014	USD	BR	USD	646629373	3.99	 	SKU_Bauer_WeightWatchers	 	 	Health & Fitness
+APPLE	US	ACP016	PBL MEDIA PTY LTD.	QANTAS Magazine	1.3.0	1T	2	0	05/01/2014	05/01/2014	SGD	SG	SGD	501279725	0	 	 	 	 	Travel
+APPLE	US	NZ_CO_ACPMEDIA_KIAORA	PBL MEDIA PTY LTD.	KiaOra	1.6.4	1F	1	0	05/01/2014	05/01/2014	USD	PH	USD	385173690	0	 	 	 	 	Travel
+APPLE	US	MAG1755.1	PBL MEDIA PTY LTD.	Cosmopolitan Bride Magazine Australia	1.3.8	1F	3	0	05/01/2014	05/01/2014	CNY	CN	CNY	823254501	0	 	 	 	 	Lifestyle
+APPLE	US	com.magshop.ns.zoo.1419.1	 	ZOO Weekly 1419	 	IA1	1	12.6	05/01/2014	05/01/2014	HKD	HK	HKD	738259672	18	 	MAG0553	 	 	Entertainment
+APPLE	US	au.com.acpmagazines.aww.subscriptions.1year	 	AWW Paid Subscription_600_365	 	IAY	18	25.45	05/01/2014	05/01/2014	AUD	AU	AUD	471822135	39.99	 	ACP003	Renewal	1 Year	Entertainment
+APPLE	US	com.magshop.ns.aaa.1418.1	 	Auto Action 1418	 	IA1	17	3.18	05/01/2014	05/01/2014	AUD	AU	AUD	644113796	4.99	 	MAG0043	 	 	Sports
+APPLE	US	MAG0001	PBL MEDIA PTY LTD.	Magshop	2.4.1	1F	1	0	05/01/2014	05/01/2014	NZD	NZ	NZD	378036778	0	 	 	 	 	Lifestyle
+APPLE	US	MAG0053	PBL MEDIA PTY LTD.	Australian Geographic Outdoor Magazine	1.3.5	1F	5	0	05/01/2014	05/01/2014	USD	US	USD	639977537	0	 	 	 	 	Lifestyle
+APPLE	US	MAG0053	PBL MEDIA PTY LTD.	Australian Geographic Outdoor Magazine	1.3.5	1F	2	0	05/01/2014	05/01/2014	HKD	HK	HKD	639977537	0	 	 	 	 	Lifestyle
+APPLE	US	MAG0053	PBL MEDIA PTY LTD.	Australian Geographic Outdoor Magazine	1.3.5	1F	1	0	05/01/2014	05/01/2014	EUR	GR	EUR	639977537	0	 	 	 	 	Lifestyle
+APPLE	US	MAG0004	PBL MEDIA PTY LTD.	4x4 Magazine Australia	1.3.5	7F	3	0	05/01/2014	05/01/2014	AUD	AU	AUD	639975024	0	 	 	 	 	Lifestyle
+APPLE	US	com.magshop.ns.clo.1405.1	 	CLO 1405	 	IA1	1	4.19	05/01/2014	05/01/2014	NZD	NZ	NZD	833158886	5.99	 	MAG0132	 	 	Lifestyle
+APPLE	US	com.magshop.ns.shp.1207.1	 	Shop Til you Drop 1207	 	IA1	1	0	05/01/2014	05/01/2014	AUD	AU	AUD	575093456	0	FREE	MAG0430	 	 	Lifestyle
+APPLE	US	MAG0352	PBL MEDIA PTY LTD.	Money Magazine Australia	1.3.5	1F	1	0	05/01/2014	05/01/2014	NZD	NZ	NZD	574683215	0	 	 	 	 	Finance
+APPLE	US	SKUTRADER_FarmsFM	PBL MEDIA PTY LTD.	Farms and Farm Machinery for iPad	1.1	1T	1	0	05/01/2014	05/01/2014	USD	US	USD	546261992	0	 	 	 	 	News
+APPLE	US	MAG0553	PBL MEDIA PTY LTD.	ZOO Weekly Australia	1.3.5	1F	4	0	05/01/2014	05/01/2014	EUR	DE	EUR	622413964	0	 	 	 	 	Entertainment
+APPLE	US	au.com.bauermedia.ellemag.2014.04.issue	 	Elle 2014.04 - April issue	 	IA1	1	4.13	05/01/2014	05/01/2014	AUD	AU	AUD	804310258	6.49	 	SKU_Bauer_ElleMag	 	 	Lifestyle
+APPLE	US	au.com.bauermedia.wheels.subscriptions.1mth	 	Wheels Subscriptions_200_30	 	IAY	3	3.18	05/01/2014	05/01/2014	AUD	AU	AUD	624343156	4.99	 	SKU_Bauer_Wheels	Renewal	1 Month	Lifestyle
+APPLE	US	MAG0553	PBL MEDIA PTY LTD.	ZOO Weekly Australia	1.3.5	1F	4	0	05/01/2014	05/01/2014	MXN	MX	MXN	622413964	0	 	 	 	 	Entertainment
+APPLE	US	SKU_Bauer_WeightWatchers	PBL MEDIA PTY LTD.	Weight Watchers Magazine Australia	1.0.12	7T	1	0	05/01/2014	05/01/2014	EUR	ES	EUR	646610584	0	 	 	 	 	Health & Fitness
+APPLE	US	SKU_Bauer_WeightWatchers	PBL MEDIA PTY LTD.	Weight Watchers Magazine Australia	1.0.12	7T	3	0	05/01/2014	05/01/2014	ZAR	ZA	ZAR	646610584	0	 	 	 	 	Health & Fitness
+APPLE	US	SKU_Bauer_WeightWatchers	PBL MEDIA PTY LTD.	Weight Watchers Magazine Australia	1.0.12	1T	1	0	05/01/2014	05/01/2014	EUR	IE	EUR	646610584	0	 	 	 	 	Health & Fitness
+APPLE	US	com.magshop.ns.zoo.1406.1	 	ZOO Weekly 1406	 	IA1	1	1.4	05/01/2014	05/01/2014	USD	US	USD	738259601	1.99	 	MAG0553	 	 	Entertainment
+APPLE	US	au.com.acpmagazines.aww.subscriptions.6months	 	AWW Paid Subscription_500_180	 	IAY	1	11.9	05/01/2014	05/01/2014	USD	US	USD	471821269	16.99	 	ACP003	Renewal	6 Months	Entertainment
+APPLE	US	com.magshop.ns.rcp.1405.1	 	Recipes+ 1405	 	IA1	1	2.09	05/01/2014	05/01/2014	NZD	NZ	NZD	813416884	2.99	 	MAG1273	 	 	Food & Drink
+APPLE	US	com.magshop.ns.rcp.1405.1	 	Recipes+ 1405	 	IA1	15	1.9	05/01/2014	05/01/2014	AUD	AU	AUD	813416884	2.99	 	MAG1273	 	 	Food & Drink
+APPLE	US	MAG0430	PBL MEDIA PTY LTD.	Shop Til You Drop	1.3.5	7F	6	0	05/01/2014	05/01/2014	AUD	AU	AUD	574686823	0	 	 	 	 	Lifestyle
+APPLE	US	MAG0004	PBL MEDIA PTY LTD.	4x4 Magazine Australia	1.3.5	1F	1	0	05/01/2014	05/01/2014	USD	PE	USD	639975024	0	 	 	 	 	Lifestyle
+APPLE	US	MAG1755.1	PBL MEDIA PTY LTD.	Cosmopolitan Bride Magazine Australia	1.3.8	1F	4	0	05/01/2014	05/01/2014	AUD	AU	AUD	823254501	0	 	 	 	 	Lifestyle
+APPLE	US	BeautyBites_001	PBL MEDIA PTY LTD.	Beauty Bites	1.2.2	1	1	0	05/01/2014	05/01/2014	CAD	CA	CAD	684585688	0	 	 	 	 	Lifestyle
+APPLE	US	SKU_Bauer_Australian_Geographic	PBL MEDIA PTY LTD.	Australian Geographic Magazine	1.0.16	7T	2	0	05/01/2014	05/01/2014	NZD	NZ	NZD	661038898	0	 	 	 	 	Education
+APPLE	US	com.magshop.ns.new.1416.1	 	NW 1416	 	IA1	1	2.09	05/01/2014	05/01/2014	NZD	NZ	NZD	738227008	2.99	 	MAG0369	 	 	Entertainment
+APPLE	US	com.magshop.ns.gme.1406.1	 	Good Health 1406	 	IA1	17	3.81	05/01/2014	05/01/2014	AUD	AU	AUD	775599485	5.99	 	MAG0253	 	 	Health & Fitness
+APPLE	US	MAG2068	PBL MEDIA PTY LTD.	Women's Fitness Magazine Australia	1.3.5	1F	33	0	05/01/2014	05/01/2014	AUD	AU	AUD	639975696	0	 	 	 	 	Health & Fitness
+APPLE	US	com.magshop.ns.fit.months.6.1	 	Women's Fitness Magazine Australia Subscription_500_180	 	IAY	1	0	05/01/2014	05/01/2014	AUD	AU	AUD	642290333	0	 	MAG2068	New	6 Months	Health & Fitness
+APPLE	US	MAG0204.1	PBL MEDIA PTY LTD.	Empire Australasia	1.3.8	1F	1	0	05/01/2014	05/01/2014	NZD	NZ	NZD	823231884	0	 	 	 	 	Entertainment
+APPLE	US	SKU_Bauer_Australian_Geographic	PBL MEDIA PTY LTD.	Australian Geographic Magazine	1.0.16	7T	1	0	05/01/2014	05/01/2014	NOK	NO	NOK	661038898	0	 	 	 	 	Education
+APPLE	US	com.magshop.aaa.1418.1	 	Auto Action 1417	 	IA1	3	3.18	05/01/2014	05/01/2014	AUD	AU	AUD	802463024	4.99	 	MAG0001	 	 	Lifestyle
+APPLE	US	ACP003	PBL MEDIA PTY LTD.	The Australian Women's Weekly	1.10.0	7T	1	0	05/01/2014	05/01/2014	SGD	SG	SGD	384025506	0	 	 	 	 	Entertainment
+APPLE	US	SKUTRADER_Earthmovers	PBL MEDIA PTY LTD.	Earthmovers and Excavators for iPad	1.1	1T	1	0	05/01/2014	05/01/2014	EUR	FR	EUR	546261009	0	 	 	 	 	News
+APPLE	US	com.magshop.ns.shp.1309.1	 	Shop Til you Drop 1309	 	IA1	1	0	05/01/2014	05/01/2014	AUD	AU	AUD	605602690	0	FREE	MAG0430	 	 	Lifestyle
+APPLE	US	ACP_AWW_Recipes	PBL MEDIA PTY LTD.	The Australian Women's Weekly Cookbooks	2.2.1	1T	21	0	05/01/2014	05/01/2014	AUD	AU	AUD	393065903	0	 	 	 	 	Food & Drink
+APPLE	US	ACP_AWW_Recipes	PBL MEDIA PTY LTD.	The Australian Women's Weekly Cookbooks	2.2.1	1T	3	0	05/01/2014	05/01/2014	NZD	NZ	NZD	393065903	0	 	 	 	 	Food & Drink
+APPLE	US	ACP_AWW_Recipes	PBL MEDIA PTY LTD.	The Australian Women's Weekly Cookbooks	2.2.1	7T	2	0	05/01/2014	05/01/2014	EUR	DE	EUR	393065903	0	 	 	 	 	Food & Drink
+APPLE	US	com.magshop.ns.you.1407.1	 	Yours 1407	 	IA1	2	1.9	05/01/2014	05/01/2014	AUD	AU	AUD	824476189	2.99	 	MAG2414	 	 	Lifestyle
+APPLE	US	au.com.acpmagazines.aww.2014.may	 	AWW May 2014	 	IA1	1	3.49	05/01/2014	05/01/2014	SGD	SG	SGD	670870608	4.98	 	ACP003	 	 	Entertainment
+APPLE	US	com.magshop.ns.cos.months.1.1	 	Cosmopolitan Australia Subscription_200_30	 	IAY	6	0	05/01/2014	05/01/2014	AUD	AU	AUD	642292678	0	 	MAG0958	New	1 Month	Lifestyle
+APPLE	US	com.magshop.ns.zoo.1333.1	 	ZOO Weekly 1333	 	IA1	-1	23.09	05/01/2014	05/01/2014	ZAR	ZA	ZAR	664938348	-32.99	 	MAG0553	 	 	Entertainment
+APPLE	US	au.com.acpmagazines.awwrecipes.partyfood	 	Party Food	 	IA1	1	31.36	05/01/2014	05/01/2014	NOK	NO	NOK	698475088	56	 	ACP_AWW_Recipes	 	 	Food & Drink
+APPLE	US	SKU_Bauer_TopGear	PBL MEDIA PTY LTD.	TopGear Australia Magazine	1.0.9	7T	2	0	05/01/2014	05/01/2014	SGD	SG	SGD	725842093	0	 	 	 	 	Lifestyle
+APPLE	US	com.magshop.ns.dol.months.1.1	 	Dolly Magazine Australia Subscription_200_30	 	IAY	1	2.1	05/01/2014	05/01/2014	USD	US	USD	642290338	2.99	 	MAG0184	Renewal	1 Month	Lifestyle
+APPLE	US	com.magshop.ns.shp.months.1.1	 	Shop Til You Drop Subscription_200_30	 	IAY	6	3.18	05/01/2014	05/01/2014	AUD	AU	AUD	575093867	4.99	 	MAG0430	Renewal	1 Month	Lifestyle
+APPLE	US	QuickQuote	PBL MEDIA PTY LTD.	Quick Quote: Get jobs done around your home or business with Australian  House & Garden	1.0	1	5	0	05/01/2014	05/01/2014	AUD	AU	AUD	756484925	0	 	 	 	 	Lifestyle
+APPLE	US	com.magshop.ns.amw.months.1.1	 	Australian Motorcycle News Subscription_200_30	 	IAY	1	6.36	05/01/2014	05/01/2014	AUD	AU	AUD	601969729	9.99	 	MAG0067	Renewal	1 Month	Sports
+APPLE	US	au.com.bauermedia.wheels.2014.03.issue	 	Wheels 2014.03 - Mar issue	 	IA1	1	4.13	05/01/2014	05/01/2014	AUD	AU	AUD	648320815	6.49	 	SKU_Bauer_Wheels	 	 	Lifestyle
+APPLE	US	MAG0958	PBL MEDIA PTY LTD.	Cosmopolitan Australia	1.4.0	1F	1	0	05/01/2014	05/01/2014	RUB	RU	RUB	639978764	0	 	 	 	 	Lifestyle
+APPLE	US	au.com.acpmagazines.gourmettraveller.subscriptions.1month	 	GT Paid Subscription_200_30	 	IAY	1	2.8	05/01/2014	05/01/2014	USD	US	USD	471832348	3.99	 	ACPGT001	Renewal	1 Month	Food & Drink
+APPLE	US	com.magshop.ns.wdw.1409.1	 	Woman's Day 1409	 	IA1	1	1.9	05/01/2014	05/01/2014	AUD	AU	AUD	797232962	2.99	 	MAG0536	 	 	Entertainment
+APPLE	US	MAG0204.1	PBL MEDIA PTY LTD.	Empire Australasia	1.3.8	1F	1	0	05/01/2014	05/01/2014	EUR	DE	EUR	823231884	0	 	 	 	 	Entertainment
+APPLE	US	com.magshop.okm.1417.1	 	OK! 1417	 	IA1	1	2.41	05/01/2014	05/01/2014	AUD	AU	AUD	797853210	3.79	 	MAG0001	 	 	Lifestyle
+APPLE	US	com.magshop.ns.shp.months.1.1	 	Shop Til You Drop Subscription_200_30	 	IAY	1	2.8	05/01/2014	05/01/2014	CAD	CA	CAD	575093867	3.99	 	MAG0430	Renewal	1 Month	Lifestyle
+APPLE	US	com.magshop.adb.1312.1	 	Australian Dirt Bike 2013-12	 	IA1	1	5.72	05/01/2014	05/01/2014	AUD	AU	AUD	603377072	8.99	 	MAG0001	 	 	Lifestyle
+APPLE	US	MAG0067	PBL MEDIA PTY LTD.	Australian Motorcycle News	1.3.5	1F	7	0	05/01/2014	05/01/2014	CNY	CN	CNY	598117425	0	 	 	 	 	Sports
+APPLE	US	MAG0559	PBL MEDIA PTY LTD.	HOME Magazine NZ	1.3.8	1F	1	0	05/01/2014	05/01/2014	AUD	AU	AUD	817999055	0	 	 	 	 	Lifestyle
+APPLE	US	SKU_Bauer_TopGear	PBL MEDIA PTY LTD.	TopGear Australia Magazine	1.0.9	1T	1	0	05/01/2014	05/01/2014	NZD	NZ	NZD	725842093	0	 	 	 	 	Lifestyle
+APPLE	US	MAG0553	PBL MEDIA PTY LTD.	ZOO Weekly Australia	1.3.5	1F	9	0	05/01/2014	05/01/2014	NZD	NZ	NZD	622413964	0	 	 	 	 	Entertainment
+APPLE	US	MAG0553	PBL MEDIA PTY LTD.	ZOO Weekly Australia	1.3.5	1F	2	0	05/01/2014	05/01/2014	JPY	JP	JPY	622413964	0	 	 	 	 	Entertainment
+APPLE	US	BAU001	PBL MEDIA PTY LTD.	ELLE Australia: The Pulse	1.3	1	2	0	05/01/2014	05/01/2014	AUD	AU	AUD	694546352	0	 	 	 	 	Lifestyle
+APPLE	US	au.com.acpmagazines.aww.2014.may	 	AWW May 2014	 	IA1	47	3.81	05/01/2014	05/01/2014	AUD	AU	AUD	670870608	5.99	 	ACP003	 	 	Entertainment
+APPLE	US	com.magshop.rlw.1418.1	 	Rugby League Week 1418	 	IA1	4	3.18	05/01/2014	05/01/2014	AUD	AU	AUD	737568079	4.99	 	MAG0001	 	 	Lifestyle
+APPLE	US	MAG0253	PBL MEDIA PTY LTD.	Good Health Magazine	1.3.5	1F	1	0	05/01/2014	05/01/2014	USD	KW	USD	574688852	0	 	 	 	 	Health & Fitness
+APPLE	US	MAG0253	PBL MEDIA PTY LTD.	Good Health Magazine	1.3.5	1F	13	0	05/01/2014	05/01/2014	SGD	SG	SGD	574688852	0	 	 	 	 	Health & Fitness
+APPLE	US	MAG0253	PBL MEDIA PTY LTD.	Good Health Magazine	1.3.5	1F	12	0	05/01/2014	05/01/2014	USD	PH	USD	574688852	0	 	 	 	 	Health & Fitness
+APPLE	US	MAG0355	PBL MEDIA PTY LTD.	MOTOR Magazine Australia	1.3.5	1F	1	0	05/01/2014	05/01/2014	TRY	TR	TRY	639976688	0	 	 	 	 	Lifestyle
+APPLE	US	MAG0369	PBL MEDIA PTY LTD.	NW Magazine	1.3.5	1F	1	0	05/01/2014	05/01/2014	ILS	IL	ILS	574650057	0	 	 	 	 	Entertainment
+APPLE	US	MAG0369	PBL MEDIA PTY LTD.	NW Magazine	1.3.5	1F	1	0	05/01/2014	05/01/2014	EUR	FR	EUR	574650057	0	 	 	 	 	Entertainment
+APPLE	US	com.magshop.ns.zoo.1415.1	 	ZOO Weekly 1415	 	IA1	1	1.9	05/01/2014	05/01/2014	AUD	AU	AUD	738259656	2.99	 	MAG0553	 	 	Entertainment
+APPLE	US	SKUTRADER_TradeABoat	PBL MEDIA PTY LTD.	Trade-A-Boat for iPad	1.0	1T	1	0	05/01/2014	05/01/2014	AUD	AU	AUD	561365874	0	 	 	 	 	News
+APPLE	US	MAG0184	PBL MEDIA PTY LTD.	Dolly Magazine Australia	1.3.5	1F	15	0	05/01/2014	05/01/2014	NZD	NZ	NZD	639967384	0	 	 	 	 	Lifestyle
+APPLE	US	MAG0559	PBL MEDIA PTY LTD.	HOME Magazine NZ	1.3.8	1F	1	0	05/01/2014	05/01/2014	EUR	LV	EUR	817999055	0	 	 	 	 	Lifestyle
+APPLE	US	MAG0559	PBL MEDIA PTY LTD.	HOME Magazine NZ	1.3.8	1F	1	0	05/01/2014	05/01/2014	USD	PK	USD	817999055	0	 	 	 	 	Lifestyle
+APPLE	US	MAG0559	PBL MEDIA PTY LTD.	HOME Magazine NZ	1.3.8	1F	3	0	05/01/2014	05/01/2014	TRY	TR	TRY	817999055	0	 	 	 	 	Lifestyle
+APPLE	US	MAG0204.1	PBL MEDIA PTY LTD.	Empire Australasia	1.3.8	1F	1	0	05/01/2014	05/01/2014	USD	US	USD	823231884	0	 	 	 	 	Entertainment
+APPLE	US	ACPGT001	PBL MEDIA PTY LTD.	Gourmet Traveller	1.10.0	1T	1	0	05/01/2014	05/01/2014	EUR	FR	EUR	374405599	0	 	 	 	 	Food & Drink
+APPLE	US	ACPGT001	PBL MEDIA PTY LTD.	Gourmet Traveller	1.10.0	7T	1	0	05/01/2014	05/01/2014	ZAR	ZA	ZAR	374405599	0	 	 	 	 	Food & Drink
+APPLE	US	ACPGT001	PBL MEDIA PTY LTD.	Gourmet Traveller	1.10.0	1T	1	0	05/01/2014	05/01/2014	DKK	DK	DKK	374405599	0	 	 	 	 	Food & Drink
+APPLE	US	ACP011	PBL MEDIA PTY LTD.	Harper’s BAZAAR Australia Runway Report	1.6.1	7T	1	0	05/01/2014	05/01/2014	EUR	FR	EUR	448250232	0	 	 	 	 	Entertainment
+APPLE	US	ACP011	PBL MEDIA PTY LTD.	Harper’s BAZAAR Australia Runway Report	1.6.1	7T	1	0	05/01/2014	05/01/2014	USD	MN	USD	448250232	0	 	 	 	 	Entertainment
+APPLE	US	com.magshop.ns.wdw.months.2.1	 	Woman's Day Subscription_300_60	 	IAY	2	0	05/01/2014	05/01/2014	AUD	AU	AUD	547528606	0	 	MAG0536	New	2 Months	Entertainment
+APPLE	US	com.magshop.ns.fit.months.1.1	 	Women's Fitness Magazine Australia Subscription_200_30	 	IAY	1	0	05/01/2014	05/01/2014	AUD	AU	AUD	642290332	0	 	MAG2068	New	1 Month	Health & Fitness
+APPLE	US	MAG0067	PBL MEDIA PTY LTD.	Australian Motorcycle News	1.3.5	1F	2	0	05/01/2014	05/01/2014	USD	BR	USD	598117425	0	 	 	 	 	Sports
+APPLE	US	MAG0421	PBL MEDIA PTY LTD.	Rugby League Week	1.3.7	7F	1	0	05/01/2014	05/01/2014	USD	PG	USD	505309539	0	 	 	 	 	Sports
+APPLE	US	MAG0421	PBL MEDIA PTY LTD.	Rugby League Week	1.3.7	7F	1	0	05/01/2014	05/01/2014	EUR	IT	EUR	505309539	0	 	 	 	 	Sports
+APPLE	US	MAG0421	PBL MEDIA PTY LTD.	Rugby League Week	1.3.7	1F	24	0	05/01/2014	05/01/2014	NZD	NZ	NZD	505309539	0	 	 	 	 	Sports
+APPLE	US	au.com.bauermedia.wheels.2014.01.issue	 	Wheels 2014.01 - Jan issue	 	IA1	1	4.13	05/01/2014	05/01/2014	AUD	AU	AUD	648319566	6.49	 	SKU_Bauer_Wheels	 	 	Lifestyle
+APPLE	US	ACPGT001	PBL MEDIA PTY LTD.	Gourmet Traveller	1.10.0	7T	1	0	05/01/2014	05/01/2014	MXN	MX	MXN	374405599	0	 	 	 	 	Food & Drink
+APPLE	US	ACPGT001	PBL MEDIA PTY LTD.	Gourmet Traveller	1.10.0	1T	1	0	05/01/2014	05/01/2014	USD	AR	USD	374405599	0	 	 	 	 	Food & Drink
+APPLE	US	com.magshop.ns.gme.1406.1	 	Good Health 1406	 	IA1	1	3.49	05/01/2014	05/01/2014	SGD	SG	SGD	775599485	4.98	 	MAG0253	 	 	Health & Fitness
+APPLE	US	com.magshop.ns.rol.1405.1	 	Rolling Stone 1405	 	IA1	2	3.81	05/01/2014	05/01/2014	AUD	AU	AUD	645397631	5.99	 	MAG0420	 	 	Music
+APPLE	US	MAG0184	PBL MEDIA PTY LTD.	Dolly Magazine Australia	1.3.5	1F	3	0	05/01/2014	05/01/2014	EUR	IT	EUR	639967384	0	 	 	 	 	Lifestyle
+APPLE	US	MAG1755.1	PBL MEDIA PTY LTD.	Cosmopolitan Bride Magazine Australia	1.3.8	1F	1	0	05/01/2014	05/01/2014	USD	KR	USD	823254501	0	 	 	 	 	Lifestyle
+APPLE	US	MAG2414	PBL MEDIA PTY LTD.	Yours Magazine Australia	1.3.8	1F	2	0	05/01/2014	05/01/2014	USD	US	USD	813441022	0	 	 	 	 	Lifestyle
+APPLE	US	SKU_Bauer_HNG	PBL MEDIA PTY LTD.	Australian House & Garden Magazine	1.0.10	7T	1	0	05/01/2014	05/01/2014	HKD	HK	HKD	735558949	0	 	 	 	 	Lifestyle
+APPLE	US	SKU_Bauer_HNG	PBL MEDIA PTY LTD.	Australian House & Garden Magazine	1.0.10	1T	1	0	05/01/2014	05/01/2014	USD	MY	USD	735558949	0	 	 	 	 	Lifestyle
+APPLE	US	ACP_AWW_Recipes	PBL MEDIA PTY LTD.	The Australian Women's Weekly Cookbooks	2.2.1	7T	2	0	05/01/2014	05/01/2014	USD	KR	USD	393065903	0	 	 	 	 	Food & Drink
+APPLE	US	MAG0053	PBL MEDIA PTY LTD.	Australian Geographic Outdoor Magazine	1.3.5	1F	1	0	05/01/2014	05/01/2014	EUR	ES	EUR	639977537	0	 	 	 	 	Lifestyle
