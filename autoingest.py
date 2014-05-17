@@ -20,7 +20,7 @@
 # OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 # THE SOFTWARE.
 
-import httplib, urllib, sys, argparse, getpass
+import httplib, urllib, sys, argparse, getpass,gzip
 from datetime import datetime
 from datetime import timedelta
 
@@ -48,6 +48,7 @@ parser.add_argument('--datetype', default='Daily', choices=['Daily', 'Weekly'], 
 parser.add_argument('--subtype', default='Summary', choices=['Summary', 'Opt-In'], help='This is the parameter for the Sales Reports.')
 parser.add_argument('--date', metavar='YYYYMMDD', default='today', type=report_date, help='This is the date of report you are requesting. If the value for Date parameter is not provided, you will get the latest report available.')
 parser.add_argument('--output',default='./', help='Specifies the output directory.  The default is current directory.')
+parser.add_argument('--gunzip', help='Gunzips (unpacks) the file if specified.',action="store_true")
 
 res = parser.parse_args()
 
@@ -79,6 +80,15 @@ if errormsg is None and response.status == httplib.OK:
     f.write(data)
     f.close()
     print ("downloaded %s" % filename)
+
+    if res.gunzip:
+    	filename_gunzipped = filename[:-3]
+        f_in = gzip.open(filename,'rb')
+        f_out = open(filename_gunzipped,'wb')
+        content = f_in.read()    
+        f_out.write(content)
+        f_out.close()
+        print ("gunzipped %s" % filename_gunzipped)
 
 elif errormsg is not None:
     print errormsg
